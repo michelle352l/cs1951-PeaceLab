@@ -1,0 +1,23 @@
+Air-to-air
+AAM
+Air-to-surface
+ASM
+Surface-to-air
+SAM
+Surface-to-surface
+SSM
+Ballistic
+Intercontinental
+ICBM
+Submarine-launched
+SLBM
+Cruise
+SLCM
+Anti-ship
+Long-range
+Fractional Orbital Bombardment
+FOBS
+SRBM
+MRBM
+man-portable
+subsonic

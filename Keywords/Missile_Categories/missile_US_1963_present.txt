@@ -1,0 +1,160 @@
+[asu]{1}[asm]{1}[m]{1}( |-)[agn]{1}[-]{1}[1-9]{1}[1-9]{0-1}
+Matador
+Honest John
+Terrier
+Little John
+Nike-Ajax
+Falcon
+Corporal
+Regulus
+Sparrow
+Sea Sparrow
+POLE-015 0-MAN
+Talos
+Sidewinder
+Bomarc
+Redstone
+Bullpup
+Mace
+Nike-Hercules
+Regulus II
+Atlas
+Thor
+Lacrosse
+Jupiter
+Quail
+Hawk
+Tartar
+Titan
+Falcon
+Polaris
+Hound Dog
+Sergeant
+Minuteman
+Pershing
+Entac
+Firebee
+Shelduck
+Jayhawk
+Cardinal
+Firefly
+Petrel
+Redhead
+Roadrunner
+Redeye
+SUBROC
+Shrike
+Mauler
+Falcon
+Skybolt
+Nike Zeus
+Spartan
+Typhon LR
+Shillelagh
+Lance
+Condor
+Phoenix
+Typhon MR
+Falconer
+Overseer
+Taurus
+Kingfisher
+Cardinal
+Walleye
+Hornet
+Maverick
+Standard
+MR SM-2
+Standard
+ER SM-2
+Big Q
+SRAM
+Minuteman 
+TOW
+Chaparral
+Poseidon
+Chukar
+Falcon
+Dragon
+Standard
+ARM
+Blue Eye
+Viper
+Firebolt
+Bulldog
+Harpoon
+Focus
+HARM
+Perseus
+ASMT
+Firefly
+Stinger
+Compass Dwell
+B-Gull
+Agile
+Trident I
+Seekbat
+Tern-R
+Delta Dagger
+Thunderbolt
+Patriot
+Aquila
+Teleplane
+Streaker
+VATOL
+Tomahawk
+SLCM
+Firebrand
+SIRCS
+Hellfire
+Roland
+RAM
+RCMAT
+Peacekeeper
+AMRAAM
+Pave Tiger
+Seek Spinner
+Sidearm
+Skipper
+Wasp
+Sea Lance
+SLAT
+ACM
+Ripper
+SRAM II
+ASRAAM
+Trident II
+Midgetman
+ASAT
+Tacit Rainbow
+TSSAM
+Pave Cricket
+VL-ASROC
+ATACMS
+TALD
+RPVT
+Peregrine
+ADATS
+Exdrone
+Javelin
+UAV-SR
+Pointer
+AAAM
+JSOW
+Hunter
+SM-2ER Block IV
+EFOGM
+JASSM
+MALD
+SM-3
+ESSM
+Coyote
+ATACMS II
+LASM
+LOSAT
+Skeeter
+ATAMCS Block IVA
+JCM
+Outlaw
+SRAW
+JAGM

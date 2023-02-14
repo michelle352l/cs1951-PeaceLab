@@ -1,0 +1,25 @@
+Saeghe( |-)[1-9]{1}[1-9]{0-1}[1-9]{0-1}
+Fajr( |-)[1-9]{1}[1-9]{0-1}[1-9]{0-1}
+Ghadr( |-)[1-9]{1}[1-9]{0-1}[1-9]{0-1}
+Shahin
+R-17E
+SS-N-22
+Sunburn
+SS-NX-26
+Raduga
+X-55
+Emad
+Shabab( |-)[1-9]{1}[1-9]{0-1}[1-9]{0-1}
+Ghadr( |-)[1-9]{1}[1-9]{0-1}[1-9]{0-1}
+Fateh( |-)[1-9]{1}[1-9]{0-1}[1-9]{0-1}
+Khorramshahr
+Koksan
+Qiam
+Ra’ad
+Safir
+Sejjil
+Simorgh
+Soumar
+Tondar-69
+Ya-Ali
+Zolfaghar
