@@ -1,0 +1,1531 @@
+Deal ID;Seller;Buyer;Designation;Description;Armament category;Order date;Order date is estimate;Numbers delivered;Numbers delivered is estimate;Delivery year;Delivery year is estimate;Status;SIPRI estimate;TIV deal unit;TIV delivery values;Local production
+57734;United States;Singapore;F-15E Strike Eagle;FGA aircraft;Aircraft;2014;Yes;7;Yes;2016;No;New;70.0000;70.0000;490;No
+65065;United States;El Salvador;Baron;light transport ac;Aircraft;2017;No;1;No;2017;No;New;0.7000;0.7000;0.7;No
+52390;United States;Thailand;APG-68;combat ac radar;Sensors;2012;No;3;Yes;2017;No;New;2.0000;2.0000;6;No
+52390;United States;Thailand;APG-68;combat ac radar;Sensors;2012;No;5;Yes;2016;No;New;2.0000;2.0000;10;No
+54492;United States;Italy;F-35B Lightning-2;FGA aircraft;Aircraft;2006;Yes;1;No;2021;No;New;60.0000;60.0000;60;Yes
+54492;United States;Italy;F-35B Lightning-2;FGA aircraft;Aircraft;2006;Yes;1;No;2020;No;New;60.0000;60.0000;60;Yes
+54492;United States;Italy;F-35B Lightning-2;FGA aircraft;Aircraft;2006;Yes;1;No;2019;No;New;60.0000;60.0000;60;Yes
+54492;United States;Italy;F-35B Lightning-2;FGA aircraft;Aircraft;2006;Yes;1;No;2018;No;New;60.0000;60.0000;60;Yes
+61822;United States;Mexico;Cessna-208 Caravan;light transport ac;Aircraft;2018;Yes;1;No;2018;Yes;New;1.0000;1.0000;1;No
+63951;United States;Australia;GBU-39 SDB;guided bomb;Missiles;2016;Yes;250;Yes;2021;No;New;0.0200;0.0200;5;No
+63951;United States;Australia;GBU-39 SDB;guided bomb;Missiles;2016;Yes;250;Yes;2020;No;New;0.0200;0.0200;5;No
+63951;United States;Australia;GBU-39 SDB;guided bomb;Missiles;2016;Yes;100;Yes;2019;No;New;0.0200;0.0200;2;No
+61825;United States;Brazil;M-88;ARV;Armoured vehicles;2018;No;4;No;2019;No;Second hand;1.5000;0.6;2.4;No
+61828;United States;Brazil;J52;turbojet;Engines;2017;Yes;10;No;2017;No;Second hand;1.1000;0.44;4.4;No
+61824;United States;Senegal;ISC;diesel engine;Engines;2017;Yes;25;Yes;2018;Yes;New;0.0400;0.0400;1;No
+61832;United States;Qatar;ISB6.7;diesel engine;Engines;2018;No;35;Yes;2019;No;New;0.0400;0.0400;1.4;No
+61184;United States;Philippines;ScanEagle;UAV;Aircraft;2017;No;6;No;2018;No;New;0.0400;0.0400;0.24;No
+59049;United States;Iraq;AIM-7M Sparrow;BVRAAM;Missiles;2011;Yes;102;Yes;2016;No;New;0.1800;0.1800;18.36;No
+39073;United States;United Kingdom;T-800;turboshaft;Engines;2006;Yes;28;Yes;2016;No;New;0.8000;0.8000;22.4;No
+61838;United States;France;AE-2100;turboprop;Engines;2016;Yes;1;Yes;2020;Yes;New;1.5000;1.5000;1.5;No
+61838;United States;France;AE-2100;turboprop;Engines;2016;Yes;1;Yes;2017;Yes;New;1.5000;1.5000;1.5;No
+61838;United States;France;AE-2100;turboprop;Engines;2016;Yes;1;Yes;2019;Yes;New;1.5000;1.5000;1.5;No
+61838;United States;France;AE-2100;turboprop;Engines;2016;Yes;1;Yes;2018;Yes;New;1.5000;1.5000;1.5;No
+59053;United States;Iraq;AIM-9L Sidewinder;SRAAM;Missiles;2013;Yes;50;Yes;2017;Yes;New;0.1100;0.1100;5.5;No
+59053;United States;Iraq;AIM-9L Sidewinder;SRAAM;Missiles;2013;Yes;50;Yes;2016;Yes;New;0.1100;0.1100;5.5;No
+57232;United States;Qatar;FGM-148 Javelin;anti-tank missile;Missiles;2014;No;250;Yes;2017;Yes;New;0.0300;0.0300;7.5;No
+57232;United States;Qatar;FGM-148 Javelin;anti-tank missile;Missiles;2014;No;250;Yes;2016;Yes;New;0.0300;0.0300;7.5;No
+59054;United States;Iraq;AIM-7M Sparrow;BVRAAM;Missiles;2013;Yes;75;Yes;2017;Yes;New;0.1800;0.1800;13.5;No
+59054;United States;Iraq;AIM-7M Sparrow;BVRAAM;Missiles;2013;Yes;75;Yes;2016;Yes;New;0.1800;0.1800;13.5;No
+59055;United States;Iraq;Paveway;guided bomb;Missiles;2013;Yes;150;Yes;2017;Yes;New;0.0200;0.0200;3;No
+59055;United States;Iraq;Paveway;guided bomb;Missiles;2013;Yes;150;Yes;2016;Yes;New;0.0200;0.0200;3;No
+59056;United States;Iraq;AGM-65 Maverick;ASM;Missiles;2013;Yes;50;Yes;2016;Yes;New;0.1500;0.1500;7.5;No
+58082;United States;Australia;AGM-88E AARGM;ARM;Missiles;2015;No;8;Yes;2017;Yes;New;0.6000;0.6000;4.8;No
+58082;United States;Australia;AGM-88E AARGM;ARM;Missiles;2015;No;8;Yes;2016;Yes;New;0.6000;0.6000;4.8;No
+61516;United States;Japan;T56;turboprop;Engines;2015;Yes;1;Yes;2020;Yes;New;1.4000;1.4000;1.4;No
+61516;United States;Japan;T56;turboprop;Engines;2015;Yes;1;Yes;2019;Yes;New;1.4000;1.4000;1.4;No
+56947;United States;Japan;V-22 Osprey;transport ac/helicopter;Aircraft;2015;No;2;Yes;2021;Yes;New;40.0000;40.0000;80;No
+56947;United States;Japan;V-22 Osprey;transport ac/helicopter;Aircraft;2015;No;2;Yes;2018;Yes;New;40.0000;40.0000;80;No
+56947;United States;Japan;V-22 Osprey;transport ac/helicopter;Aircraft;2015;No;3;Yes;2019;No;New;40.0000;40.0000;120;No
+55166;United States;Sweden;F414;turbofan;Engines;2013;Yes;2;Yes;2021;No;New;2.5000;2.5000;5;No
+59130;United States;Bahrain;GMLRS;guided rocket;Missiles;2015;No;24;Yes;2017;Yes;New;0.0800;0.0800;1.92;No
+63002;United States;Bosnia-Herzegovina;UH-1H Huey-2;helicopter;Aircraft;2019;No;4;No;2021;No;New;3.1000;3.1000;12.4;No
+59469;United States;Taiwan;FGM-148 Javelin;anti-tank missile;Missiles;2017;No;208;Yes;2020;Yes;New;0.0300;0.0300;6.24;No
+25526;United States;Norway;F-35A Lightning-2;FGA aircraft;Aircraft;2008;Yes;6;Yes;2021;No;New;55.0000;55.0000;330;Yes
+25526;United States;Norway;F-35A Lightning-2;FGA aircraft;Aircraft;2008;Yes;6;No;2020;No;New;55.0000;55.0000;330;Yes
+25526;United States;Norway;F-35A Lightning-2;FGA aircraft;Aircraft;2008;Yes;6;No;2019;No;New;55.0000;55.0000;330;Yes
+25526;United States;Norway;F-35A Lightning-2;FGA aircraft;Aircraft;2008;Yes;6;No;2018;No;New;55.0000;55.0000;330;Yes
+25526;United States;Norway;F-35A Lightning-2;FGA aircraft;Aircraft;2008;Yes;6;No;2017;No;New;55.0000;55.0000;330;Yes
+25526;United States;Norway;F-35A Lightning-2;FGA aircraft;Aircraft;2008;Yes;2;No;2016;No;New;55.0000;55.0000;110;Yes
+59146;United States;Zambia;AE-2100;turboprop;Engines;2015;No;4;No;2019;No;New;1.5000;1.5000;6;No
+59150;United States;Canada;M-1156 PGK;guided shell;Missiles;2013;Yes;250;Yes;2018;Yes;New;0.0300;0.0300;7.5;No
+59150;United States;Canada;M-1156 PGK;guided shell;Missiles;2013;Yes;500;Yes;2017;Yes;New;0.0300;0.0300;15;No
+59150;United States;Canada;M-1156 PGK;guided shell;Missiles;2013;Yes;250;Yes;2016;Yes;New;0.0300;0.0300;7.5;No
+59149;United States;Australia;M-1156 PGK;guided shell;Missiles;2013;Yes;1330;Yes;2018;Yes;New;0.0300;0.0300;39.9;No
+59149;United States;Australia;M-1156 PGK;guided shell;Missiles;2013;Yes;1342;Yes;2017;No;New;0.0300;0.0300;40.26;No
+59149;United States;Australia;M-1156 PGK;guided shell;Missiles;2013;Yes;1330;Yes;2016;No;New;0.0300;0.0300;39.9;No
+59151;United States;United Kingdom;Paveway;guided bomb;Missiles;2015;No;375;Yes;2017;Yes;New;0.0200;0.0200;7.5;No
+59151;United States;United Kingdom;Paveway;guided bomb;Missiles;2015;No;375;Yes;2016;Yes;New;0.0200;0.0200;7.5;No
+52505;United States;Saudi Arabia;AGM-88 HARM;ARM;Missiles;2011;Yes;100;Yes;2021;Yes;New;0.2500;0.2500;25;No
+52505;United States;Saudi Arabia;AGM-88 HARM;ARM;Missiles;2011;Yes;100;Yes;2020;Yes;New;0.2500;0.2500;25;No
+52505;United States;Saudi Arabia;AGM-88 HARM;ARM;Missiles;2011;Yes;100;Yes;2019;Yes;New;0.2500;0.2500;25;No
+52505;United States;Saudi Arabia;AGM-88 HARM;ARM;Missiles;2011;Yes;100;Yes;2018;Yes;New;0.2500;0.2500;25;No
+61867;United States;New Zealand;King Air;light transport ac;Aircraft;2017;No;1;Yes;2020;No;New;2.8500;2.8500;2.85;No
+61867;United States;New Zealand;King Air;light transport ac;Aircraft;2017;No;1;Yes;2019;Yes;New;2.8500;2.8500;2.85;No
+61867;United States;New Zealand;King Air;light transport ac;Aircraft;2017;No;2;Yes;2018;No;New;2.8500;2.8500;5.7;No
+56853;United States;Oman;AIM-120C AMRAAM;BVRAAM;Missiles;2013;Yes;145;Yes;2017;No;New;0.6000;0.6000;87;No
+56853;United States;Oman;AIM-120C AMRAAM;BVRAAM;Missiles;2013;Yes;145;Yes;2016;Yes;New;0.6000;0.6000;87;No
+40212;United States;Kuwait;MIM-104F PAC-3;ABM;Missiles;2013;No;20;Yes;2016;Yes;New;1.0000;1.0000;20;No
+61539;United States;Iraq;HMMWV Up-Armoured;APV;Armoured vehicles;2017;No;134;No;2017;No;New;0.1400;0.1400;18.76;No
+59102;United States;Thailand;F404;turbofan;Engines;2015;No;4;Yes;2018;No;New;2.2000;2.2000;8.8;No
+59164;United States;Latvia;MPQ-64 Sentinel;air search radar;Sensors;2015;No;4;No;2016;No;New;5.0000;5.0000;20;No
+64162;United States;Pakistan;Cessna-208 Caravan;light transport ac;Aircraft;2019;Yes;2;No;2020;No;New;1.0000;1.0000;2;No
+59170;United States;Japan;AIM-9X Sidewinder;BVRAAM;Missiles;2014;No;9;Yes;2016;Yes;New;0.1800;0.1800;1.62;No
+59170;United States;Japan;AIM-9X Sidewinder;BVRAAM;Missiles;2014;No;8;Yes;2018;Yes;New;0.1800;0.1800;1.44;No
+59170;United States;Japan;AIM-9X Sidewinder;BVRAAM;Missiles;2014;No;9;Yes;2017;Yes;New;0.1800;0.1800;1.62;No
+61903;United States;Japan;Caterpillar-3126;diesel engine;Engines;2017;Yes;4;No;2018;No;New;0.0400;0.0400;0.16;No
+55792;United States;Colombia;UH-1H Huey-2;helicopter;Aircraft;2011;No;2;Yes;2020;No;New;3.1000;3.1000;6.2;No
+55792;United States;Colombia;UH-1H Huey-2;helicopter;Aircraft;2011;No;2;Yes;2019;Yes;New;3.1000;3.1000;6.2;No
+55792;United States;Colombia;UH-1H Huey-2;helicopter;Aircraft;2011;No;1;Yes;2018;Yes;New;3.1000;3.1000;3.1;No
+55792;United States;Colombia;UH-1H Huey-2;helicopter;Aircraft;2011;No;1;Yes;2017;No;New;3.1000;3.1000;3.1;No
+55792;United States;Colombia;UH-1H Huey-2;helicopter;Aircraft;2011;No;1;Yes;2016;No;New;3.1000;3.1000;3.1;No
+61910;United States;Netherlands;Caterpillar-3126;diesel engine;Engines;2015;No;8;Yes;2017;Yes;New;0.0400;0.0400;0.32;No
+61910;United States;Netherlands;Caterpillar-3126;diesel engine;Engines;2015;No;4;No;2016;No;New;0.0400;0.0400;0.16;No
+59193;United States;Kenya;ScanEagle;UAV;Aircraft;2015;No;2;Yes;2016;Yes;New;0.0400;0.0400;0.08;No
+59194;United States;Cameroon;ScanEagle;UAV;Aircraft;2015;No;2;Yes;2016;Yes;New;0.0400;0.0400;0.08;No
+63257;United States;Colombia;UH-1H Huey-2;helicopter;Aircraft;2020;Yes;5;No;2021;No;Second hand;3.1000;1.24;6.2;No
+59202;United States;Netherlands;AAQ-33 Sniper;aircraft EO system;Sensors;2015;No;14;Yes;2017;Yes;New;1.0000;1.0000;14;No
+59202;United States;Netherlands;AAQ-33 Sniper;aircraft EO system;Sensors;2015;No;15;Yes;2016;No;New;1.0000;1.0000;15;No
+36203;United States;Italy;GMLRS;guided rocket;Missiles;2012;No;200;Yes;2017;Yes;New;0.0800;0.0800;16;Yes
+36203;United States;Italy;GMLRS;guided rocket;Missiles;2012;No;200;Yes;2016;Yes;New;0.0800;0.0800;16;Yes
+52046;United States;Indonesia;F-16C;FGA aircraft;Aircraft;2012;No;10;No;2017;No;Second hand but modernized;28.5000;18.81;188.1;No
+52046;United States;Indonesia;F-16C;FGA aircraft;Aircraft;2012;No;5;Yes;2016;No;Second hand but modernized;28.5000;18.81;94.05;No
+34649;United States;Finland;AIM-120C AMRAAM;BVRAAM;Missiles;2008;No;90;Yes;2016;Yes;New;0.6000;0.6000;54;No
+60239;United States;Jordan;AGM-114K HELLFIRE;anti-tank missile;Missiles;2017;No;70;Yes;2019;Yes;New;0.0500;0.0500;3.5;No
+60239;United States;Jordan;AGM-114K HELLFIRE;anti-tank missile;Missiles;2017;No;30;Yes;2018;Yes;New;0.0500;0.0500;1.5;No
+61912;United States;Netherlands;Caterpillar-3126;diesel engine;Engines;2016;Yes;8;Yes;2017;Yes;New;0.0400;0.0400;0.32;No
+38218;United States;Australia;MH-60R Seahawk;ASW helicopter;Aircraft;2011;No;7;No;2016;No;New;18.0000;18.0000;126;No
+60445;United States;Afghanistan;S-70/UH-60A;helicopter;Aircraft;2016;No;3;Yes;2020;No;Second hand but modernized;6.5000;4.29;12.87;No
+60445;United States;Afghanistan;S-70/UH-60A;helicopter;Aircraft;2016;No;19;Yes;2019;No;Second hand but modernized;6.5000;4.29;81.51;No
+60445;United States;Afghanistan;S-70/UH-60A;helicopter;Aircraft;2016;No;27;Yes;2018;No;Second hand but modernized;6.5000;4.29;115.83;No
+60445;United States;Afghanistan;S-70/UH-60A;helicopter;Aircraft;2016;No;4;No;2017;No;Second hand but modernized;6.5000;4.29;17.16;No
+61555;United States;Mexico;Harpoon Block-2;anti-ship missile/SSM;Missiles;2017;Yes;6;Yes;2020;Yes;New;1.0000;1.0000;6;No
+64821;United States;Turkey;ISL;diesel engine;Engines;2016;No;100;Yes;2021;No;New;0.0400;0.0400;4;No
+64821;United States;Turkey;ISL;diesel engine;Engines;2016;No;50;Yes;2020;No;New;0.0400;0.0400;2;No
+61557;United States;Mexico;Mk-54 MAKO 324mm;ASW torpedo;Missiles;2017;Yes;6;No;2020;Yes;New;0.5000;0.5000;3;No
+58817;United States;Israel;GBU-39 SDB;guided bomb;Missiles;2017;Yes;1000;Yes;2021;Yes;New;0.0200;0.0200;20;No
+58817;United States;Israel;GBU-39 SDB;guided bomb;Missiles;2017;Yes;1000;Yes;2020;Yes;New;0.0200;0.0200;20;No
+58817;United States;Israel;GBU-39 SDB;guided bomb;Missiles;2017;Yes;936;No;2019;No;New;0.0200;0.0200;18.72;No
+58817;United States;Israel;GBU-39 SDB;guided bomb;Missiles;2017;Yes;250;Yes;2018;Yes;New;0.0200;0.0200;5;No
+63220;United States;Djibouti;HMMWV Up-Armoured;APV;Armoured vehicles;2018;No;54;No;2019;No;New;0.1400;0.1400;7.56;No
+57382;United States;Germany;LM-2500;gas turbine;Engines;2007;Yes;1;No;2021;No;New;7.0000;7.0000;7;No
+57382;United States;Germany;LM-2500;gas turbine;Engines;2007;Yes;1;No;2020;No;New;7.0000;7.0000;7;No
+57382;United States;Germany;LM-2500;gas turbine;Engines;2007;Yes;1;No;2019;No;New;7.0000;7.0000;7;No
+57388;United States;Japan;Mk-41 VLS;naval SAM system;Naval weapons;2013;Yes;1;No;2019;No;New;20.0000;20.0000;20;No
+57388;United States;Japan;Mk-41 VLS;naval SAM system;Naval weapons;2013;Yes;1;No;2018;No;New;20.0000;20.0000;20;No
+63224;United States;Colombia;S-70/UH-60L;helicopter;Aircraft;2018;No;1;No;2019;No;New;7.2500;7.2500;7.25;No
+55892;United States;South Korea;LM-2500;gas turbine;Engines;2009;Yes;4;No;2016;No;New;7.0000;7.0000;28;No
+51194;United States;Romania;Patriot Configuration-3;SAM/ABM system;Air defence systems;2017;No;1;Yes;2020;No;New;55.0000;55.0000;55;No
+58432;United States;UAE;JDAM;guided bomb;Missiles;2014;No;1800;Yes;2016;No;New;0.0200;0.0200;36;No
+59247;United States;Mexico;Cessna-U206;light aircraft;Aircraft;2015;No;6;Yes;2017;Yes;New;0.2500;0.2500;1.5;No
+59247;United States;Mexico;Cessna-U206;light aircraft;Aircraft;2015;No;6;Yes;2016;Yes;New;0.2500;0.2500;1.5;No
+59251;United States;Brazil;M-113;APC;Armoured vehicles;2015;No;46;No;2016;No;Second hand;0.2500;0.1;4.6;No
+57488;United States;Oman;BGM-71F TOW-2B;anti-tank missile;Missiles;2014;No;100;Yes;2016;Yes;New;0.0200;0.0200;2;No
+60396;United States;Viet Nam;Hamilton;OPV;Ships;2016;No;1;No;2017;No;Second hand;135.0000;54;54;No
+61927;United States;Senegal;CT7;turboprop;Engines;2018;Yes;2;No;2021;No;New;0.6000;0.6000;1.2;No
+56044;United States;South Korea;Stinger;portable SAM;Missiles;2015;No;33;Yes;2017;No;New;0.0800;0.0800;2.64;No
+56044;United States;South Korea;Stinger;portable SAM;Missiles;2015;No;30;Yes;2016;No;New;0.0800;0.0800;2.4;No
+54817;United States;Australia;EA-18G Growler;FGA/EW aircraft;Aircraft;2013;No;4;Yes;2017;No;New;60.0000;60.0000;240;No
+54817;United States;Australia;EA-18G Growler;FGA/EW aircraft;Aircraft;2013;No;6;Yes;2016;No;New;60.0000;60.0000;360;No
+59277;United States;Saudi Arabia;M-1A2S;tank;Armoured vehicles;2009;No;14;Yes;2017;No;New;5.0000;5.0000;70;No
+59277;United States;Saudi Arabia;M-1A2S;tank;Armoured vehicles;2009;No;70;Yes;2016;No;New;5.0000;5.0000;350;No
+61920;United States;Afghanistan;Paveway;guided bomb;Missiles;2017;Yes;100;Yes;2019;Yes;New;0.0200;0.0200;2;No
+61920;United States;Afghanistan;Paveway;guided bomb;Missiles;2017;Yes;50;Yes;2017;No;New;0.0200;0.0200;1;No
+61920;United States;Afghanistan;Paveway;guided bomb;Missiles;2017;Yes;100;Yes;2018;No;New;0.0200;0.0200;2;No
+39415;United States;Argentina;UH-1H Huey-2;helicopter;Aircraft;2006;Yes;1;Yes;2021;Yes;New;3.1000;3.1000;3.1;No
+39415;United States;Argentina;UH-1H Huey-2;helicopter;Aircraft;2006;Yes;1;Yes;2020;Yes;New;3.1000;3.1000;3.1;No
+39415;United States;Argentina;UH-1H Huey-2;helicopter;Aircraft;2006;Yes;1;No;2019;No;New;3.1000;3.1000;3.1;No
+39415;United States;Argentina;UH-1H Huey-2;helicopter;Aircraft;2006;Yes;2;Yes;2017;No;New;3.1000;3.1000;6.2;No
+39415;United States;Argentina;UH-1H Huey-2;helicopter;Aircraft;2006;Yes;1;Yes;2016;Yes;New;3.1000;3.1000;3.1;No
+58025;United States;Egypt;Swiftships-93;patrol craft;Ships;2014;No;2;Yes;2017;Yes;New;4.5000;4.5000;9;Yes
+58025;United States;Egypt;Swiftships-93;patrol craft;Ships;2014;No;4;Yes;2016;No;New;4.5000;4.5000;18;Yes
+64658;United States;Qatar;Tiger Eyes;aircraft EO system;Sensors;2017;No;10;Yes;2021;No;New;3.0000;3.0000;30;No
+60791;United States;South Korea;MIM-104F PAC-3;ABM;Missiles;2019;Yes;64;Yes;2020;No;New;1.0000;1.0000;64;No
+64955;United States;Peru;F-28;light helicopter;Aircraft;2020;Yes;2;No;2021;No;New;0.2500;0.2500;0.5;No
+56581;United States;Saudi Arabia;GBU-39 SDB;guided bomb;Missiles;2013;Yes;200;Yes;2021;Yes;New;0.0200;0.0200;4;No
+56581;United States;Saudi Arabia;GBU-39 SDB;guided bomb;Missiles;2013;Yes;200;Yes;2020;Yes;New;0.0200;0.0200;4;No
+56581;United States;Saudi Arabia;GBU-39 SDB;guided bomb;Missiles;2013;Yes;200;Yes;2019;Yes;New;0.0200;0.0200;4;No
+56581;United States;Saudi Arabia;GBU-39 SDB;guided bomb;Missiles;2013;Yes;200;Yes;2018;Yes;New;0.0200;0.0200;4;No
+56581;United States;Saudi Arabia;GBU-39 SDB;guided bomb;Missiles;2013;Yes;200;Yes;2017;Yes;New;0.0200;0.0200;4;No
+61946;United States;Ethiopia;C-130E Hercules;transport aircraft;Aircraft;2017;No;1;No;2018;No;Second hand;24.0000;9.6;9.6;No
+51040;United States;Canada;TAPV;APC;Armoured vehicles;2012;No;11;Yes;2019;No;New;0.3500;0.3500;3.85;Yes
+51040;United States;Canada;TAPV;APC;Armoured vehicles;2012;No;100;Yes;2018;No;New;0.3500;0.3500;35;Yes
+51040;United States;Canada;TAPV;APC;Armoured vehicles;2012;No;259;Yes;2017;No;New;0.3500;0.3500;90.65;Yes
+51040;United States;Canada;TAPV;APC;Armoured vehicles;2012;No;130;Yes;2016;No;New;0.3500;0.3500;45.5;Yes
+61939;United States;Jordan;AH-1F Modernized;combat helicopter;Aircraft;2017;No;10;No;2019;No;New;11.5000;11.5000;115;No
+61939;United States;Jordan;AH-1F Modernized;combat helicopter;Aircraft;2017;No;2;No;2018;No;New;11.5000;11.5000;23;No
+60497;United States;Kuwait;M-1A2S;tank;Armoured vehicles;2016;No;109;Yes;2021;No;New;5.0000;5.0000;545;No
+55916;United States;Uruguay;Bell-212/UH-1N;helicopter;Aircraft;2019;No;1;No;2021;Yes;Second hand;3.7000;1.48;1.48;No
+64111;United States;India;RQ-1 Predator;UAV;Aircraft;2020;No;2;No;2020;No;New;2.0000;2.0000;4;No
+59327;United States;Canada;Paveway;guided bomb;Missiles;2015;No;225;No;2016;No;New;0.0200;0.0200;4.5;No
+57623;United States;South Korea;AAQ-33 Sniper;aircraft EO system;Sensors;2013;No;15;Yes;2017;No;New;1.0000;1.0000;15;No
+57623;United States;South Korea;AAQ-33 Sniper;aircraft EO system;Sensors;2013;No;20;Yes;2016;No;New;1.0000;1.0000;20;No
+58941;United States;Netherlands;Mk-48 Mod-5 ADCAP;anti-ship/ASW torpedo;Missiles;2010;No;5;Yes;2021;Yes;New;1.6000;1.6000;8;No
+58941;United States;Netherlands;Mk-48 Mod-5 ADCAP;anti-ship/ASW torpedo;Missiles;2010;No;5;Yes;2020;Yes;New;1.6000;1.6000;8;No
+58941;United States;Netherlands;Mk-48 Mod-5 ADCAP;anti-ship/ASW torpedo;Missiles;2010;No;5;Yes;2019;Yes;New;1.6000;1.6000;8;No
+58941;United States;Netherlands;Mk-48 Mod-5 ADCAP;anti-ship/ASW torpedo;Missiles;2010;No;5;Yes;2018;Yes;New;1.6000;1.6000;8;No
+58941;United States;Netherlands;Mk-48 Mod-5 ADCAP;anti-ship/ASW torpedo;Missiles;2010;No;5;Yes;2017;Yes;New;1.6000;1.6000;8;No
+58941;United States;Netherlands;Mk-48 Mod-5 ADCAP;anti-ship/ASW torpedo;Missiles;2010;No;5;Yes;2016;Yes;New;1.6000;1.6000;8;No
+59352;United States;Kuwait;AAQ-33 Sniper;aircraft EO system;Sensors;2016;Yes;7;Yes;2019;Yes;New;1.0000;1.0000;7;No
+59352;United States;Kuwait;AAQ-33 Sniper;aircraft EO system;Sensors;2016;Yes;7;Yes;2018;No;New;1.0000;1.0000;7;No
+35045;United States;Italy;LM-2500;gas turbine;Engines;2000;Yes;1;No;2019;No;New;7.0000;7.0000;7;Yes
+35045;United States;Italy;LM-2500;gas turbine;Engines;2000;Yes;1;No;2018;No;New;7.0000;7.0000;7;Yes
+35045;United States;Italy;LM-2500;gas turbine;Engines;2000;Yes;1;No;2017;No;New;7.0000;7.0000;7;Yes
+35045;United States;Italy;LM-2500;gas turbine;Engines;2000;Yes;1;No;2016;No;New;7.0000;7.0000;7;Yes
+61980;United States;Morocco;Harpoon Block-2;anti-ship missile/SSM;Missiles;2016;Yes;6;No;2017;No;New;1.0000;1.0000;6;No
+61982;United States;Tunisia;Pitbull VX;APC;Armoured vehicles;2018;No;9;No;2018;No;New;0.1400;0.1400;1.26;No
+61998;United States;Kenya;AE-2100;turboprop;Engines;2017;No;6;Yes;2020;No;New;1.5000;1.5000;9;No
+61588;United States;Spain;AIM-120C AMRAAM;BVRAAM;Missiles;2017;No;4;Yes;2019;Yes;New;0.6000;0.6000;2.4;No
+64197;United States;Egypt;LM-2500;gas turbine;Engines;2020;No;1;No;2021;No;New;7.0000;7.0000;7;No
+64197;United States;Egypt;LM-2500;gas turbine;Engines;2020;No;1;No;2020;No;New;7.0000;7.0000;7;No
+61594;United States;Indonesia;ISC;diesel engine;Engines;2016;No;4;Yes;2017;Yes;New;0.0400;0.0400;0.16;No
+59546;United States;Thailand;Saab-340;transport aircraft;Aircraft;2016;No;2;No;2017;No;Second hand;7.0000;2.8;5.6;No
+37709;United States;Germany;HELRAS;ASW sonar;Sensors;2003;No;9;Yes;2021;No;New;1.9000;1.9000;17.1;Yes
+37709;United States;Germany;HELRAS;ASW sonar;Sensors;2003;No;5;Yes;2020;No;New;1.9000;1.9000;9.5;Yes
+61510;United States;Lebanon;ScanEagle;UAV;Aircraft;2017;No;6;No;2019;No;New;0.0400;0.0400;0.24;No
+64215;United States;Tunisia;ISL;diesel engine;Engines;2020;No;23;Yes;2021;Yes;New;0.0400;0.0400;0.92;No
+57707;United States;Philippines;T56;turboprop;Engines;2014;Yes;5;No;2018;Yes;Second hand;1.4000;0.56;2.8;No
+57707;United States;Philippines;T56;turboprop;Engines;2014;Yes;2;Yes;2016;Yes;Second hand;1.4000;0.56;1.12;No
+57710;United States;Singapore;JDAM;guided bomb;Missiles;2015;No;460;Yes;2017;Yes;New;0.0200;0.0200;9.2;No
+57710;United States;Singapore;JDAM;guided bomb;Missiles;2015;No;457;Yes;2016;Yes;New;0.0200;0.0200;9.14;No
+57714;United States;Norway;AIM-120C AMRAAM;BVRAAM;Missiles;2014;Yes;36;No;2018;No;New;0.6000;0.6000;21.6;No
+58157;United States;Chile;F110;turbofan;Engines;2014;No;2;No;2016;No;Second hand;3.2500;1.3;2.6;No
+64222;United States;DR Congo;Bell-206/OH-58;light helicopter;Aircraft;2018;Yes;2;No;2018;No;Second hand;0.7000;0.28;0.56;No
+56155;United States;South Korea;MIM-104C PAC-2;SAM;Missiles;2014;No;62;Yes;2017;Yes;New;1.0000;1.0000;62;No
+56155;United States;South Korea;MIM-104C PAC-2;SAM;Missiles;2014;No;50;Yes;2016;Yes;New;1.0000;1.0000;50;No
+4963;United States;Japan;CH-47D Chinook;transport helicopter;Aircraft;1984;No;1;Yes;2017;No;New;18.0000;18.0000;18;Yes
+4963;United States;Japan;CH-47D Chinook;transport helicopter;Aircraft;1984;No;1;Yes;2016;Yes;New;18.0000;18.0000;18;Yes
+60771;United States;United Kingdom;AGM-114K HELLFIRE;anti-tank missile;Missiles;2017;No;1000;Yes;2017;Yes;New;0.0500;0.0500;50;No
+58796;United States;Uganda;UH-1H Huey-2;helicopter;Aircraft;2016;No;5;No;2017;Yes;New;3.1000;3.1000;15.5;No
+33721;United States;Poland;AGM-158A JASSM;ASM;Missiles;2015;No;30;Yes;2020;Yes;New;1.2500;1.2500;37.5;No
+33721;United States;Poland;AGM-158A JASSM;ASM;Missiles;2015;No;2;Yes;2017;No;New;1.2500;1.2500;2.5;No
+33721;United States;Poland;AGM-158A JASSM;ASM;Missiles;2015;No;36;Yes;2019;No;New;1.2500;1.2500;45;No
+63861;United States;Qatar;ISL;diesel engine;Engines;2018;No;50;Yes;2019;No;New;0.0400;0.0400;2;No
+60864;United States;Kenya;MD-500E;light helicopter;Aircraft;2018;No;6;Yes;2019;No;New;0.7000;0.7000;4.2;No
+59659;United States;Colombia;ASV-150/M-1117;APC;Armoured vehicles;2016;No;2;No;2016;No;New;0.3000;0.3000;0.6;No
+59328;United States;Malta;King Air Maritime;MP aircraft;Aircraft;2015;No;1;No;2017;No;New;7.5000;7.5000;7.5;No
+57816;United States;Indonesia;King Air;light transport ac;Aircraft;2016;Yes;1;No;2017;No;New;2.8500;2.8500;2.85;No
+50516;United States;Germany;JDAM;guided bomb;Missiles;2008;No;100;Yes;2018;Yes;New;0.0200;0.0200;2;No
+50516;United States;Germany;JDAM;guided bomb;Missiles;2008;No;150;Yes;2017;Yes;New;0.0200;0.0200;3;No
+50516;United States;Germany;JDAM;guided bomb;Missiles;2008;No;150;Yes;2016;Yes;New;0.0200;0.0200;3;No
+57822;United States;Australia;F414;turbofan;Engines;2014;No;3;Yes;2016;Yes;New;2.5000;2.5000;7.5;No
+61165;United States;Lebanon;M-2 Bradley;IFV;Armoured vehicles;2016;Yes;8;No;2018;No;Second hand;1.6000;0.64;5.12;No
+61165;United States;Lebanon;M-2 Bradley;IFV;Armoured vehicles;2016;Yes;24;No;2017;No;Second hand;1.6000;0.64;15.36;No
+51521;United States;Germany;Paveway;guided bomb;Missiles;2009;Yes;100;Yes;2016;Yes;New;0.0200;0.0200;2;No
+39804;United States;India;CH-47F Chinook;transport helicopter;Aircraft;2015;No;5;Yes;2020;No;New;20.0000;20.0000;100;No
+39804;United States;India;CH-47F Chinook;transport helicopter;Aircraft;2015;No;10;Yes;2019;No;New;20.0000;20.0000;200;No
+64233;United States;Malaysia;QSK-50;diesel engine;Engines;2018;Yes;4;No;2020;No;New;0.3500;0.3500;1.4;No
+64233;United States;Malaysia;QSK-50;diesel engine;Engines;2018;Yes;4;No;2019;No;New;0.3500;0.3500;1.4;No
+58374;United States;Slovakia;S-70/UH-60L;helicopter;Aircraft;2015;No;3;No;2020;No;New;7.2500;7.2500;21.75;No
+58374;United States;Slovakia;S-70/UH-60L;helicopter;Aircraft;2015;No;2;No;2019;No;New;7.2500;7.2500;14.5;No
+58374;United States;Slovakia;S-70/UH-60L;helicopter;Aircraft;2015;No;2;No;2018;No;New;7.2500;7.2500;14.5;No
+58374;United States;Slovakia;S-70/UH-60L;helicopter;Aircraft;2015;No;2;No;2017;No;New;7.2500;7.2500;14.5;No
+36095;United States;India;F404;turbofan;Engines;2007;No;6;Yes;2020;No;New;2.2000;2.2000;13.2;No
+36095;United States;India;F404;turbofan;Engines;2007;No;6;Yes;2019;No;New;2.2000;2.2000;13.2;No
+36095;United States;India;F404;turbofan;Engines;2007;No;5;Yes;2018;No;New;2.2000;2.2000;11;No
+36095;United States;India;F404;turbofan;Engines;2007;No;4;Yes;2017;No;New;2.2000;2.2000;8.8;No
+36095;United States;India;F404;turbofan;Engines;2007;No;3;Yes;2016;No;New;2.2000;2.2000;6.6;No
+62052;United States;Sweden;MIM-104F PAC-3;ABM;Missiles;2018;No;50;Yes;2021;No;New;1.0000;1.0000;50;No
+57837;United States;Tunisia;ISC;diesel engine;Engines;2014;No;71;Yes;2016;No;New;0.0400;0.0400;2.84;No
+62053;United States;Sweden;MIM-104C PAC-2;SAM;Missiles;2018;No;25;Yes;2021;Yes;New;1.0000;1.0000;25;No
+63265;United States;Cameroon;Bell-412;helicopter;Aircraft;2018;Yes;2;No;2019;No;Second hand;5.0000;2;4;No
+55590;United States;Taiwan;Perry;frigate;Ships;2015;No;2;No;2017;No;Second hand but modernized;300.0000;198;396;No
+57892;United States;Jordan;WGU-59 APKWS;anti-tank missile/ASM;Missiles;2014;No;75;Yes;2016;Yes;New;0.0400;0.0400;3;No
+59704;United States;Indonesia;AIM-120C AMRAAM;BVRAAM;Missiles;2017;No;18;Yes;2020;Yes;New;0.6000;0.6000;10.8;No
+59704;United States;Indonesia;AIM-120C AMRAAM;BVRAAM;Missiles;2017;No;18;Yes;2019;No;New;0.6000;0.6000;10.8;No
+59484;United States;Netherlands;WGU-59 APKWS;anti-tank missile/ASM;Missiles;2016;Yes;100;Yes;2018;Yes;New;0.0400;0.0400;4;No
+58030;United States;Indonesia;HELRAS;ASW sonar;Sensors;2014;No;1;Yes;2020;Yes;New;1.9000;1.9000;1.9;No
+58030;United States;Indonesia;HELRAS;ASW sonar;Sensors;2014;No;1;No;2019;Yes;New;1.9000;1.9000;1.9;No
+59494;United States;Dominican Republic;P2006T;light aircraft;Aircraft;2015;No;1;No;2016;No;New;0.2500;0.2500;0.25;No
+59499;United States;Argentina;Bell-412;helicopter;Aircraft;2017;Yes;4;No;2017;No;New;5.0000;5.0000;20;No
+50844;United States;India;C-130J-30 Hercules;transport aircraft;Aircraft;2013;No;6;No;2017;No;New;37.5000;37.5000;225;Yes
+61636;United States;Qatar;ISC;diesel engine;Engines;2016;Yes;50;Yes;2021;No;New;0.0400;0.0400;2;No
+61636;United States;Qatar;ISC;diesel engine;Engines;2016;Yes;90;Yes;2020;No;New;0.0400;0.0400;3.6;No
+61636;United States;Qatar;ISC;diesel engine;Engines;2016;Yes;50;Yes;2019;No;New;0.0400;0.0400;2;No
+61636;United States;Qatar;ISC;diesel engine;Engines;2016;Yes;90;Yes;2018;No;New;0.0400;0.0400;3.6;No
+61636;United States;Qatar;ISC;diesel engine;Engines;2016;Yes;22;Yes;2017;No;New;0.0400;0.0400;0.88;No
+63227;United States;Afghanistan;MD-500E;light helicopter;Aircraft;2019;No;6;Yes;2021;Yes;New;0.7000;0.7000;4.2;No
+63227;United States;Afghanistan;MD-500E;light helicopter;Aircraft;2019;No;6;Yes;2020;No;New;0.7000;0.7000;4.2;No
+61635;United States;Tunisia;ISC;diesel engine;Engines;2016;Yes;70;Yes;2017;No;New;0.0400;0.0400;2.8;No
+64247;United States;Afghanistan;ASV-150/M-1117;APC;Armoured vehicles;2019;Yes;55;Yes;2020;No;New;0.3000;0.3000;16.5;No
+58667;United States;Chile;S-70/UH-60L;helicopter;Aircraft;2016;No;6;No;2018;No;New;7.2500;7.2500;43.5;No
+61421;United States;Afghanistan;ASV-150/M-1117;APC;Armoured vehicles;2017;No;40;No;2019;No;New;0.3000;0.3000;12;No
+61421;United States;Afghanistan;ASV-150/M-1117;APC;Armoured vehicles;2017;No;15;No;2018;No;New;0.3000;0.3000;4.5;No
+61640;United States;Turkey;ISC;diesel engine;Engines;2016;No;50;Yes;2016;No;New;0.0400;0.0400;2;No
+61637;United States;Uzbekistan;ISC;diesel engine;Engines;2017;No;20;Yes;2019;No;New;0.0400;0.0400;0.8;No
+61637;United States;Uzbekistan;ISC;diesel engine;Engines;2017;No;4;Yes;2018;No;New;0.0400;0.0400;0.16;No
+64223;United States;DR Congo;UH-1H Huey-2;helicopter;Aircraft;2018;Yes;5;No;2020;No;Second hand;3.1000;1.24;6.2;No
+50204;United States;Italy;CH-47F Chinook;transport helicopter;Aircraft;2009;No;2;No;2018;No;New;20.0000;20.0000;40;Yes
+50204;United States;Italy;CH-47F Chinook;transport helicopter;Aircraft;2009;No;4;Yes;2017;No;New;20.0000;20.0000;80;Yes
+50204;United States;Italy;CH-47F Chinook;transport helicopter;Aircraft;2009;No;4;Yes;2016;No;New;20.0000;20.0000;80;Yes
+64467;United States;Australia;CH-47F Chinook;transport helicopter;Aircraft;2021;No;2;No;2021;No;New;20.0000;20.0000;40;No
+60057;United States;Jordan;S-70/UH-60L;helicopter;Aircraft;2016;Yes;12;No;2017;No;New;7.2500;7.2500;87;No
+62113;United States;Tunisia;Bell-429 GlobalRanger;light helicopter;Aircraft;2016;Yes;3;No;2017;Yes;New;2.7000;2.7000;8.1;No
+62114;United States;Oman;Bell-429 GlobalRanger;light helicopter;Aircraft;2015;No;3;Yes;2016;No;New;2.7000;2.7000;8.1;No
+59893;United States;Jordan;GMLRS;guided rocket;Missiles;2016;No;44;Yes;2018;Yes;New;0.0800;0.0800;3.52;No
+59893;United States;Jordan;GMLRS;guided rocket;Missiles;2016;No;100;Yes;2017;Yes;New;0.0800;0.0800;8;No
+55510;United States;United Kingdom;Mk-15 Phalanx;naval gun;Naval weapons;2012;No;1;Yes;2017;Yes;New;7.0000;7.0000;7;No
+55510;United States;United Kingdom;Mk-15 Phalanx;naval gun;Naval weapons;2012;No;2;Yes;2016;Yes;New;7.0000;7.0000;14;No
+59524;United States;Australia;CH-47F Chinook;transport helicopter;Aircraft;2016;No;3;No;2016;No;New;20.0000;20.0000;60;No
+53893;United States;Brazil;AAV-7RAM/RS;APC;Armoured vehicles;2015;No;21;Yes;2018;No;New;1.2000;1.2000;25.2;No
+53893;United States;Brazil;AAV-7RAM/RS;APC;Armoured vehicles;2015;No;2;Yes;2017;No;New;1.2000;1.2000;2.4;No
+54362;United States;South Korea;F404;turbofan;Engines;2013;No;20;Yes;2016;No;New;2.2000;2.2000;44;Yes
+57870;United States;Mexico;S-70/UH-60L;helicopter;Aircraft;2014;No;13;Yes;2017;No;New;7.2500;7.2500;94.25;No
+57870;United States;Mexico;S-70/UH-60L;helicopter;Aircraft;2014;No;4;Yes;2016;No;New;7.2500;7.2500;29;No
+59564;United States;Oman;BGM-71F TOW-2B;anti-tank missile;Missiles;2018;No;200;Yes;2021;Yes;New;0.0200;0.0200;4;No
+59564;United States;Oman;BGM-71F TOW-2B;anti-tank missile;Missiles;2018;No;200;Yes;2020;Yes;New;0.0200;0.0200;4;No
+61654;United States;Mexico;S-70/UH-60L;helicopter;Aircraft;2015;No;2;Yes;2017;Yes;New;7.2500;7.2500;14.5;No
+62146;United States;Bahrain;M-198 155mm;towed gun;Artillery;2018;No;6;No;2019;No;Second hand;0.8500;0.34;2.04;No
+58437;United States;Mexico;S-70/UH-60L;helicopter;Aircraft;2014;Yes;2;No;2017;No;New;7.2500;7.2500;14.5;No
+58437;United States;Mexico;S-70/UH-60L;helicopter;Aircraft;2014;Yes;3;No;2016;No;New;7.2500;7.2500;21.75;No
+62161;United States;Sri Lanka;Hamilton;OPV;Ships;2018;No;1;No;2018;No;Second hand;135.0000;54;54;No
+64601;United States;France;MQ-9 Reaper;UAV;Aircraft;2020;No;1;No;2020;No;Second hand;7.5000;3;3;No
+59715;United States;Kenya;UH-1H Huey-2;helicopter;Aircraft;2016;No;2;No;2017;No;New;3.1000;3.1000;6.2;No
+59715;United States;Kenya;UH-1H Huey-2;helicopter;Aircraft;2016;No;6;No;2016;No;New;3.1000;3.1000;18.6;No
+52905;United States;Japan;S-70B/SH-60B Seahawk;ASW helicopter;Aircraft;1997;No;6;Yes;2021;No;New;17.0000;17.0000;102;Yes
+52905;United States;Japan;S-70B/SH-60B Seahawk;ASW helicopter;Aircraft;1997;No;6;No;2020;No;New;17.0000;17.0000;102;Yes
+52905;United States;Japan;S-70B/SH-60B Seahawk;ASW helicopter;Aircraft;1997;No;5;No;2019;No;New;17.0000;17.0000;85;Yes
+52905;United States;Japan;S-70B/SH-60B Seahawk;ASW helicopter;Aircraft;1997;No;4;Yes;2018;No;New;17.0000;17.0000;68;Yes
+52905;United States;Japan;S-70B/SH-60B Seahawk;ASW helicopter;Aircraft;1997;No;4;Yes;2017;No;New;17.0000;17.0000;68;Yes
+52905;United States;Japan;S-70B/SH-60B Seahawk;ASW helicopter;Aircraft;1997;No;5;Yes;2016;No;New;17.0000;17.0000;85;Yes
+62985;United States;Argentina;Learjet-60;light transport ac;Aircraft;2019;No;1;No;2020;No;Second hand;8.2500;3.3;3.3;No
+58103;United States;Jordan;RG-33;APC;Armoured vehicles;2012;Yes;39;Yes;2016;Yes;Second hand;0.2000;0.08;3.12;No
+58105;United States;Jordan;AH-1F Cobra;combat helicopter;Aircraft;2014;No;3;No;2016;No;Second hand but modernized;7.5000;4.95;14.85;No
+61552;United States;Singapore;GBU-39 SDB;guided bomb;Missiles;2017;No;250;Yes;2020;Yes;New;0.0200;0.0200;5;No
+51847;United States;Morocco;M-1A1 Abrams;tank;Armoured vehicles;2015;Yes;80;Yes;2018;No;New;4.0000;4.0000;320;No
+51847;United States;Morocco;M-1A1 Abrams;tank;Armoured vehicles;2015;Yes;92;Yes;2017;No;New;4.0000;4.0000;368;No
+51847;United States;Morocco;M-1A1 Abrams;tank;Armoured vehicles;2015;Yes;50;Yes;2016;No;New;4.0000;4.0000;200;No
+62193;United States;Morocco;M-113A3;APC;Armoured vehicles;2018;No;161;Yes;2019;No;Second hand;0.3000;0.12;19.32;No
+58130;United States;Indonesia;APG-78 Longbow;combat heli radar;Sensors;2012;Yes;2;Yes;2018;No;New;3.0000;3.0000;6;No
+58130;United States;Indonesia;APG-78 Longbow;combat heli radar;Sensors;2012;Yes;2;Yes;2017;No;New;3.0000;3.0000;6;No
+58129;United States;Indonesia;T-700;turboshaft;Engines;2012;Yes;3;Yes;2018;No;New;0.9000;0.9000;2.7;No
+58190;United States;Iraq;WGU-59 APKWS;anti-tank missile/ASM;Missiles;2015;Yes;850;Yes;2018;Yes;New;0.0400;0.0400;34;No
+58190;United States;Iraq;WGU-59 APKWS;anti-tank missile/ASM;Missiles;2015;Yes;300;Yes;2016;No;New;0.0400;0.0400;12;No
+58190;United States;Iraq;WGU-59 APKWS;anti-tank missile/ASM;Missiles;2015;Yes;850;Yes;2017;No;New;0.0400;0.0400;34;No
+53877;United States;Japan;RIM-116A RAM;SAM;Missiles;2014;Yes;50;Yes;2017;Yes;New;0.1400;0.1400;7;No
+58187;United States;Japan;AIM-120C AMRAAM;BVRAAM;Missiles;2014;Yes;17;Yes;2016;Yes;New;0.6000;0.6000;10.2;No
+58180;United States;Turkey;AIM-9X Sidewinder;BVRAAM;Missiles;2014;No;60;Yes;2016;Yes;New;0.1800;0.1800;10.8;No
+58192;United States;Australia;Mk-15 Phalanx;naval gun;Naval weapons;2014;Yes;1;Yes;2021;Yes;New;7.0000;7.0000;7;No
+58192;United States;Australia;Mk-15 Phalanx;naval gun;Naval weapons;2014;Yes;1;Yes;2020;Yes;New;7.0000;7.0000;7;No
+58192;United States;Australia;Mk-15 Phalanx;naval gun;Naval weapons;2014;Yes;1;Yes;2019;Yes;New;7.0000;7.0000;7;No
+58192;United States;Australia;Mk-15 Phalanx;naval gun;Naval weapons;2014;Yes;2;Yes;2018;Yes;New;7.0000;7.0000;14;No
+58192;United States;Australia;Mk-15 Phalanx;naval gun;Naval weapons;2014;Yes;2;Yes;2016;Yes;New;7.0000;7.0000;14;No
+55995;United States;Singapore;AIM-9X Sidewinder;BVRAAM;Missiles;2014;No;10;Yes;2016;No;New;0.1800;0.1800;1.8;No
+56893;United States;Greece;CH-47D Chinook;transport helicopter;Aircraft;2015;No;1;Yes;2019;No;Second hand;18.0000;7.2;7.2;No
+56893;United States;Greece;CH-47D Chinook;transport helicopter;Aircraft;2015;No;3;Yes;2018;Yes;Second hand;18.0000;7.2;21.6;No
+56893;United States;Greece;CH-47D Chinook;transport helicopter;Aircraft;2015;No;3;Yes;2017;No;Second hand;18.0000;7.2;21.6;No
+56893;United States;Greece;CH-47D Chinook;transport helicopter;Aircraft;2015;No;3;No;2016;No;Second hand;18.0000;7.2;21.6;No
+58181;United States;Kuwait;AIM-9X Sidewinder;BVRAAM;Missiles;2014;No;1;No;2016;Yes;New;0.1800;0.1800;0.18;No
+58224;United States;Turkey;CH-47F Chinook;transport helicopter;Aircraft;2015;No;3;Yes;2019;No;New;20.0000;20.0000;60;No
+58224;United States;Turkey;CH-47F Chinook;transport helicopter;Aircraft;2015;No;1;Yes;2018;Yes;New;20.0000;20.0000;20;No
+59589;United States;Senegal;CT7;turboprop;Engines;2014;No;2;No;2017;No;New;0.6000;0.6000;1.2;No
+64072;United States;Belgium;JDAM;guided bomb;Missiles;2018;No;196;Yes;2020;Yes;New;0.0200;0.0200;3.92;No
+64072;United States;Belgium;JDAM;guided bomb;Missiles;2018;No;200;Yes;2019;Yes;New;0.0200;0.0200;4;No
+63952;United States;Belgium;GBU-39 SDB;guided bomb;Missiles;2019;Yes;50;Yes;2020;No;New;0.0200;0.0200;1;No
+58272;United States;Mexico;King Air Maritime;MP aircraft;Aircraft;2014;No;2;Yes;2016;Yes;New;7.5000;7.5000;15;No
+58706;United States;Saudi Arabia;Patriot Configuration-3;SAM/ABM system;Air defence systems;2015;No;1;Yes;2019;Yes;New;55.0000;55.0000;55;No
+58706;United States;Saudi Arabia;Patriot Configuration-3;SAM/ABM system;Air defence systems;2015;No;1;Yes;2018;Yes;New;55.0000;55.0000;55;No
+58706;United States;Saudi Arabia;Patriot Configuration-3;SAM/ABM system;Air defence systems;2015;No;1;Yes;2017;Yes;New;55.0000;55.0000;55;No
+61465;United States;Montenegro;Bell-412;helicopter;Aircraft;2018;No;3;No;2018;No;New;5.0000;5.0000;15;No
+60199;United States;Netherlands;GBU-39 SDB;guided bomb;Missiles;2017;No;250;Yes;2020;Yes;New;0.0200;0.0200;5;No
+60107;United States;El Salvador;M-198 155mm;towed gun;Artillery;2019;Yes;12;No;2020;Yes;Second hand;0.8500;0.34;4.08;No
+59642;United States;Pakistan;Cessna-208 Caravan;light transport ac;Aircraft;2015;No;2;No;2016;No;New;1.0000;1.0000;2;No
+59646;United States;Jordan;JDAM;guided bomb;Missiles;2015;Yes;198;Yes;2018;Yes;New;0.0200;0.0200;3.96;No
+37698;United States;Netherlands;HELRAS;ASW sonar;Sensors;2003;No;2;Yes;2016;No;New;1.9000;1.9000;3.8;No
+36378;United States;Italy;HELRAS;ASW sonar;Sensors;2003;No;8;Yes;2019;No;New;1.9000;1.9000;15.2;No
+36378;United States;Italy;HELRAS;ASW sonar;Sensors;2003;No;7;Yes;2018;No;New;1.9000;1.9000;13.3;No
+36378;United States;Italy;HELRAS;ASW sonar;Sensors;2003;No;7;Yes;2017;No;New;1.9000;1.9000;13.3;No
+36378;United States;Italy;HELRAS;ASW sonar;Sensors;2003;No;7;Yes;2016;No;New;1.9000;1.9000;13.3;No
+57509;United States;UAE;Bell-407;light helicopter;Aircraft;2013;Yes;6;Yes;2016;No;New;1.1000;1.1000;6.6;No
+61716;United States;Nepal;CT7;turboprop;Engines;2017;No;2;Yes;2019;No;New;0.6000;0.6000;1.2;No
+63311;United States;Mali;VT-400;diesel engine;Engines;2019;Yes;100;Yes;2020;No;New;0.0800;0.0800;8;No
+60475;United States;Afghanistan;Cessna-208 Caravan;light transport ac;Aircraft;2018;No;2;Yes;2020;No;New;1.0000;1.0000;2;No
+60475;United States;Afghanistan;Cessna-208 Caravan;light transport ac;Aircraft;2018;No;6;Yes;2019;No;New;1.0000;1.0000;6;No
+60475;United States;Afghanistan;Cessna-208 Caravan;light transport ac;Aircraft;2018;No;2;Yes;2018;Yes;New;1.0000;1.0000;2;No
+52502;United States;Saudi Arabia;Paveway;guided bomb;Missiles;2011;Yes;600;Yes;2016;Yes;New;0.0200;0.0200;12;No
+56249;United States;South Korea;GBU-39 SDB;guided bomb;Missiles;2018;Yes;271;Yes;2020;Yes;New;0.0200;0.0200;5.42;No
+56249;United States;South Korea;GBU-39 SDB;guided bomb;Missiles;2018;Yes;271;Yes;2019;Yes;New;0.0200;0.0200;5.42;No
+37548;United States;Saudi Arabia;MIM-104F PAC-3;ABM;Missiles;2015;No;80;Yes;2019;No;New;1.0000;1.0000;80;No
+37548;United States;Saudi Arabia;MIM-104F PAC-3;ABM;Missiles;2015;No;160;Yes;2018;No;New;1.0000;1.0000;160;No
+37548;United States;Saudi Arabia;MIM-104F PAC-3;ABM;Missiles;2015;No;80;Yes;2017;No;New;1.0000;1.0000;80;No
+59658;United States;Denmark;GBU-39 SDB;guided bomb;Missiles;2015;Yes;100;Yes;2016;Yes;New;0.0200;0.0200;2;No
+58364;United States;Mexico;King Air-350 ISR;AGS aircraft;Aircraft;2014;Yes;2;Yes;2016;Yes;New;11.0000;11.0000;22;No
+59669;United States;Pakistan;MaxxPro;APC;Armoured vehicles;2016;Yes;30;Yes;2016;Yes;Second hand;0.3200;0.128;3.84;No
+59668;United States;Egypt;MaxxPro;APC;Armoured vehicles;2015;No;12;Yes;2016;No;Second hand;0.3200;0.128;1.536;No
+61961;United States;Argentina;TFE-731;turbofan;Engines;2013;Yes;1;Yes;2020;No;New;0.6000;0.6000;0.6;No
+61961;United States;Argentina;TFE-731;turbofan;Engines;2013;Yes;5;Yes;2019;No;New;0.6000;0.6000;3;No
+62251;United States;Guatemala;Cessna-208 Caravan;light transport ac;Aircraft;2018;No;1;Yes;2019;Yes;New;1.0000;1.0000;1;No
+62251;United States;Guatemala;Cessna-208 Caravan;light transport ac;Aircraft;2018;No;3;Yes;2018;No;New;1.0000;1.0000;3;No
+59671;United States;Lebanon;M-198 155mm;towed gun;Artillery;2015;No;40;No;2016;No;Second hand;0.8500;0.34;13.6;No
+34950;United States;Japan;AE-2100;turboprop;Engines;1996;Yes;4;No;2020;No;New;1.5000;1.5000;6;No
+34950;United States;Japan;AE-2100;turboprop;Engines;1996;Yes;4;No;2017;No;New;1.5000;1.5000;6;No
+54209;United States;Indonesia;AH-64E Apache;combat helicopter;Aircraft;2014;Yes;5;No;2018;No;New;15.0000;15.0000;75;No
+54209;United States;Indonesia;AH-64E Apache;combat helicopter;Aircraft;2014;Yes;3;No;2017;No;New;15.0000;15.0000;45;No
+60474;United States;Afghanistan;MD-500E;light helicopter;Aircraft;2017;No;21;No;2019;No;New;0.7000;0.7000;14.7;No
+60474;United States;Afghanistan;MD-500E;light helicopter;Aircraft;2017;No;9;No;2018;No;New;0.7000;0.7000;6.3;No
+57709;United States;Israel;AIM-9X Sidewinder;BVRAAM;Missiles;2014;No;8;Yes;2020;Yes;New;0.1800;0.1800;1.44;No
+57709;United States;Israel;AIM-9X Sidewinder;BVRAAM;Missiles;2014;No;10;Yes;2019;Yes;New;0.1800;0.1800;1.8;No
+57709;United States;Israel;AIM-9X Sidewinder;BVRAAM;Missiles;2014;No;5;Yes;2017;Yes;New;0.1800;0.1800;0.9;No
+57709;United States;Israel;AIM-9X Sidewinder;BVRAAM;Missiles;2014;No;5;Yes;2016;Yes;New;0.1800;0.1800;0.9;No
+58438;United States;Thailand;AIM-120C AMRAAM;BVRAAM;Missiles;2014;No;25;Yes;2017;Yes;New;0.6000;0.6000;15;No
+58438;United States;Thailand;AIM-120C AMRAAM;BVRAAM;Missiles;2014;No;25;Yes;2016;Yes;New;0.6000;0.6000;15;No
+59468;United States;Taiwan;Mk-15 Phalanx;naval gun;Naval weapons;2016;No;1;Yes;2021;Yes;New;7.0000;7.0000;7;No
+53876;United States;Japan;SeaRAM;naval SAM system;Naval weapons;2011;No;2;No;2017;No;New;7.0000;7.0000;14;No
+5846;United States;Qatar;Patriot Configuration-3;SAM/ABM system;Air defence systems;2014;No;1;Yes;2019;Yes;New;55.0000;55.0000;55;No
+5846;United States;Qatar;Patriot Configuration-3;SAM/ABM system;Air defence systems;2014;No;3;Yes;2018;No;New;55.0000;55.0000;165;No
+5846;United States;Qatar;Patriot Configuration-3;SAM/ABM system;Air defence systems;2014;No;3;Yes;2017;No;New;55.0000;55.0000;165;No
+5846;United States;Qatar;Patriot Configuration-3;SAM/ABM system;Air defence systems;2014;No;2;Yes;2016;Yes;New;55.0000;55.0000;110;No
+59471;United States;Taiwan;Stinger;portable SAM;Missiles;2017;Yes;125;Yes;2020;Yes;New;0.0800;0.0800;10;No
+59471;United States;Taiwan;Stinger;portable SAM;Missiles;2017;Yes;125;Yes;2019;No;New;0.0800;0.0800;10;No
+63886;United States;Bosnia-Herzegovina;HMMWV;APV;Armoured vehicles;2017;Yes;6;Yes;2019;No;New;0.1100;0.1100;0.66;No
+63886;United States;Bosnia-Herzegovina;HMMWV;APV;Armoured vehicles;2017;Yes;6;Yes;2020;No;New;0.1100;0.1100;0.66;No
+63886;United States;Bosnia-Herzegovina;HMMWV;APV;Armoured vehicles;2017;Yes;8;Yes;2017;No;New;0.1100;0.1100;0.88;No
+61756;United States;Angola;Citation-1;light transport ac;Aircraft;2015;Yes;1;No;2017;No;Second hand;4.0000;1.6;1.6;No
+59470;United States;Taiwan;BGM-71F TOW-2B;anti-tank missile;Missiles;2018;No;230;Yes;2021;Yes;New;0.0200;0.0200;4.6;No
+59470;United States;Taiwan;BGM-71F TOW-2B;anti-tank missile;Missiles;2018;No;230;Yes;2020;Yes;New;0.0200;0.0200;4.6;No
+53561;United States;Egypt;M-1A1 Abrams;tank;Armoured vehicles;2011;No;35;Yes;2018;No;New;4.0000;4.0000;140;Yes
+53561;United States;Egypt;M-1A1 Abrams;tank;Armoured vehicles;2011;No;40;Yes;2017;No;New;4.0000;4.0000;160;Yes
+53561;United States;Egypt;M-1A1 Abrams;tank;Armoured vehicles;2011;No;40;Yes;2016;No;New;4.0000;4.0000;160;Yes
+54356;United States;South Korea;AH-64E Apache;combat helicopter;Aircraft;2013;No;18;Yes;2017;No;New;15.0000;15.0000;270;Yes
+54356;United States;South Korea;AH-64E Apache;combat helicopter;Aircraft;2013;No;18;Yes;2016;No;New;15.0000;15.0000;270;Yes
+59737;United States;Tunisia;AGM-114K HELLFIRE;anti-tank missile;Missiles;2015;No;150;Yes;2017;No;New;0.0500;0.0500;7.5;No
+37210;United States;Denmark;F-35A Lightning-2;FGA aircraft;Aircraft;2018;No;4;No;2021;No;New;55.0000;55.0000;220;Yes
+59738;United States;Tunisia;MX-7;light aircraft;Aircraft;2016;No;12;No;2016;No;New;0.1000;0.1000;1.2;No
+61767;United States;Qatar;WGU-59 APKWS;anti-tank missile/ASM;Missiles;2018;Yes;2500;Yes;2020;Yes;New;0.0400;0.0400;100;No
+61767;United States;Qatar;WGU-59 APKWS;anti-tank missile/ASM;Missiles;2018;Yes;2500;Yes;2019;Yes;New;0.0400;0.0400;100;No
+50570;United States;United Kingdom;RC-135 Rivet Joint;SIGINT aircraft;Aircraft;2010;No;1;No;2017;No;New;150.0000;150.0000;150;No
+61617;United States;Jamaica;Bell-429 GlobalRanger;light helicopter;Aircraft;2018;Yes;1;No;2019;Yes;New;2.7000;2.7000;2.7;No
+61617;United States;Jamaica;Bell-429 GlobalRanger;light helicopter;Aircraft;2018;Yes;2;No;2018;No;New;2.7000;2.7000;5.4;No
+36201;United States;Taiwan;Harpoon Block-2;anti-ship missile/SSM;Missiles;2008;Yes;2;Yes;2016;Yes;New;1.0000;1.0000;2;No
+62295;United States;Jamaica;King Air Maritime;MP aircraft;Aircraft;2017;No;1;No;2018;No;New;7.5000;7.5000;7.5;No
+4031;United States;NATO**;RQ-4A Global Hawk;UAV;Aircraft;2012;No;3;No;2020;No;New;35.0000;35.0000;105;No
+4031;United States;NATO**;RQ-4A Global Hawk;UAV;Aircraft;2012;No;2;No;2019;No;New;35.0000;35.0000;70;No
+63859;United States;Turkey;ISL;diesel engine;Engines;2017;No;129;Yes;2020;Yes;New;0.0400;0.0400;5.16;No
+63859;United States;Turkey;ISL;diesel engine;Engines;2017;No;200;Yes;2019;No;New;0.0400;0.0400;8;No
+63859;United States;Turkey;ISL;diesel engine;Engines;2017;No;200;Yes;2018;No;New;0.0400;0.0400;8;No
+34125;United States;Greece;RIM-162 ESSM;SAM;Missiles;2005;No;18;No;2018;No;New;0.4000;0.4000;7.2;No
+59779;United States;Jordan;ISB4;diesel engine;Engines;2014;No;10;Yes;2018;Yes;New;0.0800;0.0800;0.8;No
+59779;United States;Jordan;ISB4;diesel engine;Engines;2014;No;5;Yes;2017;No;New;0.0800;0.0800;0.4;No
+59779;United States;Jordan;ISB4;diesel engine;Engines;2014;No;10;Yes;2016;No;New;0.0800;0.0800;0.8;No
+64652;United States;Brunei;RQ-21 Blackjack;UAV;Aircraft;2020;Yes;5;Yes;2021;No;New;0.0700;0.0700;0.35;No
+59805;United States;Pakistan;Cessna-U206;light aircraft;Aircraft;2016;No;4;No;2017;No;New;0.2500;0.2500;1;No
+36865;United States;UAE;Talon;anti-tank missile/ASM;Missiles;2013;No;500;Yes;2018;Yes;New;0.0400;0.0400;20;No
+36865;United States;UAE;Talon;anti-tank missile/ASM;Missiles;2013;No;500;Yes;2017;Yes;New;0.0400;0.0400;20;No
+36865;United States;UAE;Talon;anti-tank missile/ASM;Missiles;2013;No;500;Yes;2016;Yes;New;0.0400;0.0400;20;No
+32390;United States;Denmark;RIM-162 ESSM;SAM;Missiles;2002;No;8;Yes;2016;Yes;New;0.4000;0.4000;3.2;Yes
+64161;United States;Qatar;AAQ-13 LANTIRN;combat ac radar;Sensors;2019;No;10;Yes;2021;No;New;1.0000;1.0000;10;No
+64655;United States;Qatar;AAQ-33 Sniper;aircraft EO system;Sensors;2017;No;10;Yes;2021;Yes;New;1.0000;1.0000;10;No
+62390;United States;Qatar;AIM-9X Sidewinder;BVRAAM;Missiles;2017;No;50;Yes;2021;Yes;New;0.1800;0.1800;9;No
+52499;United States;Saudi Arabia;DB-110;aircraft recce system;Sensors;2012;No;2;Yes;2016;Yes;New;4.0000;4.0000;8;No
+50024;United States;Turkey;RIM-162 ESSM;SAM;Missiles;2009;Yes;25;Yes;2017;Yes;New;0.4000;0.4000;10;Yes
+50024;United States;Turkey;RIM-162 ESSM;SAM;Missiles;2009;Yes;25;Yes;2016;Yes;New;0.4000;0.4000;10;Yes
+62308;United States;Taiwan;F-125;turbofan;Engines;2017;Yes;4;Yes;2021;No;New;1.2500;1.2500;5;No
+55445;United States;Iraq;F404;turbofan;Engines;2013;Yes;6;Yes;2017;No;New;2.2000;2.2000;13.2;No
+55445;United States;Iraq;F404;turbofan;Engines;2013;Yes;18;Yes;2016;No;New;2.2000;2.2000;39.6;No
+52732;United States;Israel;F-35A Lightning-2;FGA aircraft;Aircraft;2015;No;8;Yes;2021;No;New;55.0000;55.0000;440;Yes
+52732;United States;Israel;F-35A Lightning-2;FGA aircraft;Aircraft;2015;No;4;Yes;2020;No;New;55.0000;55.0000;220;Yes
+52732;United States;Israel;F-35A Lightning-2;FGA aircraft;Aircraft;2015;No;2;Yes;2019;No;New;55.0000;55.0000;110;Yes
+59821;United States;Egypt;Harpoon Block-2;anti-ship missile/SSM;Missiles;2016;Yes;10;Yes;2020;Yes;New;1.0000;1.0000;10;No
+59821;United States;Egypt;Harpoon Block-2;anti-ship missile/SSM;Missiles;2016;Yes;10;Yes;2017;Yes;New;1.0000;1.0000;10;No
+55974;United States;France;MQ-9 Reaper;UAV;Aircraft;2013;No;1;No;2017;No;New;7.5000;7.5000;7.5;No
+55974;United States;France;MQ-9 Reaper;UAV;Aircraft;2013;No;2;No;2016;No;New;7.5000;7.5000;15;No
+64101;United States;Philippines;BGM-71 TOW;anti-tank missile;Missiles;2020;No;100;No;2020;No;New;0.0100;0.0100;1;No
+61792;United States;Costa Rica;Nemesis;APC/APV;Armoured vehicles;2017;No;1;No;2018;No;New;0.1500;0.1500;0.15;No
+63354;United States;Libya HoR*;ISC;diesel engine;Engines;2018;Yes;5;Yes;2018;Yes;New;0.0400;0.0400;0.2;No
+52327;United States;Finland;Dragon Shield;SIGINT system;Sensors;2010;No;1;No;2018;No;New;25.0000;25.0000;25;Yes
+61721;United States;UAE;AIM-9X Sidewinder;BVRAAM;Missiles;2018;No;100;Yes;2021;Yes;New;0.1800;0.1800;18;No
+61721;United States;UAE;AIM-9X Sidewinder;BVRAAM;Missiles;2018;No;100;Yes;2020;No;New;0.1800;0.1800;18;No
+61721;United States;UAE;AIM-9X Sidewinder;BVRAAM;Missiles;2018;No;100;Yes;2019;Yes;New;0.1800;0.1800;18;No
+52512;United States;Saudi Arabia;APG-78 Longbow;combat heli radar;Sensors;2010;Yes;12;Yes;2016;No;New;3.0000;3.0000;36;No
+61345;United States;Morocco;M-1A1 Abrams;tank;Armoured vehicles;2018;Yes;50;Yes;2021;Yes;New;4.0000;4.0000;200;No
+57695;United States;India;C-130J-30 Hercules;transport aircraft;Aircraft;2018;Yes;1;No;2019;No;New;37.5000;37.5000;37.5;No
+53514;United States;Turkey;Mk-15 Phalanx;naval gun;Naval weapons;2011;Yes;2;No;2018;No;New;7.0000;7.0000;14;No
+53514;United States;Turkey;Mk-15 Phalanx;naval gun;Naval weapons;2011;Yes;2;No;2017;No;New;7.0000;7.0000;14;No
+61618;United States;Jamaica;Bell-412;helicopter;Aircraft;2018;Yes;1;No;2018;No;New;5.0000;5.0000;5;No
+59852;United States;Austria;6BT;diesel engine;Engines;2016;No;32;Yes;2019;No;New;0.0300;0.0300;0.96;No
+62335;United States;South Korea;F135-100;turbofan;Engines;2014;No;1;Yes;2021;Yes;New;4.0000;4.0000;4;No
+62335;United States;South Korea;F135-100;turbofan;Engines;2014;No;1;Yes;2020;Yes;New;4.0000;4.0000;4;No
+62335;United States;South Korea;F135-100;turbofan;Engines;2014;No;1;Yes;2019;Yes;New;4.0000;4.0000;4;No
+62335;United States;South Korea;F135-100;turbofan;Engines;2014;No;2;Yes;2018;Yes;New;4.0000;4.0000;8;No
+62341;United States;Mexico;RIM-162 ESSM;SAM;Missiles;2018;Yes;8;Yes;2020;Yes;New;0.4000;0.4000;3.2;No
+62347;United States;Norway;CFM-56/F-108;turbofan;Engines;2018;No;1;No;2019;No;New;3.0000;3.0000;3;No
+53954;United States;Taiwan;AIM-9X Sidewinder;BVRAAM;Missiles;2016;Yes;20;No;2019;Yes;New;0.1800;0.1800;3.6;No
+53954;United States;Taiwan;AIM-9X Sidewinder;BVRAAM;Missiles;2016;Yes;20;Yes;2018;Yes;New;0.1800;0.1800;3.6;No
+63358;United States;Philippines;EDO-997;ASW sonar;Sensors;2017;Yes;1;No;2021;No;New;7.5000;7.5000;7.5;No
+63358;United States;Philippines;EDO-997;ASW sonar;Sensors;2017;Yes;1;No;2020;No;New;7.5000;7.5000;7.5;No
+61187;United States;Romania;ATACMS Block-1;SSM;Missiles;2018;No;27;Yes;2021;Yes;New;1.4000;1.4000;37.8;No
+62188;United States;Ukraine;Island;patrol craft;Ships;2018;No;2;No;2018;No;Second hand;9.2000;3.68;7.36;No
+50830;United States;Slovakia;AE-2100;turboprop;Engines;2014;No;2;No;2018;No;New;1.5000;1.5000;3;No
+50830;United States;Slovakia;AE-2100;turboprop;Engines;2014;No;2;No;2017;No;New;1.5000;1.5000;3;No
+62755;United States;Philippines;ScanEagle;UAV;Aircraft;2019;No;8;No;2020;No;New;0.0400;0.0400;0.32;No
+50766;United States;Turkey;T-800;turboshaft;Engines;2008;No;10;Yes;2021;No;New;0.8000;0.8000;8;Yes
+50766;United States;Turkey;T-800;turboshaft;Engines;2008;No;2;Yes;2020;No;New;0.8000;0.8000;1.6;Yes
+50766;United States;Turkey;T-800;turboshaft;Engines;2008;No;26;Yes;2019;No;New;0.8000;0.8000;20.8;Yes
+50766;United States;Turkey;T-800;turboshaft;Engines;2008;No;20;Yes;2018;No;New;0.8000;0.8000;16;Yes
+50766;United States;Turkey;T-800;turboshaft;Engines;2008;No;18;Yes;2017;No;New;0.8000;0.8000;14.4;Yes
+50766;United States;Turkey;T-800;turboshaft;Engines;2008;No;18;Yes;2016;No;New;0.8000;0.8000;14.4;Yes
+52506;United States;Saudi Arabia;Harpoon Block-2;anti-ship missile/SSM;Missiles;2012;Yes;80;Yes;2020;Yes;New;1.0000;1.0000;80;No
+52506;United States;Saudi Arabia;Harpoon Block-2;anti-ship missile/SSM;Missiles;2012;Yes;100;Yes;2019;Yes;New;1.0000;1.0000;100;No
+52506;United States;Saudi Arabia;Harpoon Block-2;anti-ship missile/SSM;Missiles;2012;Yes;100;Yes;2018;Yes;New;1.0000;1.0000;100;No
+52506;United States;Saudi Arabia;Harpoon Block-2;anti-ship missile/SSM;Missiles;2012;Yes;100;Yes;2017;Yes;New;1.0000;1.0000;100;No
+52506;United States;Saudi Arabia;Harpoon Block-2;anti-ship missile/SSM;Missiles;2012;Yes;20;Yes;2016;Yes;New;1.0000;1.0000;20;No
+52856;United States;Switzerland;AIM-120C AMRAAM;BVRAAM;Missiles;2013;Yes;50;Yes;2017;Yes;New;0.6000;0.6000;30;No
+52856;United States;Switzerland;AIM-120C AMRAAM;BVRAAM;Missiles;2013;Yes;100;No;2016;No;New;0.6000;0.6000;60;No
+54762;United States;Bahrain;M-198 155mm;towed gun;Artillery;2012;No;12;No;2017;No;Second hand;0.8500;0.34;4.08;No
+62598;United States;UAE;Patriot Configuration-3;SAM/ABM system;Air defence systems;2018;No;1;Yes;2021;Yes;New;55.0000;55.0000;55;No
+55386;United States;Brazil;6V-53;diesel engine;Engines;2015;No;36;Yes;2020;No;New;0.0400;0.0400;1.44;No
+55386;United States;Brazil;6V-53;diesel engine;Engines;2015;No;70;Yes;2019;No;New;0.0400;0.0400;2.8;No
+55386;United States;Brazil;6V-53;diesel engine;Engines;2015;No;70;Yes;2018;No;New;0.0400;0.0400;2.8;No
+55386;United States;Brazil;6V-53;diesel engine;Engines;2015;No;60;Yes;2017;No;New;0.0400;0.0400;2.4;No
+55514;United States;Norway;JDAM;guided bomb;Missiles;2014;No;119;Yes;2016;Yes;New;0.0200;0.0200;2.38;No
+55557;United States;Qatar;MIM-104C PAC-2;SAM;Missiles;2014;No;98;Yes;2017;Yes;New;1.0000;1.0000;98;No
+55557;United States;Qatar;MIM-104C PAC-2;SAM;Missiles;2014;No;100;Yes;2016;Yes;New;1.0000;1.0000;100;No
+56071;United States;United Kingdom;MQ-9 Reaper;armed uav;Aircraft;2021;No;1;No;2021;No;New;7.5000;7.5000;7.5;No
+56250;United States;South Korea;AIM-9X Sidewinder;BVRAAM;Missiles;2013;Yes;36;Yes;2017;Yes;New;0.1800;0.1800;6.48;No
+56250;United States;South Korea;AIM-9X Sidewinder;BVRAAM;Missiles;2013;Yes;40;Yes;2016;Yes;New;0.1800;0.1800;7.2;No
+56541;United States;Singapore;TPQ-53;arty locating radar;Sensors;2017;No;3;Yes;2019;Yes;New;7.0000;7.0000;21;No
+56541;United States;Singapore;TPQ-53;arty locating radar;Sensors;2017;No;3;Yes;2018;Yes;New;7.0000;7.0000;21;No
+61554;United States;Qatar;AIM-120C AMRAAM;BVRAAM;Missiles;2017;Yes;75;Yes;2021;No;New;0.6000;0.6000;45;No
+56438;United States;Japan;E-2D Hawkeye;AEW&C aircraft;Aircraft;2015;No;2;No;2020;No;New;105.0000;105.0000;210;No
+56438;United States;Japan;E-2D Hawkeye;AEW&C aircraft;Aircraft;2015;No;2;No;2019;No;New;105.0000;105.0000;210;No
+60897;United States;UAE;MIM-104F PAC-3;ABM;Missiles;2018;No;60;Yes;2020;No;New;1.0000;1.0000;60;No
+62369;United States;Lebanon;M-712 Copperhead;guided shell;Missiles;2015;Yes;827;No;2018;No;Second hand;0.0300;0.012;9.924;No
+56171;United States;Kuwait;Patriot Configuration-3;SAM/ABM system;Air defence systems;2014;No;1;Yes;2018;Yes;New;55.0000;55.0000;55;No
+56171;United States;Kuwait;Patriot Configuration-3;SAM/ABM system;Air defence systems;2014;No;1;Yes;2017;Yes;New;55.0000;55.0000;55;No
+58189;United States;Greece;T55-L;turboshaft;Engines;2015;No;3;Yes;2018;Yes;New;1.2000;1.2000;3.6;No
+51336;United States;Lebanon;R-44;light helicopter;Aircraft;2017;Yes;2;Yes;2018;Yes;New;0.2500;0.2500;0.5;No
+63135;United States;UAE;MIM-104F PAC-3;ABM;Missiles;2019;No;100;Yes;2021;Yes;New;1.0000;1.0000;100;No
+51122;United States;Jordan;AIM-120C AMRAAM;BVRAAM;Missiles;2009;No;40;Yes;2016;Yes;New;0.6000;0.6000;24;No
+57531;United States;United Kingdom;BGM-109 Tomahawk;SSM;Missiles;2014;No;20;Yes;2016;No;New;0.7000;0.7000;14;No
+64676;United States;Turkmenistan;F-124;turbofan;Engines;2019;Yes;12;Yes;2021;No;New;1.0000;1.0000;12;No
+62383;United States;Thailand;Mk-15 Phalanx;naval gun;Naval weapons;2013;Yes;1;No;2018;No;New;7.0000;7.0000;7;No
+62384;United States;Thailand;Mk-41 VLS;naval SAM system;Naval weapons;2013;Yes;1;No;2018;No;New;20.0000;20.0000;20;No
+54626;United States;Finland;JDAM;guided bomb;Missiles;2015;Yes;8;Yes;2017;Yes;New;0.0200;0.0200;0.16;No
+54626;United States;Finland;JDAM;guided bomb;Missiles;2015;Yes;18;Yes;2016;Yes;New;0.0200;0.0200;0.36;No
+54815;United States;Bahrain;M-106;self-propelled mortar;Artillery;2011;Yes;1;No;2017;No;Second hand;0.3100;0.124;0.124;No
+55002;United States;Algeria;T-800;turboshaft;Engines;2012;No;6;Yes;2016;No;New;0.8000;0.8000;4.8;No
+61587;United States;Israel;16V-92;diesel engine;Engines;2017;No;25;Yes;2019;Yes;New;0.1700;0.1700;4.25;No
+61587;United States;Israel;16V-92;diesel engine;Engines;2017;No;25;Yes;2018;Yes;New;0.1700;0.1700;4.25;No
+62387;United States;Thailand;LM-2500;gas turbine;Engines;2013;No;1;No;2018;No;New;7.0000;7.0000;7;No
+55178;United States;Iraq;King Air-350 ISR;AGS aircraft;Aircraft;2014;No;1;No;2016;No;New;11.0000;11.0000;11;No
+59597;United States;Romania;TPS-77;air search radar;Sensors;2016;No;1;Yes;2018;Yes;New;11.0000;11.0000;11;No
+59597;United States;Romania;TPS-77;air search radar;Sensors;2016;No;1;Yes;2017;Yes;New;11.0000;11.0000;11;No
+52503;United States;Saudi Arabia;JDAM;guided bomb;Missiles;2012;No;600;Yes;2016;Yes;New;0.0200;0.0200;12;No
+64377;United States;UAE;MIM-104C PAC-2;SAM;Missiles;2019;No;35;Yes;2021;Yes;New;1.0000;1.0000;35;No
+56498;United States;Belgium;AIM-9X Sidewinder;BVRAAM;Missiles;2014;Yes;3;Yes;2018;Yes;New;0.1800;0.1800;0.54;No
+56498;United States;Belgium;AIM-9X Sidewinder;BVRAAM;Missiles;2014;Yes;15;Yes;2017;Yes;New;0.1800;0.1800;2.7;No
+56498;United States;Belgium;AIM-9X Sidewinder;BVRAAM;Missiles;2014;Yes;15;Yes;2016;Yes;New;0.1800;0.1800;2.7;No
+59375;United States;Saudi Arabia;JDAM;guided bomb;Missiles;2016;No;2645;Yes;2018;Yes;New;0.0200;0.0200;52.9;No
+62393;United States;Romania;JDAM;guided bomb;Missiles;2017;No;180;Yes;2019;Yes;New;0.0200;0.0200;3.6;No
+61176;United States;Lebanon;M-992 FAASV;ALV;Armoured vehicles;2017;No;28;No;2019;No;Second hand;0.6000;0.24;6.72;No
+59879;United States;Norway;AIM-9X Sidewinder;BVRAAM;Missiles;2015;Yes;90;Yes;2018;Yes;New;0.1800;0.1800;16.2;No
+33238;United States;Turkey;CH-47F Chinook;transport helicopter;Aircraft;2011;Yes;6;No;2016;No;New;20.0000;20.0000;120;No
+59887;United States;Canada;JDAM;guided bomb;Missiles;2015;No;350;Yes;2016;Yes;New;0.0200;0.0200;7;No
+59891;United States;Denmark;JDAM;guided bomb;Missiles;2015;No;50;Yes;2016;Yes;New;0.0200;0.0200;1;No
+59888;United States;Netherlands;JDAM;guided bomb;Missiles;2015;No;300;Yes;2016;Yes;New;0.0200;0.0200;6;No
+59890;United States;Belgium;JDAM;guided bomb;Missiles;2015;No;60;Yes;2016;Yes;New;0.0200;0.0200;1.2;No
+52500;United States;Saudi Arabia;AIM-9X Sidewinder;BVRAAM;Missiles;2011;Yes;30;Yes;2019;Yes;New;0.1800;0.1800;5.4;No
+52500;United States;Saudi Arabia;AIM-9X Sidewinder;BVRAAM;Missiles;2011;Yes;50;Yes;2018;Yes;New;0.1800;0.1800;9;No
+52500;United States;Saudi Arabia;AIM-9X Sidewinder;BVRAAM;Missiles;2011;Yes;50;Yes;2017;Yes;New;0.1800;0.1800;9;No
+52500;United States;Saudi Arabia;AIM-9X Sidewinder;BVRAAM;Missiles;2011;Yes;50;Yes;2016;Yes;New;0.1800;0.1800;9;No
+58729;United States;Israel;16V-92;diesel engine;Engines;2015;No;75;Yes;2017;Yes;New;0.1700;0.1700;12.75;No
+58729;United States;Israel;16V-92;diesel engine;Engines;2015;No;25;Yes;2016;Yes;New;0.1700;0.1700;4.25;No
+59376;United States;Morocco;BGM-71 TOW;anti-tank missile;Missiles;2016;No;300;Yes;2018;Yes;New;0.0100;0.0100;3;No
+59376;United States;Morocco;BGM-71 TOW;anti-tank missile;Missiles;2016;No;300;Yes;2017;Yes;New;0.0100;0.0100;3;No
+58732;United States;UAE;M-ATV;APV;Armoured vehicles;2014;No;44;Yes;2016;Yes;Second hand;0.2500;0.1;4.4;No
+59908;United States;United Kingdom;AGM-114K HELLFIRE;anti-tank missile;Missiles;2015;No;500;Yes;2016;Yes;New;0.0500;0.0500;25;No
+62395;United States;Japan;LM-2500;gas turbine;Engines;2013;Yes;2;No;2019;No;New;7.0000;7.0000;14;Yes
+62395;United States;Japan;LM-2500;gas turbine;Engines;2013;Yes;2;No;2018;No;New;7.0000;7.0000;14;Yes
+62396;United States;Japan;Mk-45-4 127mm;naval gun;Naval weapons;2013;Yes;1;No;2019;No;New;7.5000;7.5000;7.5;No
+62396;United States;Japan;Mk-45-4 127mm;naval gun;Naval weapons;2013;Yes;1;No;2018;No;New;7.5000;7.5000;7.5;No
+62397;United States;Japan;Mk-15 Phalanx;naval gun;Naval weapons;2013;Yes;2;No;2019;No;New;7.0000;7.0000;14;No
+62397;United States;Japan;Mk-15 Phalanx;naval gun;Naval weapons;2013;Yes;2;No;2018;No;New;7.0000;7.0000;14;No
+59918;United States;Australia;M-88A2 HERCULES;ARV;Armoured vehicles;2015;No;6;No;2016;No;New;2.0000;2.0000;12;No
+59914;United States;Malaysia;AIM-120C AMRAAM;BVRAAM;Missiles;2015;No;10;No;2016;No;New;0.6000;0.6000;6;No
+58436;United States;Egypt;AGM-114K HELLFIRE;anti-tank missile;Missiles;2015;No;178;Yes;2017;Yes;New;0.0500;0.0500;8.9;No
+58436;United States;Egypt;AGM-114K HELLFIRE;anti-tank missile;Missiles;2015;No;178;Yes;2016;Yes;New;0.0500;0.0500;8.9;No
+58762;United States;Thailand;AAQ-33 Sniper;aircraft EO system;Sensors;2014;No;3;Yes;2016;Yes;New;1.0000;1.0000;3;No
+58763;United States;Romania;AAQ-33 Sniper;aircraft EO system;Sensors;2014;Yes;5;Yes;2016;Yes;New;1.0000;1.0000;5;No
+58765;United States;Turkey;LM-2500;gas turbine;Engines;2015;No;1;No;2019;No;New;7.0000;7.0000;7;No
+58765;United States;Turkey;LM-2500;gas turbine;Engines;2015;No;1;No;2018;No;New;7.0000;7.0000;7;No
+59886;United States;Saudi Arabia;AH-64E Apache;combat helicopter;Aircraft;2015;No;20;Yes;2021;No;New;15.0000;15.0000;300;No
+60401;United States;Egypt;AAQ-14 LANTIRN;aircraft EO system;Sensors;2016;No;31;Yes;2019;Yes;Second hand;1.0000;0.4;12.4;No
+60401;United States;Egypt;AAQ-14 LANTIRN;aircraft EO system;Sensors;2016;No;31;Yes;2018;Yes;Second hand;1.0000;0.4;12.4;No
+59482;United States;Afghanistan;MD-500E;light helicopter;Aircraft;2015;Yes;12;No;2016;No;New;0.7000;0.7000;8.4;No
+58813;United States;Israel;JDAM;guided bomb;Missiles;2015;No;100;Yes;2016;Yes;New;0.0200;0.0200;2;No
+58814;United States;Israel;JDAM;guided bomb;Missiles;2014;No;1500;Yes;2016;No;New;0.0200;0.0200;30;No
+58816;United States;Israel;GBU-39 SDB;guided bomb;Missiles;2012;No;1150;Yes;2017;Yes;New;0.0200;0.0200;23;No
+58816;United States;Israel;GBU-39 SDB;guided bomb;Missiles;2012;No;1150;Yes;2016;Yes;New;0.0200;0.0200;23;No
+58818;United States;Israel;Paveway;guided bomb;Missiles;2015;No;278;Yes;2018;Yes;New;0.0200;0.0200;5.56;No
+58818;United States;Israel;Paveway;guided bomb;Missiles;2015;No;422;Yes;2019;No;New;0.0200;0.0200;8.44;No
+58836;United States;Mexico;Boeing-737NG;transport aircraft;Aircraft;2015;No;2;No;2016;No;New;33.0000;33.0000;66;No
+58852;United States;Jordan;Caiman;APC;Armoured vehicles;2014;No;55;Yes;2018;Yes;Second hand;0.2500;0.1;5.5;No
+58852;United States;Jordan;Caiman;APC;Armoured vehicles;2014;No;45;No;2016;No;Second hand;0.2500;0.1;4.5;No
+58852;United States;Jordan;Caiman;APC;Armoured vehicles;2014;No;100;Yes;2017;Yes;Second hand;0.2500;0.1;10;No
+58857;United States;Spain;MaxxPro;APC;Armoured vehicles;2014;No;14;No;2016;No;Second hand;0.3200;0.128;1.792;No
+58851;United States;Jordan;RG-33;APC;Armoured vehicles;2014;Yes;100;Yes;2019;Yes;Second hand;0.2000;0.08;8;No
+58851;United States;Jordan;RG-33;APC;Armoured vehicles;2014;Yes;100;Yes;2018;Yes;Second hand;0.2000;0.08;8;No
+58855;United States;Nigeria;MaxxPro;APC;Armoured vehicles;2014;No;10;No;2016;No;Second hand;0.3200;0.128;1.28;No
+53945;United States;Bahrain;BGM-71 TOW;anti-tank missile;Missiles;2016;No;32;Yes;2018;Yes;New;0.0100;0.0100;0.32;No
+53945;United States;Bahrain;BGM-71 TOW;anti-tank missile;Missiles;2016;No;232;Yes;2017;Yes;New;0.0100;0.0100;2.32;No
+58430;United States;Lebanon;HMMWV Up-Armoured;APV;Armoured vehicles;2014;Yes;50;No;2016;No;Second hand;0.1400;0.056;2.8;No
+60398;United States;Greece;J85;turbojet;Engines;2016;No;15;No;2017;No;Second hand;0.6000;0.24;3.6;No
+62422;United States;South Korea;JDAM;guided bomb;Missiles;2017;No;290;Yes;2018;Yes;New;0.0200;0.0200;5.8;No
+62424;United States;Oman;JDAM;guided bomb;Missiles;2016;No;108;Yes;2017;Yes;New;0.0200;0.0200;2.16;No
+62425;United States;Turkey;JDAM;guided bomb;Missiles;2017;No;100;Yes;2018;Yes;New;0.0200;0.0200;2;No
+58431;United States;Morocco;JDAM;guided bomb;Missiles;2014;No;70;Yes;2017;Yes;New;0.0200;0.0200;1.4;No
+53130;United States;Japan;JDAM;guided bomb;Missiles;2005;Yes;6;Yes;2017;Yes;New;0.0200;0.0200;0.12;No
+58592;United States;Jordan;AAQ-33 Sniper;aircraft EO system;Sensors;2015;No;5;Yes;2016;No;Second hand;1.0000;0.4;2;No
+58893;United States;Japan;SPY-1D;air search radar;Sensors;2016;No;1;No;2021;No;New;22.0000;22.0000;22;No
+58893;United States;Japan;SPY-1D;air search radar;Sensors;2016;No;1;No;2020;No;New;22.0000;22.0000;22;No
+62430;United States;Guatemala;Cessna-208 Caravan;light transport ac;Aircraft;2018;No;1;No;2018;No;New;1.0000;1.0000;1;No
+58169;United States;Denmark;F100;turbofan;Engines;2013;No;24;Yes;2016;Yes;Second hand;3.2500;1.3;31.2;No
+62433;United States;UAE;MaxxPro;APC;Armoured vehicles;2014;No;569;Yes;2019;Yes;Second hand;0.3200;0.128;72.832;No
+62433;United States;UAE;MaxxPro;APC;Armoured vehicles;2014;No;600;Yes;2018;Yes;Second hand;0.3200;0.128;76.8;No
+62433;United States;UAE;MaxxPro;APC;Armoured vehicles;2014;No;99;Yes;2017;Yes;Second hand;0.3200;0.128;12.672;No
+62433;United States;UAE;MaxxPro;APC;Armoured vehicles;2014;No;44;Yes;2016;Yes;Second hand;0.3200;0.128;5.632;No
+60804;United States;Iraq;MaxxPro;APC;Armoured vehicles;2016;Yes;10;Yes;2016;Yes;New;0.3200;0.3200;3.2;No
+59950;United States;Spain;JDAM;guided bomb;Missiles;2016;No;50;Yes;2018;Yes;New;0.0200;0.0200;1;No
+63421;United States;Unknown recipient(s);AAQ-33 Sniper;aircraft EO system;Sensors;2018;Yes;5;Yes;2020;Yes;New;1.0000;1.0000;5;No
+62444;United States;Morocco;King Air-350 ISR;AGS aircraft;Aircraft;2018;Yes;2;Yes;2019;No;New;11.0000;11.0000;22;No
+58924;United States;Tunisia;HMMWV Up-Armoured;APV;Armoured vehicles;2015;Yes;28;No;2016;No;New;0.1400;0.1400;3.92;No
+53753;United States;Honduras;Cessna-208 Caravan;light transport ac;Aircraft;2015;Yes;1;No;2018;No;New;1.0000;1.0000;1;No
+62442;United States;Guatemala;PA-28 Cherokee;light aircraft;Aircraft;2017;Yes;2;No;2018;No;New;0.1400;0.1400;0.28;No
+62346;United States;Morocco;King Air;light transport ac;Aircraft;2016;No;2;No;2018;No;New;2.8500;2.8500;5.7;No
+58622;United States;Nigeria;Alpha Jet;trainer/combat aircraft;Aircraft;2014;No;1;No;2018;No;Second hand;9.0000;3.6;3.6;No
+58622;United States;Nigeria;Alpha Jet;trainer/combat aircraft;Aircraft;2014;No;1;No;2016;No;Second hand;9.0000;3.6;3.6;No
+58955;United States;Japan;AAQ-33 Sniper;aircraft EO system;Sensors;2014;No;1;Yes;2016;Yes;New;1.0000;1.0000;1;No
+53957;United States;Taiwan;AAQ-33 Sniper;aircraft EO system;Sensors;2015;No;2;Yes;2017;Yes;New;1.0000;1.0000;2;No
+59961;United States;NATO**;JDAM;guided bomb;Missiles;2017;No;420;Yes;2018;Yes;New;0.0200;0.0200;8.4;No
+59971;United States;Brazil;Boeing-767;transport aircraft;Aircraft;2016;No;1;No;2016;No;Second hand;60.0000;24;24;No
+51505;United States;Kuwait;Patriot Configuration-3;SAM/ABM system;Air defence systems;2008;No;2;Yes;2016;Yes;New;55.0000;55.0000;110;No
+29757;United States;Japan;S-70/UH-60L;helicopter;Aircraft;1995;No;1;No;2016;No;New;7.2500;7.2500;7.25;Yes
+35167;United States;Japan;RIM-162 ESSM;SAM;Missiles;2004;No;25;Yes;2017;No;New;0.4000;0.4000;10;Yes
+35167;United States;Japan;RIM-162 ESSM;SAM;Missiles;2004;No;25;Yes;2016;No;New;0.4000;0.4000;10;Yes
+59977;United States;Djibouti;Cougar;APC;Armoured vehicles;2015;Yes;7;Yes;2016;Yes;Second hand;0.3000;0.12;0.84;No
+62463;United States;Niger;Mamba-7;APC;Armoured vehicles;2016;Yes;2;Yes;2016;Yes;New;0.2000;0.2000;0.4;No
+62252;United States;Panama;King Air-350 ISR;AGS aircraft;Aircraft;2017;Yes;1;No;2018;No;New;11.0000;11.0000;11;No
+53347;United States;Taiwan;APG-83 SABR;combat ac radar;Sensors;2014;Yes;30;Yes;2021;No;New;2.5000;2.5000;75;No
+53347;United States;Taiwan;APG-83 SABR;combat ac radar;Sensors;2014;Yes;15;Yes;2019;No;New;2.5000;2.5000;37.5;No
+53347;United States;Taiwan;APG-83 SABR;combat ac radar;Sensors;2014;Yes;22;Yes;2020;No;New;2.5000;2.5000;55;No
+60033;United States;Afghanistan;HMMWV Up-Armoured;APV;Armoured vehicles;2016;No;1223;Yes;2017;No;New;0.1400;0.1400;171.22;No
+60033;United States;Afghanistan;HMMWV Up-Armoured;APV;Armoured vehicles;2016;No;450;Yes;2016;No;New;0.1400;0.1400;63;No
+65019;United States;Bhutan;6BT;diesel engine;Engines;2021;No;15;Yes;2021;No;New;0.0300;0.0300;0.45;No
+62466;United States;Tunisia;C280-12;diesel engine;Engines;2016;No;8;No;2018;No;New;2.0000;2.0000;16;No
+60300;United States;Tunisia;S-70/UH-60L;helicopter;Aircraft;2016;No;2;Yes;2020;Yes;New;7.2500;7.2500;14.5;No
+60300;United States;Tunisia;S-70/UH-60L;helicopter;Aircraft;2016;No;2;Yes;2019;Yes;New;7.2500;7.2500;14.5;No
+60106;United States;Israel;F-15C Eagle;FGA aircraft;Aircraft;2016;No;9;No;2016;No;Second hand;47.5000;19;171;No
+59907;United States;Finland;GMLRS;guided rocket;Missiles;2016;No;90;Yes;2018;Yes;New;0.0800;0.0800;7.2;No
+59907;United States;Finland;GMLRS;guided rocket;Missiles;2016;No;90;Yes;2017;Yes;New;0.0800;0.0800;7.2;No
+60043;United States;Israel;GMLRS;guided rocket;Missiles;2016;No;500;Yes;2018;Yes;New;0.0800;0.0800;40;No
+60043;United States;Israel;GMLRS;guided rocket;Missiles;2016;No;500;Yes;2017;Yes;New;0.0800;0.0800;40;No
+64685;United States;Paraguay;Cessna-208 Caravan;light transport ac;Aircraft;2020;Yes;2;No;2021;No;New;1.0000;1.0000;2;No
+64319;United States;Saudi Arabia;Paveway;guided bomb;Missiles;2019;No;500;Yes;2020;Yes;New;0.0200;0.0200;10;No
+33009;United States;United Kingdom;PC-9;trainer aircraft;Aircraft;2016;No;10;No;2018;No;New;1.6500;1.6500;16.5;No
+59660;United States;Iraq;ASV-150/M-1117;APC;Armoured vehicles;2016;No;60;Yes;2016;No;New;0.3000;0.3000;18;No
+60089;United States;Mauritius;TPE-331;turboprop;Engines;2014;No;2;No;2016;No;New;0.3500;0.3500;0.7;No
+63709;United States;Peru;CH-2000;light aircraft;Aircraft;2019;Yes;2;Yes;2021;No;New;0.1100;0.1100;0.22;No
+63709;United States;Peru;CH-2000;light aircraft;Aircraft;2019;Yes;3;No;2020;No;New;0.1100;0.1100;0.33;No
+63709;United States;Peru;CH-2000;light aircraft;Aircraft;2019;Yes;3;No;2019;No;New;0.1100;0.1100;0.33;No
+54718;United States;Japan;F135-100;turbofan;Engines;2012;Yes;1;Yes;2021;Yes;New;4.0000;4.0000;4;No
+54718;United States;Japan;F135-100;turbofan;Engines;2012;Yes;1;Yes;2020;Yes;New;4.0000;4.0000;4;No
+54718;United States;Japan;F135-100;turbofan;Engines;2012;Yes;1;Yes;2018;Yes;New;4.0000;4.0000;4;No
+24329;United States;Portugal;F-16C;FGA aircraft;Aircraft;1998;No;1;No;2019;No;New;28.5000;28.5000;28.5;No
+24329;United States;Portugal;F-16C;FGA aircraft;Aircraft;1998;No;1;No;2020;No;New;28.5000;28.5000;28.5;No
+62666;United States;UAE;FGM-148 Javelin;anti-tank missile;Missiles;2020;No;331;Yes;2020;No;New;0.0300;0.0300;9.93;No
+63453;United States;Estonia;FGM-148 Javelin;anti-tank missile;Missiles;2019;No;128;No;2020;No;New;0.0300;0.0300;3.84;No
+62498;United States;Thailand;BGM-71F TOW-2B;anti-tank missile;Missiles;2017;No;50;Yes;2018;No;New;0.0200;0.0200;1;No
+59722;United States;UAE;AGM-114K HELLFIRE;anti-tank missile;Missiles;2017;No;1000;Yes;2018;Yes;New;0.0500;0.0500;50;No
+60015;United States;Jordan;BGM-71 TOW;anti-tank missile;Missiles;2016;No;100;Yes;2018;Yes;New;0.0100;0.0100;1;No
+60015;United States;Jordan;BGM-71 TOW;anti-tank missile;Missiles;2016;No;100;Yes;2017;Yes;New;0.0100;0.0100;1;No
+60015;United States;Jordan;BGM-71 TOW;anti-tank missile;Missiles;2016;No;100;Yes;2016;Yes;New;0.0100;0.0100;1;No
+57033;United States;Saudi Arabia;BGM-71F TOW-2B;anti-tank missile;Missiles;2014;Yes;1241;Yes;2018;No;New;0.0200;0.0200;24.82;No
+57033;United States;Saudi Arabia;BGM-71F TOW-2B;anti-tank missile;Missiles;2014;Yes;1300;Yes;2017;No;New;0.0200;0.0200;26;No
+57033;United States;Saudi Arabia;BGM-71F TOW-2B;anti-tank missile;Missiles;2014;Yes;1200;Yes;2016;Yes;New;0.0200;0.0200;24;No
+54448;United States;South Korea;CBU-97 SFW;guided bomb;Missiles;2014;No;361;Yes;2016;No;New;0.1500;0.1500;54.15;No
+61861;United States;Turkey;T-800;turboshaft;Engines;2017;No;14;Yes;2021;No;New;0.8000;0.8000;11.2;Yes
+61861;United States;Turkey;T-800;turboshaft;Engines;2017;No;2;Yes;2019;No;New;0.8000;0.8000;1.6;Yes
+61861;United States;Turkey;T-800;turboshaft;Engines;2017;No;10;Yes;2018;No;New;0.8000;0.8000;8;Yes
+59909;United States;Lebanon;BGM-71F TOW-2B;anti-tank missile;Missiles;2017;No;500;Yes;2020;Yes;New;0.0200;0.0200;10;No
+59909;United States;Lebanon;BGM-71F TOW-2B;anti-tank missile;Missiles;2017;No;500;Yes;2019;Yes;New;0.0200;0.0200;10;No
+59909;United States;Lebanon;BGM-71F TOW-2B;anti-tank missile;Missiles;2017;No;500;Yes;2018;No;New;0.0200;0.0200;10;No
+60131;United States;Philippines;T-800;turboshaft;Engines;2016;No;4;No;2019;No;New;0.8000;0.8000;3.2;No
+60127;United States;Lithuania;MPQ-64 Sentinel;air search radar;Sensors;2016;Yes;1;No;2021;Yes;New;5.0000;5.0000;5;No
+60127;United States;Lithuania;MPQ-64 Sentinel;air search radar;Sensors;2016;Yes;1;Yes;2020;No;New;5.0000;5.0000;5;No
+55126;United States;Italy;AGM-114L HELLFIRE;anti-tank missile;Missiles;2016;Yes;25;Yes;2021;Yes;New;0.0700;0.0700;1.75;No
+55126;United States;Italy;AGM-114L HELLFIRE;anti-tank missile;Missiles;2016;Yes;25;Yes;2020;Yes;New;0.0700;0.0700;1.75;No
+60126;United States;Lithuania;AIM-120C AMRAAM;BVRAAM;Missiles;2016;Yes;50;Yes;2021;Yes;New;0.6000;0.6000;30;No
+60126;United States;Lithuania;AIM-120C AMRAAM;BVRAAM;Missiles;2016;Yes;50;Yes;2020;Yes;New;0.6000;0.6000;30;No
+60138;United States;Croatia;AGM-114A HELLFIRE;anti-tank missile;Missiles;2016;No;50;Yes;2017;Yes;New;0.0400;0.0400;2;No
+60138;United States;Croatia;AGM-114A HELLFIRE;anti-tank missile;Missiles;2016;No;50;Yes;2018;No;New;0.0400;0.0400;2;No
+57034;United States;Saudi Arabia;BGM-71 TOW;anti-tank missile;Missiles;2014;No;3500;Yes;2018;No;New;0.0100;0.0100;35;No
+57034;United States;Saudi Arabia;BGM-71 TOW;anti-tank missile;Missiles;2014;No;3597;Yes;2017;No;New;0.0100;0.0100;35.97;No
+57034;United States;Saudi Arabia;BGM-71 TOW;anti-tank missile;Missiles;2014;No;2650;Yes;2016;No;New;0.0100;0.0100;26.5;No
+60248;United States;Egypt;Swiftships-93;patrol craft;Ships;2016;No;2;Yes;2018;Yes;New;4.5000;4.5000;9;Yes
+60248;United States;Egypt;Swiftships-93;patrol craft;Ships;2016;No;2;Yes;2017;Yes;New;4.5000;4.5000;9;Yes
+59064;United States;Netherlands;M-982 Excalibur;guided shell;Missiles;2017;Yes;500;Yes;2021;Yes;New;0.0400;0.0400;20;No
+59064;United States;Netherlands;M-982 Excalibur;guided shell;Missiles;2017;Yes;1000;Yes;2020;Yes;New;0.0400;0.0400;40;No
+59064;United States;Netherlands;M-982 Excalibur;guided shell;Missiles;2017;Yes;1000;Yes;2019;Yes;New;0.0400;0.0400;40;No
+59064;United States;Netherlands;M-982 Excalibur;guided shell;Missiles;2017;Yes;1000;Yes;2018;Yes;New;0.0400;0.0400;40;No
+60190;United States;Tunisia;VT-400;diesel engine;Engines;2016;Yes;10;Yes;2016;No;New;0.0800;0.0800;0.8;No
+60191;United States;Libya GNC;VT-400;diesel engine;Engines;2015;Yes;8;Yes;2016;Yes;New;0.0800;0.0800;0.64;No
+61645;United States;Brazil;M-113;APC;Armoured vehicles;2017;No;30;No;2020;No;Second hand;0.2500;0.1;3;No
+60213;United States;Egypt;MPQ-64 Sentinel;air search radar;Sensors;2017;No;3;Yes;2021;Yes;New;5.0000;5.0000;15;No
+60213;United States;Egypt;MPQ-64 Sentinel;air search radar;Sensors;2017;No;3;Yes;2020;Yes;New;5.0000;5.0000;15;No
+60213;United States;Egypt;MPQ-64 Sentinel;air search radar;Sensors;2017;No;2;Yes;2019;Yes;New;5.0000;5.0000;10;No
+59926;United States;Saudi Arabia;M-88A2 HERCULES;ARV;Armoured vehicles;2016;Yes;10;Yes;2020;Yes;New;2.0000;2.0000;20;No
+59926;United States;Saudi Arabia;M-88A2 HERCULES;ARV;Armoured vehicles;2016;Yes;10;Yes;2019;No;New;2.0000;2.0000;20;No
+55800;United States;UAE;RIM-116A RAM;SAM;Missiles;2016;Yes;75;Yes;2020;No;New;0.1400;0.1400;10.5;No
+55800;United States;UAE;RIM-116A RAM;SAM;Missiles;2016;Yes;75;Yes;2019;No;New;0.1400;0.1400;10.5;No
+55800;United States;UAE;RIM-116A RAM;SAM;Missiles;2016;Yes;50;Yes;2018;No;New;0.1400;0.1400;7;No
+63478;United States;Indonesia;JDAM;guided bomb;Missiles;2017;Yes;102;Yes;2019;No;New;0.0200;0.0200;2.04;No
+59913;United States;Indonesia;AIM-9X Sidewinder;BVRAAM;Missiles;2017;No;14;Yes;2018;Yes;New;0.1800;0.1800;2.52;No
+54957;United States;Pakistan;King Air-350 ISR;AGS aircraft;Aircraft;2011;Yes;1;Yes;2018;No;New;11.0000;11.0000;11;No
+55459;United States;Iraq;F-16C Block-50/52;FGA aircraft;Aircraft;2013;No;7;Yes;2017;No;New;31.0000;31.0000;217;No
+55459;United States;Iraq;F-16C Block-50/52;FGA aircraft;Aircraft;2013;No;11;Yes;2016;No;New;31.0000;31.0000;341;No
+59025;United States;Jordan;S-70/UH-60A;helicopter;Aircraft;2015;Yes;5;Yes;2016;No;Second hand;6.5000;2.6;13;No
+53562;United States;India;Mk-54 MAKO 324mm;ASW torpedo;Missiles;2011;Yes;8;Yes;2016;Yes;New;0.5000;0.5000;4;No
+62525;United States;Saudi Arabia;MIM-104F PAC-3;ABM;Missiles;2017;No;130;Yes;2020;No;New;1.0000;1.0000;130;No
+60272;United States;Lebanon;M-992 FAASV;ALV;Armoured vehicles;2016;No;10;No;2017;No;Second hand;0.6000;0.24;2.4;No
+59210;United States;Norway;P-8A Poseidon;ASW aircraft;Aircraft;2017;No;1;No;2021;No;New;125.0000;125.0000;125;No
+60273;United States;Morocco;M-113A3;APC;Armoured vehicles;2016;No;20;No;2019;No;Second hand;0.3000;0.12;2.4;No
+60273;United States;Morocco;M-113A3;APC;Armoured vehicles;2016;No;469;No;2017;No;Second hand;0.3000;0.12;56.28;No
+60275;United States;Morocco;M-109A5 155mm;self-propelled gun;Artillery;2015;No;70;Yes;2016;No;Second hand;1.2500;0.5;35;No
+60279;United States;Bahrain;Cougar;APC;Armoured vehicles;2017;Yes;9;No;2017;No;Second hand;0.3000;0.12;1.08;No
+60281;United States;Pakistan;MaxxPro;APC;Armoured vehicles;2017;No;40;No;2017;No;New;0.3200;0.3200;12.8;No
+62535;United States;Saudi Arabia;C13;diesel engine;Engines;2014;No;130;Yes;2021;No;New;0.1500;0.1500;19.5;No
+62535;United States;Saudi Arabia;C13;diesel engine;Engines;2014;No;214;Yes;2020;No;New;0.1500;0.1500;32.1;No
+62535;United States;Saudi Arabia;C13;diesel engine;Engines;2014;No;98;Yes;2018;No;New;0.1500;0.1500;14.7;No
+62535;United States;Saudi Arabia;C13;diesel engine;Engines;2014;No;223;Yes;2019;No;New;0.1500;0.1500;33.45;No
+62530;United States;Syria rebels*;BearCat;APV;Armoured vehicles;2017;No;2;Yes;2017;No;New;0.1500;0.1500;0.3;No
+59896;United States;Japan;Standard Missile-2MR;SAM;Missiles;2016;Yes;23;Yes;2021;Yes;New;0.3000;0.3000;6.9;No
+59896;United States;Japan;Standard Missile-2MR;SAM;Missiles;2016;Yes;10;Yes;2020;Yes;New;0.3000;0.3000;3;No
+59719;United States;Chad;Cessna-208 Caravan;light transport ac;Aircraft;2016;No;2;No;2017;No;New;1.0000;1.0000;2;No
+63513;United States;Netherlands;Caterpillar-3126;diesel engine;Engines;2020;No;6;No;2021;No;New;0.0400;0.0400;0.24;No
+62538;United States;Turkey;FGM-148 Javelin;anti-tank missile;Missiles;2017;Yes;160;Yes;2017;No;New;0.0300;0.0300;4.8;No
+59900;United States;Qatar;FGM-148 Javelin;anti-tank missile;Missiles;2017;No;50;Yes;2018;No;New;0.0300;0.0300;1.5;No
+63519;United States;Qatar;MIM-104F PAC-3;ABM;Missiles;2017;No;24;Yes;2020;Yes;New;1.0000;1.0000;24;No
+60254;United States;Brazil;M-88;ARV;Armoured vehicles;2015;No;4;No;2016;No;Second hand;1.5000;0.6;2.4;No
+59862;United States;Iraq;K-6 120mm;mortar;Artillery;2015;Yes;60;No;2016;No;New;0.0500;0.0500;3;No
+62531;United States;Colombia;C-130H Hercules;transport aircraft;Aircraft;2018;No;2;No;2021;No;Second hand;28.0000;11.2;22.4;No
+62531;United States;Colombia;C-130H Hercules;transport aircraft;Aircraft;2018;No;1;No;2020;No;Second hand;28.0000;11.2;11.2;No
+59876;United States;UAE;Paveway;guided bomb;Missiles;2017;No;3000;Yes;2021;Yes;New;0.0200;0.0200;60;No
+59876;United States;UAE;Paveway;guided bomb;Missiles;2017;No;3000;Yes;2020;Yes;New;0.0200;0.0200;60;No
+59876;United States;UAE;Paveway;guided bomb;Missiles;2017;No;3000;Yes;2019;Yes;New;0.0200;0.0200;60;No
+59876;United States;UAE;Paveway;guided bomb;Missiles;2017;No;3000;Yes;2018;Yes;New;0.0200;0.0200;60;No
+59895;United States;Argentina;PC-9;trainer aircraft;Aircraft;2017;No;4;No;2019;No;New;1.6500;1.6500;6.6;No
+59895;United States;Argentina;PC-9;trainer aircraft;Aircraft;2017;No;4;No;2018;No;New;1.6500;1.6500;6.6;No
+59895;United States;Argentina;PC-9;trainer aircraft;Aircraft;2017;No;4;No;2017;No;New;1.6500;1.6500;6.6;No
+60334;United States;Afghanistan;HMMWV Up-Armoured;APV;Armoured vehicles;2016;No;433;No;2017;No;New;0.1400;0.1400;60.62;No
+60337;United States;Jordan;TPS-77;air search radar;Sensors;2016;No;1;Yes;2018;Yes;New;11.0000;11.0000;11;No
+60337;United States;Jordan;TPS-77;air search radar;Sensors;2016;No;1;Yes;2017;Yes;New;11.0000;11.0000;11;No
+57056;United States;Qatar;C-17A Globemaster-3;heavy transport ac;Aircraft;2015;No;2;Yes;2016;No;New;140.0000;140.0000;280;No
+51118;United States;United Kingdom;T55-L;turboshaft;Engines;2009;No;12;Yes;2016;No;New;1.2000;1.2000;14.4;No
+58289;United States;Mexico;PC-9;trainer aircraft;Aircraft;2014;Yes;2;Yes;2018;Yes;New;1.6500;1.6500;3.3;No
+58289;United States;Mexico;PC-9;trainer aircraft;Aircraft;2014;Yes;3;Yes;2017;No;New;1.6500;1.6500;4.95;No
+58289;United States;Mexico;PC-9;trainer aircraft;Aircraft;2014;Yes;6;No;2016;No;New;1.6500;1.6500;9.9;No
+54621;United States;Philippines;C-130H Hercules;transport aircraft;Aircraft;2014;Yes;2;No;2016;No;Second hand;28.0000;11.2;22.4;No
+60356;United States;Brazil;APS-143(V);MP aircraft radar;Sensors;2013;Yes;1;No;2021;No;New;2.5000;2.5000;2.5;No
+63774;United States;Jamaica;Bell-429 GlobalRanger;light helicopter;Aircraft;2019;No;4;Yes;2021;No;New;2.7000;2.7000;10.8;No
+60408;United States;Morocco;M-88;ARV;Armoured vehicles;2016;No;55;No;2016;No;Second hand;1.5000;0.6;33;No
+59875;United States;UAE;JDAM;guided bomb;Missiles;2017;No;1500;Yes;2018;Yes;New;0.0200;0.0200;30;No
+60403;United States;Iraq;M-198 155mm;towed gun;Artillery;2016;No;18;No;2018;No;Second hand;0.8500;0.34;6.12;No
+60403;United States;Iraq;M-198 155mm;towed gun;Artillery;2016;No;18;No;2017;No;Second hand;0.8500;0.34;6.12;No
+59234;United States;UAE;JDAM;guided bomb;Missiles;2016;Yes;1754;Yes;2018;Yes;New;0.0200;0.0200;35.08;No
+59234;United States;UAE;JDAM;guided bomb;Missiles;2016;Yes;1750;Yes;2017;Yes;New;0.0200;0.0200;35;No
+64895;United States;Estonia;M-ATV;APV;Armoured vehicles;2019;Yes;9;Yes;2021;Yes;New;0.2500;0.2500;2.25;No
+60459;United States;Netherlands;JDAM;guided bomb;Missiles;2018;No;140;Yes;2019;Yes;New;0.0200;0.0200;2.8;No
+60457;United States;Belgium;JDAM;guided bomb;Missiles;2016;Yes;227;Yes;2017;Yes;New;0.0200;0.0200;4.54;No
+60457;United States;Belgium;JDAM;guided bomb;Missiles;2016;Yes;36;Yes;2018;Yes;New;0.0200;0.0200;0.72;No
+58222;United States;Iraq;HMMWV Up-Armoured;APV;Armoured vehicles;2014;No;190;Yes;2017;Yes;New;0.1400;0.1400;26.6;No
+58222;United States;Iraq;HMMWV Up-Armoured;APV;Armoured vehicles;2014;No;500;Yes;2016;No;New;0.1400;0.1400;70;No
+60458;United States;Denmark;JDAM;guided bomb;Missiles;2016;No;150;Yes;2017;Yes;New;0.0200;0.0200;3;No
+59949;United States;Portugal;JDAM;guided bomb;Missiles;2016;Yes;100;Yes;2021;Yes;New;0.0200;0.0200;2;No
+58862;United States;Iraq;HMMWV Up-Armoured;APV;Armoured vehicles;2014;No;570;Yes;2017;No;New;0.1400;0.1400;79.8;No
+58862;United States;Iraq;HMMWV Up-Armoured;APV;Armoured vehicles;2014;No;1300;Yes;2016;No;New;0.1400;0.1400;182;No
+63237;United States;Brazil;ScanEagle;UAV;Aircraft;2019;No;6;Yes;2021;Yes;New;0.0400;0.0400;0.24;No
+60470;United States;Burundi;Cougar;APC;Armoured vehicles;2016;No;21;Yes;2016;No;Second hand;0.3000;0.12;2.52;No
+59034;United States;Saudi Arabia;Paveway;guided bomb;Missiles;2015;No;5420;Yes;2017;Yes;New;0.0200;0.0200;108.4;No
+59034;United States;Saudi Arabia;Paveway;guided bomb;Missiles;2015;No;2700;Yes;2016;Yes;New;0.0200;0.0200;54;No
+62595;United States;Albania;MaxxPro;APC;Armoured vehicles;2018;No;37;No;2019;No;Second hand;0.3200;0.128;4.736;No
+56577;United States;Saudi Arabia;AGM-84H SLAM-ER;ASM;Missiles;2018;Yes;50;Yes;2021;Yes;New;1.2500;1.2500;62.5;No
+58434;United States;Saudi Arabia;AGM-114L HELLFIRE;anti-tank missile;Missiles;2014;No;1088;Yes;2016;No;New;0.0700;0.0700;76.16;No
+58047;United States;Mexico;Bell-407;light helicopter;Aircraft;2015;No;5;Yes;2016;No;New;1.1000;1.1000;5.5;No
+63741;United States;Philippines;C-130H Hercules;transport aircraft;Aircraft;2020;Yes;1;Yes;2021;No;Second hand;28.0000;11.2;11.2;No
+53995;United States;Japan;KC-130H Hercules;tanker/transport ac;Aircraft;2012;Yes;2;Yes;2016;No;Second hand but modernized;38.0000;25.08;50.16;No
+59925;United States;Saudi Arabia;M-1A2S;tank;Armoured vehicles;2016;No;70;Yes;2020;Yes;New;5.0000;5.0000;350;No
+59925;United States;Saudi Arabia;M-1A2S;tank;Armoured vehicles;2016;No;70;Yes;2019;Yes;New;5.0000;5.0000;350;No
+59925;United States;Saudi Arabia;M-1A2S;tank;Armoured vehicles;2016;No;13;Yes;2018;Yes;New;5.0000;5.0000;65;No
+54183;United States;Philippines;Hamilton;OPV;Ships;2015;Yes;1;No;2016;No;Second hand;135.0000;54;54;No
+54651;United States;Italy;G-550 AEW;AEW&C aircraft;Aircraft;2012;No;1;No;2018;No;New;40.0000;40.0000;40;Yes
+54651;United States;Italy;G-550 AEW;AEW&C aircraft;Aircraft;2012;No;1;No;2016;No;New;40.0000;40.0000;40;Yes
+59625;United States;Cameroon;Cessna-208 Caravan;light transport ac;Aircraft;2016;No;2;No;2018;No;New;1.0000;1.0000;2;No
+64361;United States;Jamaica;Bell-505 Jet Ranger X;light helicopter;Aircraft;2021;No;6;No;2021;No;New;0.9000;0.9000;5.4;No
+54181;United States;Mexico;PC-9;trainer aircraft;Aircraft;2014;Yes;3;Yes;2016;No;New;1.6500;1.6500;4.95;No
+58894;United States;Mexico;PC-9;trainer aircraft;Aircraft;2014;No;8;Yes;2017;No;New;1.6500;1.6500;13.2;No
+58894;United States;Mexico;PC-9;trainer aircraft;Aircraft;2014;No;16;Yes;2016;No;New;1.6500;1.6500;26.4;No
+55486;United States;Israel;C-130J Hercules;transport aircraft;Aircraft;2013;No;1;No;2018;No;New;35.0000;35.0000;35;No
+55486;United States;Israel;C-130J Hercules;transport aircraft;Aircraft;2013;No;3;Yes;2016;No;New;35.0000;35.0000;105;No
+54361;United States;Saudi Arabia;F-15 Advanced Eagle;FGA aircraft;Aircraft;2011;No;10;Yes;2021;Yes;New;69.0000;69.0000;690;No
+54361;United States;Saudi Arabia;F-15 Advanced Eagle;FGA aircraft;Aircraft;2011;No;5;Yes;2020;Yes;New;69.0000;69.0000;345;No
+54361;United States;Saudi Arabia;F-15 Advanced Eagle;FGA aircraft;Aircraft;2011;No;2;No;2016;No;New;69.0000;69.0000;138;No
+60571;United States;South Korea;C32;diesel engine;Engines;2015;Yes;6;Yes;2021;No;New;0.2400;0.2400;1.44;No
+60571;United States;South Korea;C32;diesel engine;Engines;2015;Yes;2;Yes;2020;No;New;0.2400;0.2400;0.48;No
+60571;United States;South Korea;C32;diesel engine;Engines;2015;Yes;6;Yes;2019;No;New;0.2400;0.2400;1.44;No
+60571;United States;South Korea;C32;diesel engine;Engines;2015;Yes;2;No;2017;No;New;0.2400;0.2400;0.48;No
+60566;United States;Kuwait;JDAM;guided bomb;Missiles;2016;No;51;Yes;2017;Yes;New;0.0200;0.0200;1.02;No
+60569;United States;South Korea;LM-500;gas turbine;Engines;2015;Yes;6;Yes;2021;No;New;2.0000;2.0000;12;No
+60569;United States;South Korea;LM-500;gas turbine;Engines;2015;Yes;2;Yes;2020;No;New;2.0000;2.0000;4;No
+60569;United States;South Korea;LM-500;gas turbine;Engines;2015;Yes;6;Yes;2019;No;New;2.0000;2.0000;12;No
+60569;United States;South Korea;LM-500;gas turbine;Engines;2015;Yes;2;No;2017;No;New;2.0000;2.0000;4;No
+60113;United States;Greece;Bell-206/OH-58D(I);combat helicopter;Aircraft;2017;No;60;No;2019;No;Second hand;3.0000;1.2;72;No
+55518;United States;Saudi Arabia;S-70/UH-60L;helicopter;Aircraft;2017;No;10;Yes;2021;Yes;New;7.2500;7.2500;72.5;No
+55518;United States;Saudi Arabia;S-70/UH-60L;helicopter;Aircraft;2017;No;10;Yes;2020;Yes;New;7.2500;7.2500;72.5;No
+55518;United States;Saudi Arabia;S-70/UH-60L;helicopter;Aircraft;2017;No;10;Yes;2019;Yes;New;7.2500;7.2500;72.5;No
+55518;United States;Saudi Arabia;S-70/UH-60L;helicopter;Aircraft;2017;No;10;Yes;2018;Yes;New;7.2500;7.2500;72.5;No
+35629;United States;Japan;KC-46A Pegasus;tanker/transport ac;Aircraft;2017;No;1;No;2021;No;New;90.0000;90.0000;90;Yes
+61299;United States;Afghanistan;HMMWV Up-Armoured;APV;Armoured vehicles;2017;No;446;Yes;2021;No;New;0.1400;0.1400;62.44;No
+61299;United States;Afghanistan;HMMWV Up-Armoured;APV;Armoured vehicles;2017;No;1383;Yes;2020;No;New;0.1400;0.1400;193.62;No
+61299;United States;Afghanistan;HMMWV Up-Armoured;APV;Armoured vehicles;2017;No;671;Yes;2018;No;New;0.1400;0.1400;93.94;No
+61299;United States;Afghanistan;HMMWV Up-Armoured;APV;Armoured vehicles;2017;No;1800;Yes;2019;No;New;0.1400;0.1400;252;No
+59403;United States;Afghanistan;ScanEagle;UAV;Aircraft;2015;No;20;Yes;2018;No;New;0.0400;0.0400;0.8;No
+59403;United States;Afghanistan;ScanEagle;UAV;Aircraft;2015;No;25;Yes;2017;No;New;0.0400;0.0400;1;No
+59403;United States;Afghanistan;ScanEagle;UAV;Aircraft;2015;No;20;Yes;2016;No;New;0.0400;0.0400;0.8;No
+56691;United States;Mexico;Citation-1;light transport ac;Aircraft;2013;Yes;3;Yes;2016;No;Second hand but modernized;4.0000;2.64;7.92;No
+62685;United States;Australia;Harpoon Block-2;anti-ship missile/SSM;Missiles;2017;Yes;5;Yes;2020;No;New;1.0000;1.0000;5;No
+62685;United States;Australia;Harpoon Block-2;anti-ship missile/SSM;Missiles;2017;Yes;5;Yes;2019;No;New;1.0000;1.0000;5;No
+62685;United States;Australia;Harpoon Block-2;anti-ship missile/SSM;Missiles;2017;Yes;5;Yes;2018;No;New;1.0000;1.0000;5;No
+60592;United States;Poland;AIM-9X Sidewinder;BVRAAM;Missiles;2016;No;13;Yes;2020;Yes;New;0.1800;0.1800;2.34;No
+60592;United States;Poland;AIM-9X Sidewinder;BVRAAM;Missiles;2016;No;50;Yes;2019;Yes;New;0.1800;0.1800;9;No
+60592;United States;Poland;AIM-9X Sidewinder;BVRAAM;Missiles;2016;No;30;Yes;2018;Yes;New;0.1800;0.1800;5.4;No
+60610;United States;Algeria;LM-2500;gas turbine;Engines;2012;No;2;No;2016;No;New;7.0000;7.0000;14;No
+60595;United States;Poland;Paveway;guided bomb;Missiles;2018;Yes;100;Yes;2021;Yes;New;0.0200;0.0200;2;No
+60595;United States;Poland;Paveway;guided bomb;Missiles;2018;Yes;50;Yes;2020;Yes;New;0.0200;0.0200;1;No
+59481;United States;Czechia;FGM-148 Javelin;anti-tank missile;Missiles;2016;Yes;50;Yes;2018;Yes;New;0.0300;0.0300;1.5;No
+60604;United States;UAE;ISB4;diesel engine;Engines;2015;No;12;Yes;2019;No;New;0.0800;0.0800;0.96;No
+60604;United States;UAE;ISB4;diesel engine;Engines;2015;No;30;Yes;2018;No;New;0.0800;0.0800;2.4;No
+60604;United States;UAE;ISB4;diesel engine;Engines;2015;No;30;Yes;2017;No;New;0.0800;0.0800;2.4;No
+60604;United States;UAE;ISB4;diesel engine;Engines;2015;No;28;Yes;2016;No;New;0.0800;0.0800;2.24;No
+60606;United States;Saudi Arabia;VT-400;diesel engine;Engines;2014;No;27;Yes;2017;No;New;0.0800;0.0800;2.16;No
+60606;United States;Saudi Arabia;VT-400;diesel engine;Engines;2014;No;9;Yes;2016;No;New;0.0800;0.0800;0.72;No
+64716;United States;Afghanistan;ScanEagle;UAV;Aircraft;2018;No;35;Yes;2019;No;New;0.0400;0.0400;1.4;No
+58406;United States;UAE;MaxxPro;APC;Armoured vehicles;2014;No;785;Yes;2018;No;New;0.3200;0.3200;251.2;No
+58406;United States;UAE;MaxxPro;APC;Armoured vehicles;2014;No;300;Yes;2017;No;New;0.3200;0.3200;96;No
+60605;United States;Malaysia;6BT;diesel engine;Engines;2015;No;10;Yes;2017;No;New;0.0300;0.0300;0.3;No
+60605;United States;Malaysia;6BT;diesel engine;Engines;2015;No;10;Yes;2016;No;New;0.0300;0.0300;0.3;No
+57708;United States;Tunisia;S-70/UH-60L;helicopter;Aircraft;2015;No;4;No;2018;No;New;7.2500;7.2500;29;No
+57708;United States;Tunisia;S-70/UH-60L;helicopter;Aircraft;2015;No;4;No;2017;No;New;7.2500;7.2500;29;No
+60615;United States;Argentina;Cessna-208 Caravan;light transport ac;Aircraft;2016;Yes;2;No;2016;No;New;1.0000;1.0000;2;No
+61041;United States;Brazil;M-992 FAASV;ALV;Armoured vehicles;2018;No;40;No;2018;No;Second hand;0.6000;0.24;9.6;No
+62699;United States;Chad;David;APV;Armoured vehicles;2016;No;40;Yes;2017;Yes;New;0.1100;0.1100;4.4;No
+62699;United States;Chad;David;APV;Armoured vehicles;2016;No;20;No;2016;No;New;0.1100;0.1100;2.2;No
+64715;United States;Afghanistan;ScanEagle;UAV;Aircraft;2017;No;5;Yes;2018;No;New;0.0400;0.0400;0.2;No
+55492;United States;India;Stinger;portable SAM;Missiles;2013;Yes;120;Yes;2020;Yes;New;0.0800;0.0800;9.6;No
+55492;United States;India;Stinger;portable SAM;Missiles;2013;Yes;125;Yes;2019;Yes;New;0.0800;0.0800;10;No
+60621;United States;Bangladesh;Bell-407;light helicopter;Aircraft;2020;Yes;2;No;2021;No;New;1.1000;1.1000;2.2;No
+63906;United States;Dominican Republic;Stan Patrol-2606;patrol craft;Ships;2017;No;1;No;2020;No;New;4.2500;4.2500;4.25;No
+57712;United States;South Korea;AIM-9X Sidewinder;BVRAAM;Missiles;2015;Yes;72;Yes;2018;Yes;New;0.1800;0.1800;12.96;No
+60637;United States;Georgia;Island;patrol craft;Ships;2015;No;2;No;2017;No;Second hand;9.2000;3.68;7.36;No
+58206;United States;Croatia;Bell-206/OH-58D(I);combat helicopter;Aircraft;2016;No;16;No;2016;No;Second hand;3.0000;1.2;19.2;No
+59672;United States;Egypt;RG-33;APC;Armoured vehicles;2015;No;350;Yes;2016;No;Second hand;0.2000;0.08;28;No
+60638;United States;Croatia;MaxxPro;APC;Armoured vehicles;2015;No;6;Yes;2016;Yes;Second hand;0.3200;0.128;0.768;No
+58170;United States;Chile;KC-130H Hercules;tanker/transport ac;Aircraft;2013;Yes;1;No;2016;No;Second hand;38.0000;15.2;15.2;No
+60639;United States;Egypt;RG-33;APC;Armoured vehicles;2016;No;15;Yes;2018;Yes;Second hand;0.2000;0.08;1.2;No
+60642;United States;Greece;AAQ-13 LANTIRN;combat ac radar;Sensors;2016;No;20;Yes;2019;Yes;Second hand;1.0000;0.4;8;No
+60640;United States;Egypt;Caiman;APC;Armoured vehicles;2017;No;68;No;2018;No;Second hand;0.2500;0.1;6.8;No
+60641;United States;Brazil;M-109A5 155mm;self-propelled gun;Artillery;2017;No;36;No;2018;No;Second hand;1.2500;0.5;18;No
+63591;United States;Indonesia;6V-53;diesel engine;Engines;2017;Yes;20;Yes;2020;No;New;0.0400;0.0400;0.8;No
+60896;United States;UAE;MIM-104C PAC-2;SAM;Missiles;2017;No;100;Yes;2019;Yes;New;1.0000;1.0000;100;No
+56730;United States;Saudi Arabia;M-ATV;APV;Armoured vehicles;2013;No;139;Yes;2016;No;New;0.2500;0.2500;34.75;No
+50551;United States;UAE;THAAD missile;ABM missile;Missiles;2012;No;21;Yes;2019;Yes;New;4.0000;4.0000;84;No
+50551;United States;UAE;THAAD missile;ABM missile;Missiles;2012;No;50;Yes;2018;No;New;4.0000;4.0000;200;No
+50551;United States;UAE;THAAD missile;ABM missile;Missiles;2012;No;50;Yes;2017;No;New;4.0000;4.0000;200;No
+50551;United States;UAE;THAAD missile;ABM missile;Missiles;2012;No;50;Yes;2016;No;New;4.0000;4.0000;200;No
+59903;United States;Qatar;RIM-116A RAM;SAM;Missiles;2018;No;30;Yes;2021;Yes;New;0.1400;0.1400;4.2;No
+62760;United States;Libya GNC;ISL;diesel engine;Engines;2019;Yes;13;Yes;2019;No;New;0.0400;0.0400;0.52;No
+57231;United States;Mexico;HMMWV Up-Armoured;APV;Armoured vehicles;2014;No;100;Yes;2016;Yes;New;0.1400;0.1400;14;No
+58854;United States;Nigeria;Caiman;APC;Armoured vehicles;2014;No;16;No;2016;No;Second hand;0.2500;0.1;1.6;No
+64379;United States;Lebanon;UH-1H Huey-2;helicopter;Aircraft;2020;Yes;3;No;2021;No;New;3.1000;3.1000;9.3;No
+59948;United States;Norway;JDAM;guided bomb;Missiles;2016;No;50;Yes;2020;Yes;New;0.0200;0.0200;1;No
+62774;United States;UAE;ScanEagle;UAV;Aircraft;2019;No;5;Yes;2020;Yes;New;0.0400;0.0400;0.2;No
+58012;United States;Lebanon;UH-1H Huey-2;helicopter;Aircraft;2014;No;3;Yes;2017;Yes;New;3.1000;3.1000;9.3;No
+58012;United States;Lebanon;UH-1H Huey-2;helicopter;Aircraft;2014;No;3;No;2016;No;New;3.1000;3.1000;9.3;No
+52105;United States;UAE;RQ-1 Predator;UAV;Aircraft;2014;Yes;10;Yes;2017;No;New;2.0000;2.0000;20;No
+62777;United States;Egypt;Caiman;APC;Armoured vehicles;2019;No;46;No;2019;No;Second hand;0.2500;0.1;4.6;No
+52065;United States;India;C-17A Globemaster-3;heavy transport ac;Aircraft;2017;No;1;No;2019;No;New;140.0000;140.0000;140;No
+59947;United States;Greece;JDAM;guided bomb;Missiles;2016;Yes;50;Yes;2020;Yes;New;0.0200;0.0200;1;No
+62787;United States;Singapore;ISB6.7;diesel engine;Engines;2013;No;25;Yes;2021;Yes;New;0.0400;0.0400;1;No
+62787;United States;Singapore;ISB6.7;diesel engine;Engines;2013;No;25;Yes;2020;No;New;0.0400;0.0400;1;No
+62787;United States;Singapore;ISB6.7;diesel engine;Engines;2013;No;25;Yes;2019;Yes;New;0.0400;0.0400;1;No
+62787;United States;Singapore;ISB6.7;diesel engine;Engines;2013;No;25;Yes;2018;Yes;New;0.0400;0.0400;1;No
+62787;United States;Singapore;ISB6.7;diesel engine;Engines;2013;No;45;Yes;2017;No;New;0.0400;0.0400;1.8;No
+62787;United States;Singapore;ISB6.7;diesel engine;Engines;2013;No;62;Yes;2016;No;New;0.0400;0.0400;2.48;No
+60393;United States;Estonia;M28 Skytruck;light transport ac;Aircraft;2017;No;2;Yes;2019;Yes;Second hand;2.7500;1.1;2.2;No
+63962;United States;United Kingdom;PC-9;trainer aircraft;Aircraft;2019;Yes;4;No;2020;No;New;1.6500;1.6500;6.6;No
+62791;United States;Lebanon;M-88A2 HERCULES;ARV;Armoured vehicles;2017;No;2;No;2019;No;New;2.0000;2.0000;4;No
+60722;United States;Canada;C-9;diesel engine;Engines;2011;No;13;Yes;2019;No;New;0.0800;0.0800;1.04;No
+60722;United States;Canada;C-9;diesel engine;Engines;2011;No;67;Yes;2018;No;New;0.0800;0.0800;5.36;No
+60722;United States;Canada;C-9;diesel engine;Engines;2011;No;61;Yes;2017;No;New;0.0800;0.0800;4.88;No
+60722;United States;Canada;C-9;diesel engine;Engines;2011;No;103;Yes;2016;No;New;0.0800;0.0800;8.24;No
+60728;United States;Romania;6V-53;diesel engine;Engines;2016;Yes;12;Yes;2018;Yes;New;0.0400;0.0400;0.48;No
+60796;United States;Chile;SR-22;light aircraft;Aircraft;2016;No;2;No;2016;No;New;0.2000;0.2000;0.4;No
+60796;United States;Chile;SR-22;light aircraft;Aircraft;2016;No;2;No;2017;No;New;0.2000;0.2000;0.4;No
+60743;United States;Czechia;ISC;diesel engine;Engines;2017;No;16;Yes;2020;No;New;0.0400;0.0400;0.64;No
+60743;United States;Czechia;ISC;diesel engine;Engines;2017;No;4;Yes;2019;Yes;New;0.0400;0.0400;0.16;No
+64387;United States;Japan;King Air;light transport ac;Aircraft;2019;Yes;1;No;2021;No;New;2.8500;2.8500;2.85;No
+63770;United States;Thailand;Cessna-180 Skywagon;light aircraft;Aircraft;2019;Yes;3;No;2020;No;New;0.1800;0.1800;0.54;No
+59676;United States;Egypt;Caiman;APC;Armoured vehicles;2015;No;101;Yes;2019;Yes;Second hand;0.2500;0.1;10.1;No
+59676;United States;Egypt;Caiman;APC;Armoured vehicles;2015;No;99;Yes;2017;Yes;Second hand;0.2500;0.1;9.9;No
+59676;United States;Egypt;Caiman;APC;Armoured vehicles;2015;No;108;Yes;2018;Yes;Second hand;0.2500;0.1;10.8;No
+59676;United States;Egypt;Caiman;APC;Armoured vehicles;2015;No;92;Yes;2016;No;Second hand;0.2500;0.1;9.2;No
+57921;United States;Lebanon;Cessna-208 Caravan;light transport ac;Aircraft;2015;No;1;No;2016;No;New;1.0000;1.0000;1;No
+62342;United States;Philippines;S-70/UH-60L;helicopter;Aircraft;2019;No;10;No;2021;No;New;7.2500;7.2500;72.5;No
+62342;United States;Philippines;S-70/UH-60L;helicopter;Aircraft;2019;No;6;No;2020;No;New;7.2500;7.2500;43.5;No
+62842;United States;Jordan;L-118 105mm;towed gun;Artillery;2018;Yes;12;No;2019;No;Second hand;0.6000;0.24;2.88;No
+60832;United States;Australia;AGM-88E AARGM;ARM;Missiles;2018;No;10;Yes;2021;Yes;New;0.6000;0.6000;6;No
+60866;United States;Albania;MaxxPro;APC;Armoured vehicles;2016;No;3;No;2017;No;Second hand;0.3200;0.128;0.384;No
+57202;United States;Qatar;AH-64E Apache;combat helicopter;Aircraft;2014;Yes;8;Yes;2020;No;New;15.0000;15.0000;120;No
+57202;United States;Qatar;AH-64E Apache;combat helicopter;Aircraft;2014;Yes;16;Yes;2019;No;New;15.0000;15.0000;240;No
+62701;United States;Malaysia;ScanEagle;UAV;Aircraft;2019;No;6;No;2020;No;New;0.0400;0.0400;0.24;No
+60880;United States;Colombia;S-70/UH-60A;helicopter;Aircraft;2016;Yes;10;No;2017;No;Second hand;6.5000;2.6;26;No
+60875;United States;Australia;LM-2500;gas turbine;Engines;2007;Yes;2;No;2020;No;New;7.0000;7.0000;14;No
+60875;United States;Australia;LM-2500;gas turbine;Engines;2007;Yes;2;No;2018;No;New;7.0000;7.0000;14;No
+60875;United States;Australia;LM-2500;gas turbine;Engines;2007;Yes;2;No;2017;No;New;7.0000;7.0000;14;No
+60876;United States;Australia;Caterpillar-3616;diesel engine;Engines;2007;Yes;2;No;2020;No;New;2.5000;2.5000;5;No
+60876;United States;Australia;Caterpillar-3616;diesel engine;Engines;2007;Yes;2;No;2018;No;New;2.5000;2.5000;5;No
+60876;United States;Australia;Caterpillar-3616;diesel engine;Engines;2007;Yes;2;No;2017;No;New;2.5000;2.5000;5;No
+37076;United States;Netherlands;CH-47F Chinook;transport helicopter;Aircraft;2016;No;12;No;2020;No;New;20.0000;20.0000;240;No
+56574;United States;UAE;GBU-39 SDB;guided bomb;Missiles;2014;Yes;1000;Yes;2019;Yes;New;0.0200;0.0200;20;No
+56574;United States;UAE;GBU-39 SDB;guided bomb;Missiles;2014;Yes;1000;Yes;2018;Yes;New;0.0200;0.0200;20;No
+56574;United States;UAE;GBU-39 SDB;guided bomb;Missiles;2014;Yes;1000;Yes;2017;Yes;New;0.0200;0.0200;20;No
+56574;United States;UAE;GBU-39 SDB;guided bomb;Missiles;2014;Yes;1000;Yes;2016;Yes;New;0.0200;0.0200;20;No
+55558;United States;Qatar;MIM-104F PAC-3;ABM;Missiles;2014;No;178;Yes;2019;No;New;1.0000;1.0000;178;No
+55558;United States;Qatar;MIM-104F PAC-3;ABM;Missiles;2014;No;250;Yes;2018;No;New;1.0000;1.0000;250;No
+55558;United States;Qatar;MIM-104F PAC-3;ABM;Missiles;2014;No;250;Yes;2017;No;New;1.0000;1.0000;250;No
+55558;United States;Qatar;MIM-104F PAC-3;ABM;Missiles;2014;No;100;Yes;2016;Yes;New;1.0000;1.0000;100;No
+52513;United States;Saudi Arabia;AH-6S;combat helicopter;Aircraft;2014;No;3;No;2016;No;New;4.0000;4.0000;12;No
+52513;United States;Saudi Arabia;AH-6S;combat helicopter;Aircraft;2014;No;12;Yes;2018;No;New;4.0000;4.0000;48;No
+52513;United States;Saudi Arabia;AH-6S;combat helicopter;Aircraft;2014;No;9;No;2017;No;New;4.0000;4.0000;36;No
+62883;United States;Japan;LM-2500;gas turbine;Engines;2015;Yes;4;No;2021;No;New;7.0000;7.0000;28;Yes
+62883;United States;Japan;LM-2500;gas turbine;Engines;2015;Yes;4;No;2020;No;New;7.0000;7.0000;28;Yes
+62884;United States;Japan;Mk-41 VLS;naval SAM system;Naval weapons;2015;Yes;1;No;2021;No;New;20.0000;20.0000;20;No
+62884;United States;Japan;Mk-41 VLS;naval SAM system;Naval weapons;2015;Yes;1;No;2020;No;New;20.0000;20.0000;20;No
+62887;United States;Japan;SPQ-9;fire control radar;Sensors;2015;Yes;2;No;2021;No;New;3.5000;3.5000;7;No
+62887;United States;Japan;SPQ-9;fire control radar;Sensors;2015;Yes;2;No;2020;No;New;3.5000;3.5000;7;No
+62885;United States;Japan;Mk-45-4 127mm;naval gun;Naval weapons;2015;Yes;1;No;2021;No;New;7.5000;7.5000;7.5;Yes
+62885;United States;Japan;Mk-45-4 127mm;naval gun;Naval weapons;2015;Yes;1;No;2020;No;New;7.5000;7.5000;7.5;Yes
+62880;United States;Nigeria;ISL;diesel engine;Engines;2018;Yes;25;Yes;2021;Yes;New;0.0400;0.0400;1;No
+62886;United States;Japan;Mk-15 Phalanx;naval gun;Naval weapons;2015;Yes;2;No;2021;No;New;7.0000;7.0000;14;No
+62886;United States;Japan;Mk-15 Phalanx;naval gun;Naval weapons;2015;Yes;2;No;2020;No;New;7.0000;7.0000;14;No
+61826;United States;Afghanistan;HMMWV Up-Armoured;APV;Armoured vehicles;2017;No;51;Yes;2021;Yes;Second hand;0.1400;0.056;2.856;No
+61826;United States;Afghanistan;HMMWV Up-Armoured;APV;Armoured vehicles;2017;No;222;Yes;2019;Yes;Second hand;0.1400;0.056;12.432;No
+61826;United States;Afghanistan;HMMWV Up-Armoured;APV;Armoured vehicles;2017;No;200;Yes;2020;No;Second hand;0.1400;0.056;11.2;No
+61826;United States;Afghanistan;HMMWV Up-Armoured;APV;Armoured vehicles;2017;No;1200;Yes;2018;No;Second hand;0.1400;0.056;67.2;No
+60916;United States;India;AE-3007;turbofan;Engines;2008;No;2;No;2019;No;New;1.3000;1.3000;2.6;No
+60916;United States;India;AE-3007;turbofan;Engines;2008;No;2;No;2017;No;New;1.3000;1.3000;2.6;No
+59683;United States;Turkey;Mk-15 Phalanx;naval gun;Naval weapons;2015;Yes;2;Yes;2018;Yes;New;7.0000;7.0000;14;No
+59683;United States;Turkey;Mk-15 Phalanx;naval gun;Naval weapons;2015;Yes;2;Yes;2017;Yes;New;7.0000;7.0000;14;No
+56578;United States;Saudi Arabia;AGM-154 JSOW;guided bomb;Missiles;2014;No;135;Yes;2018;Yes;New;0.2000;0.2000;27;No
+56578;United States;Saudi Arabia;AGM-154 JSOW;guided bomb;Missiles;2014;No;200;Yes;2017;No;New;0.2000;0.2000;40;No
+56578;United States;Saudi Arabia;AGM-154 JSOW;guided bomb;Missiles;2014;No;20;Yes;2016;Yes;New;0.2000;0.2000;4;No
+57706;United States;Iraq;AGM-114K HELLFIRE;anti-tank missile;Missiles;2014;No;2000;Yes;2017;Yes;New;0.0500;0.0500;100;No
+57706;United States;Iraq;AGM-114K HELLFIRE;anti-tank missile;Missiles;2014;No;2000;Yes;2016;Yes;New;0.0500;0.0500;100;No
+62901;United States;South Korea;Mk-15 Phalanx;naval gun;Naval weapons;2015;Yes;2;No;2021;No;New;7.0000;7.0000;14;No
+62906;United States;Lebanon;HMMWV Up-Armoured;APV;Armoured vehicles;2018;Yes;150;No;2019;No;New;0.1400;0.1400;21;No
+65070;United States;Indonesia;Bell-505 Jet Ranger X;light helicopter;Aircraft;2020;Yes;2;No;2021;No;New;0.9000;0.9000;1.8;No
+61159;United States;Netherlands;AGM-114K HELLFIRE;anti-tank missile;Missiles;2016;No;200;Yes;2021;No;New;0.0500;0.0500;10;No
+64019;United States;Guyana;Bell-412;helicopter;Aircraft;2020;No;1;No;2021;No;New;5.0000;5.0000;5;No
+64555;United States;Honduras;Stan Patrol-2606;patrol craft;Ships;2017;Yes;1;No;2021;No;New;4.2500;4.2500;4.25;No
+64707;United States;Indonesia;PA-28 Cherokee;light aircraft;Aircraft;2019;No;5;No;2019;No;New;0.1400;0.1400;0.7;No
+60989;United States;Chile;C-130H Hercules;transport aircraft;Aircraft;2019;No;2;No;2021;No;Second hand;28.0000;11.2;22.4;No
+58128;United States;Indonesia;AGM-114K HELLFIRE;anti-tank missile;Missiles;2014;No;70;Yes;2018;No;New;0.0500;0.0500;3.5;No
+58128;United States;Indonesia;AGM-114K HELLFIRE;anti-tank missile;Missiles;2014;No;70;Yes;2017;Yes;New;0.0500;0.0500;3.5;No
+58407;United States;UAE;Caiman;APC;Armoured vehicles;2014;No;11;Yes;2019;Yes;Second hand;0.2500;0.1;1.1;No
+58407;United States;UAE;Caiman;APC;Armoured vehicles;2014;No;31;Yes;2018;Yes;Second hand;0.2500;0.1;3.1;No
+58407;United States;UAE;Caiman;APC;Armoured vehicles;2014;No;23;Yes;2017;No;Second hand;0.2500;0.1;2.3;No
+58407;United States;UAE;Caiman;APC;Armoured vehicles;2014;No;488;No;2016;No;Second hand;0.2500;0.1;48.8;No
+61022;United States;Turkey;AGM-84H SLAM-ER;ASM;Missiles;2016;Yes;46;No;2017;No;New;1.2500;1.2500;57.5;No
+61022;United States;Turkey;AGM-84H SLAM-ER;ASM;Missiles;2016;Yes;2;No;2016;No;New;1.2500;1.2500;2.5;No
+57326;United States;Pakistan;MaxxPro;APC;Armoured vehicles;2014;Yes;85;Yes;2018;Yes;Second hand;0.3200;0.128;10.88;No
+60108;United States;Jordan;M-113;APC;Armoured vehicles;2016;No;150;No;2018;No;Second hand;0.2500;0.1;15;No
+60108;United States;Jordan;M-113;APC;Armoured vehicles;2016;No;150;No;2017;No;Second hand;0.2500;0.1;15;No
+62952;United States;Seychelles;TPE-331;turboprop;Engines;2015;Yes;2;No;2018;No;New;0.3500;0.3500;0.7;No
+61456;United States;UAE;DB-110;aircraft recce system;Sensors;2017;Yes;1;No;2019;Yes;New;4.0000;4.0000;4;No
+61456;United States;UAE;DB-110;aircraft recce system;Sensors;2017;Yes;1;No;2018;No;New;4.0000;4.0000;4;No
+54813;United States;Bahrain;M-113;APC;Armoured vehicles;2011;Yes;20;Yes;2018;No;Second hand;0.2500;0.1;2;No
+54813;United States;Bahrain;M-113;APC;Armoured vehicles;2011;Yes;101;No;2017;No;Second hand;0.2500;0.1;10.1;No
+61054;United States;South Korea;Mk-45-4 127mm;naval gun;Naval weapons;2012;Yes;1;No;2018;No;New;7.5000;7.5000;7.5;No
+61042;United States;Albania;HMMWV Up-Armoured;APV;Armoured vehicles;2017;No;25;Yes;2020;No;Second hand;0.1400;0.056;1.4;No
+61042;United States;Albania;HMMWV Up-Armoured;APV;Armoured vehicles;2017;No;47;Yes;2018;No;Second hand;0.1400;0.056;2.632;No
+61042;United States;Albania;HMMWV Up-Armoured;APV;Armoured vehicles;2017;No;31;Yes;2017;No;Second hand;0.1400;0.056;1.736;No
+54225;United States;Saudi Arabia;Patriot Configuration-3;SAM/ABM system;Air defence systems;2011;No;5;Yes;2017;Yes;New;55.0000;55.0000;275;No
+54225;United States;Saudi Arabia;Patriot Configuration-3;SAM/ABM system;Air defence systems;2011;No;6;Yes;2016;Yes;New;55.0000;55.0000;330;No
+61055;United States;South Korea;Mk-45-4 127mm;naval gun;Naval weapons;2017;Yes;2;No;2021;No;New;7.5000;7.5000;15;No
+64061;United States;Pakistan;Caterpillar-3516;diesel engine;Engines;2017;Yes;8;No;2020;No;New;1.2500;1.2500;10;No
+58912;United States;Colombia;Bell-206/OH-58;light helicopter;Aircraft;2015;No;30;Yes;2019;No;Second hand;0.7000;0.28;8.4;No
+58912;United States;Colombia;Bell-206/OH-58;light helicopter;Aircraft;2015;No;30;Yes;2016;No;Second hand;0.7000;0.28;8.4;No
+59507;United States;France;AGM-114K HELLFIRE;anti-tank missile;Missiles;2015;No;200;Yes;2016;Yes;New;0.0500;0.0500;10;No
+63657;United States;Egypt;M-88;ARV;Armoured vehicles;2017;No;23;Yes;2018;Yes;Second hand;1.5000;0.6;13.8;No
+60384;United States;Netherlands;CH-47F Chinook;transport helicopter;Aircraft;2017;No;2;Yes;2021;Yes;New;20.0000;20.0000;40;No
+59586;United States;France;KC-130J Hercules;tanker/transport ac;Aircraft;2016;No;1;No;2020;No;New;45.0000;45.0000;45;No
+59586;United States;France;KC-130J Hercules;tanker/transport ac;Aircraft;2016;No;1;No;2019;No;New;45.0000;45.0000;45;No
+59285;United States;Jordan;AT-802U;ground attack ac;Aircraft;2015;No;4;No;2016;No;New;4.9000;4.9000;19.6;No
+61556;United States;Mexico;RIM-116A RAM;SAM;Missiles;2018;Yes;23;No;2020;Yes;New;0.1400;0.1400;3.22;No
+63660;United States;Romania;T56;turboprop;Engines;2017;No;16;No;2018;No;Second hand;1.4000;0.56;8.96;No
+62340;United States;Mexico;Mk-56 VLS;naval SAM system;Naval weapons;2018;Yes;1;No;2020;No;New;5.0000;5.0000;5;No
+61087;United States;Peru;6V-53;diesel engine;Engines;2014;No;24;Yes;2016;No;New;0.0400;0.0400;0.96;No
+58218;United States;Iraq;Caiman;APC;Armoured vehicles;2014;No;46;No;2017;No;Second hand;0.2500;0.1;4.6;No
+50572;United States;India;CBU-97 SFW;guided bomb;Missiles;2010;No;104;No;2017;No;New;0.1500;0.1500;15.6;No
+50572;United States;India;CBU-97 SFW;guided bomb;Missiles;2010;No;200;Yes;2016;Yes;New;0.1500;0.1500;30;No
+60080;United States;Thailand;Mk-54 MAKO 324mm;ASW torpedo;Missiles;2016;Yes;5;Yes;2018;Yes;New;0.5000;0.5000;2.5;No
+59017;United States;Saudi Arabia;M-ATV;APV;Armoured vehicles;2015;Yes;525;Yes;2017;No;New;0.2500;0.2500;131.25;No
+59017;United States;Saudi Arabia;M-ATV;APV;Armoured vehicles;2015;Yes;800;Yes;2016;No;New;0.2500;0.2500;200;No
+60076;United States;Canada;RQ-21 Blackjack;UAV;Aircraft;2016;No;5;No;2017;No;New;0.0700;0.0700;0.35;No
+63266;United States;Montenegro;Bell-505 Jet Ranger X;light helicopter;Aircraft;2020;No;1;No;2021;No;New;0.9000;0.9000;0.9;No
+63266;United States;Montenegro;Bell-505 Jet Ranger X;light helicopter;Aircraft;2020;No;1;No;2020;No;New;0.9000;0.9000;0.9;No
+58236;United States;South Korea;Patriot Configuration-3;SAM/ABM system;Air defence systems;2015;Yes;2;Yes;2020;No;New;55.0000;55.0000;110;No
+58236;United States;South Korea;Patriot Configuration-3;SAM/ABM system;Air defence systems;2015;Yes;3;Yes;2019;No;New;55.0000;55.0000;165;No
+58236;United States;South Korea;Patriot Configuration-3;SAM/ABM system;Air defence systems;2015;Yes;2;Yes;2018;No;New;55.0000;55.0000;110;No
+58236;United States;South Korea;Patriot Configuration-3;SAM/ABM system;Air defence systems;2015;Yes;1;Yes;2017;Yes;New;55.0000;55.0000;55;No
+62982;United States;Poland;RQ-21 Blackjack;UAV;Aircraft;2018;No;5;No;2018;No;New;0.0700;0.0700;0.35;No
+55412;United States;Philippines;AGM-65 Maverick;ASM;Missiles;2013;Yes;50;Yes;2020;Yes;New;0.1500;0.1500;7.5;No
+55412;United States;Philippines;AGM-65 Maverick;ASM;Missiles;2013;Yes;50;Yes;2019;No;New;0.1500;0.1500;7.5;No
+55412;United States;Philippines;AGM-65 Maverick;ASM;Missiles;2013;Yes;25;Yes;2017;No;New;0.1500;0.1500;3.75;No
+62873;United States;Lithuania;L-ATV;APV;Armoured vehicles;2019;No;100;Yes;2021;No;New;0.1500;0.1500;15;No
+61171;United States;Denmark;Cougar;APC;Armoured vehicles;2017;No;6;No;2017;No;Second hand;0.3000;0.12;0.72;No
+62993;United States;Indonesia;ISC;diesel engine;Engines;2019;No;5;Yes;2021;Yes;New;0.0400;0.0400;0.2;No
+35256;United States;Latvia;TPS-77;air search radar;Sensors;2015;No;2;Yes;2019;Yes;New;11.0000;11.0000;22;No
+35256;United States;Latvia;TPS-77;air search radar;Sensors;2015;No;1;Yes;2018;No;New;11.0000;11.0000;11;No
+61185;United States;Jordan;FGM-148 Javelin;anti-tank missile;Missiles;2017;No;125;Yes;2020;Yes;New;0.0300;0.0300;3.75;No
+61185;United States;Jordan;FGM-148 Javelin;anti-tank missile;Missiles;2017;No;125;Yes;2019;Yes;New;0.0300;0.0300;3.75;No
+62686;United States;Qatar;Harpoon Block-2;anti-ship missile/SSM;Missiles;2019;Yes;15;Yes;2021;Yes;New;1.0000;1.0000;15;No
+63004;United States;Nepal;Bell-407;light helicopter;Aircraft;2018;Yes;1;No;2019;No;New;1.1000;1.1000;1.1;No
+61083;United States;Thailand;F404;turbofan;Engines;2017;No;4;Yes;2020;Yes;New;2.2000;2.2000;8.8;No
+61083;United States;Thailand;F404;turbofan;Engines;2017;No;4;Yes;2019;No;New;2.2000;2.2000;8.8;No
+52730;United States;Denmark;MH-60R Seahawk;ASW helicopter;Aircraft;2012;No;2;No;2018;No;New;16.1000;16.1000;32.2;No
+52730;United States;Denmark;MH-60R Seahawk;ASW helicopter;Aircraft;2012;No;3;No;2017;No;New;16.1000;16.1000;48.3;No
+52730;United States;Denmark;MH-60R Seahawk;ASW helicopter;Aircraft;2012;No;4;No;2016;No;New;16.1000;16.1000;64.4;No
+61739;United States;Jordan;TPQ-36 Firefinder;arty locating radar;Sensors;2016;No;9;Yes;2019;Yes;Second hand;3.0000;1.2;10.8;No
+60249;United States;Egypt;Swiftships-93;patrol craft;Ships;2016;No;3;Yes;2019;No;New;4.5000;4.5000;13.5;No
+57073;United States;Finland;Stinger;portable SAM;Missiles;2014;Yes;25;Yes;2017;Yes;New;0.0800;0.0800;2;No
+57073;United States;Finland;Stinger;portable SAM;Missiles;2014;Yes;100;Yes;2016;Yes;New;0.0800;0.0800;8;No
+61237;United States;UAE;C-9;diesel engine;Engines;2017;No;80;Yes;2021;Yes;New;0.0800;0.0800;6.4;No
+61237;United States;UAE;C-9;diesel engine;Engines;2017;No;79;Yes;2020;Yes;New;0.0800;0.0800;6.32;No
+61237;United States;UAE;C-9;diesel engine;Engines;2017;No;55;Yes;2019;Yes;New;0.0800;0.0800;4.4;No
+61417;United States;Netherlands;AIM-120C AMRAAM;BVRAAM;Missiles;2019;No;21;Yes;2021;Yes;New;0.6000;0.6000;12.6;No
+59451;United States;Qatar;Stinger;portable SAM;Missiles;2015;Yes;145;Yes;2020;No;New;0.0800;0.0800;11.6;No
+59451;United States;Qatar;Stinger;portable SAM;Missiles;2015;Yes;150;Yes;2019;No;New;0.0800;0.0800;12;No
+59714;United States;Tunisia;Bell-206/OH-58D(I);combat helicopter;Aircraft;2016;No;18;Yes;2017;No;Second hand;3.0000;1.2;21.6;No
+59714;United States;Tunisia;Bell-206/OH-58D(I);combat helicopter;Aircraft;2016;No;6;Yes;2016;No;Second hand;3.0000;1.2;7.2;No
+63690;United States;Qatar;APG-78 Longbow;combat heli radar;Sensors;2014;No;16;Yes;2019;No;New;3.0000;3.0000;48;No
+63690;United States;Qatar;APG-78 Longbow;combat heli radar;Sensors;2014;No;8;Yes;2020;No;New;3.0000;3.0000;24;No
+63047;United States;Philippines;VT-400;diesel engine;Engines;2016;No;8;Yes;2019;No;New;0.0800;0.0800;0.64;No
+53616;United States;Australia;Mk-45-4 127mm;naval gun;Naval weapons;2010;Yes;1;No;2020;No;New;7.5000;7.5000;7.5;No
+53616;United States;Australia;Mk-45-4 127mm;naval gun;Naval weapons;2010;Yes;1;No;2018;No;New;7.5000;7.5000;7.5;No
+53616;United States;Australia;Mk-45-4 127mm;naval gun;Naval weapons;2010;Yes;1;No;2017;No;New;7.5000;7.5000;7.5;No
+58193;United States;Estonia;FGM-148 Javelin;anti-tank missile;Missiles;2014;No;80;Yes;2017;No;New;0.0300;0.0300;2.4;No
+58193;United States;Estonia;FGM-148 Javelin;anti-tank missile;Missiles;2014;No;80;Yes;2016;No;New;0.0300;0.0300;2.4;No
+63183;United States;Viet Nam;Hamilton;OPV;Ships;2019;No;1;No;2021;No;Second hand;135.0000;54;54;No
+61287;United States;Nigeria;VT-400;diesel engine;Engines;2016;No;25;Yes;2017;No;New;0.0800;0.0800;2;No
+28902;United States;Australia;RIM-162 ESSM;SAM;Missiles;2002;No;30;Yes;2017;Yes;New;0.4000;0.4000;12;Yes
+28902;United States;Australia;RIM-162 ESSM;SAM;Missiles;2002;No;30;Yes;2016;Yes;New;0.4000;0.4000;12;Yes
+61290;United States;Bahrain;BGM-71F TOW-2B;anti-tank missile;Missiles;2017;No;221;Yes;2018;No;New;0.0200;0.0200;4.42;No
+30472;United States;Canada;H-92 Superhawk;ASW helicopter;Aircraft;2004;No;5;Yes;2021;Yes;New;18.0000;18.0000;90;Yes
+30472;United States;Canada;H-92 Superhawk;ASW helicopter;Aircraft;2004;No;4;Yes;2020;No;New;18.0000;18.0000;72;Yes
+30472;United States;Canada;H-92 Superhawk;ASW helicopter;Aircraft;2004;No;4;Yes;2019;No;New;18.0000;18.0000;72;Yes
+30472;United States;Canada;H-92 Superhawk;ASW helicopter;Aircraft;2004;No;1;Yes;2018;No;New;18.0000;18.0000;18;Yes
+30472;United States;Canada;H-92 Superhawk;ASW helicopter;Aircraft;2004;No;4;Yes;2017;No;New;18.0000;18.0000;72;Yes
+30472;United States;Canada;H-92 Superhawk;ASW helicopter;Aircraft;2004;No;2;Yes;2016;No;New;18.0000;18.0000;36;Yes
+30717;United States;Japan;AH-64D Apache;combat helicopter;Aircraft;2001;No;1;Yes;2016;Yes;New;15.5000;15.5000;15.5;Yes
+31749;United States;Israel;F-35A Lightning-2;FGA aircraft;Aircraft;2010;No;4;No;2019;No;New;55.0000;55.0000;220;Yes
+31749;United States;Israel;F-35A Lightning-2;FGA aircraft;Aircraft;2010;No;6;No;2018;No;New;55.0000;55.0000;330;Yes
+31749;United States;Israel;F-35A Lightning-2;FGA aircraft;Aircraft;2010;No;7;No;2017;No;New;55.0000;55.0000;385;Yes
+31749;United States;Israel;F-35A Lightning-2;FGA aircraft;Aircraft;2010;No;2;No;2016;No;New;55.0000;55.0000;110;Yes
+61316;United States;Bangladesh;TPE-331;turboprop;Engines;2017;Yes;2;No;2021;No;New;0.3500;0.3500;0.7;No
+63422;United States;Unknown recipient(s);AAQ-33 Sniper;aircraft EO system;Sensors;2018;Yes;5;Yes;2020;Yes;New;1.0000;1.0000;5;No
+36972;United States;Kazakhstan;UH-1H Huey-2;helicopter;Aircraft;2011;No;1;No;2017;No;New;3.1000;3.1000;3.1;No
+36972;United States;Kazakhstan;UH-1H Huey-2;helicopter;Aircraft;2011;No;1;No;2016;No;New;3.1000;3.1000;3.1;No
+36009;United States;Argentina;TFE-731;turbofan;Engines;2009;Yes;2;Yes;2016;Yes;New;0.6000;0.6000;1.2;No
+61509;United States;Lebanon;MD-500E;light helicopter;Aircraft;2018;No;4;Yes;2021;No;New;0.7000;0.7000;2.8;No
+61509;United States;Lebanon;MD-500E;light helicopter;Aircraft;2018;No;2;Yes;2020;No;New;0.7000;0.7000;1.4;No
+59889;United States;Israel;JDAM;guided bomb;Missiles;2016;Yes;1588;Yes;2019;No;New;0.0200;0.0200;31.76;No
+64075;United States;Qatar;JDAM;guided bomb;Missiles;2018;No;202;Yes;2021;Yes;New;0.0200;0.0200;4.04;No
+64074;United States;South Korea;JDAM;guided bomb;Missiles;2018;No;1132;Yes;2019;No;New;0.0200;0.0200;22.64;No
+64076;United States;Turkey;JDAM;guided bomb;Missiles;2018;No;58;Yes;2021;Yes;New;0.0200;0.0200;1.16;No
+64076;United States;Turkey;JDAM;guided bomb;Missiles;2018;No;300;Yes;2020;Yes;New;0.0200;0.0200;6;No
+64076;United States;Turkey;JDAM;guided bomb;Missiles;2018;No;300;Yes;2019;No;New;0.0200;0.0200;6;No
+64073;United States;Chile;JDAM;guided bomb;Missiles;2018;No;44;Yes;2019;Yes;New;0.0200;0.0200;0.88;No
+57253;United States;Sweden;Patriot Configuration-3;SAM/ABM system;Air defence systems;2018;No;1;Yes;2021;No;New;55.0000;55.0000;55;No
+60772;United States;South Korea;AIM-9X Sidewinder;BVRAAM;Missiles;2018;No;30;Yes;2021;Yes;New;0.1800;0.1800;5.4;No
+60772;United States;South Korea;AIM-9X Sidewinder;BVRAAM;Missiles;2018;No;30;Yes;2020;Yes;New;0.1800;0.1800;5.4;No
+59897;United States;South Korea;Standard Missile-2MR;SAM;Missiles;2016;Yes;8;Yes;2021;Yes;New;0.3000;0.3000;2.4;No
+59897;United States;South Korea;Standard Missile-2MR;SAM;Missiles;2016;Yes;9;Yes;2020;Yes;New;0.3000;0.3000;2.7;No
+61947;United States;Qatar;AAQ-33 Sniper;aircraft EO system;Sensors;2018;No;12;Yes;2021;Yes;New;1.0000;1.0000;12;No
+61947;United States;Qatar;AAQ-33 Sniper;aircraft EO system;Sensors;2018;No;4;Yes;2020;No;New;1.0000;1.0000;4;No
+61947;United States;Qatar;AAQ-33 Sniper;aircraft EO system;Sensors;2018;No;20;Yes;2019;No;New;1.0000;1.0000;20;No
+21848;United States;Japan;CF6/F-103;turbofan;Engines;2006;Yes;4;Yes;2021;No;New;6.0000;6.0000;24;No
+21848;United States;Japan;CF6/F-103;turbofan;Engines;2006;Yes;4;Yes;2020;No;New;6.0000;6.0000;24;No
+21848;United States;Japan;CF6/F-103;turbofan;Engines;2006;Yes;4;Yes;2019;No;New;6.0000;6.0000;24;No
+21848;United States;Japan;CF6/F-103;turbofan;Engines;2006;Yes;4;Yes;2018;No;New;6.0000;6.0000;24;No
+21848;United States;Japan;CF6/F-103;turbofan;Engines;2006;Yes;4;Yes;2016;No;New;6.0000;6.0000;24;No
+21848;United States;Japan;CF6/F-103;turbofan;Engines;2006;Yes;4;Yes;2017;No;New;6.0000;6.0000;24;No
+63718;United States;Uganda;ISL;diesel engine;Engines;2019;No;30;Yes;2020;No;New;0.0400;0.0400;1.2;No
+63719;United States;Turkey;ISL;diesel engine;Engines;2018;No;10;Yes;2020;No;New;0.0400;0.0400;0.4;No
+63719;United States;Turkey;ISL;diesel engine;Engines;2018;No;47;Yes;2019;No;New;0.0400;0.0400;1.88;No
+58537;United States;Ukraine;HMMWV Up-Armoured;APV;Armoured vehicles;2015;No;20;No;2021;No;Second hand;0.1400;0.056;1.12;No
+52497;United States;Saudi Arabia;AAQ-13 LANTIRN;combat ac radar;Sensors;2011;Yes;30;Yes;2021;Yes;New;1.0000;1.0000;30;No
+52497;United States;Saudi Arabia;AAQ-13 LANTIRN;combat ac radar;Sensors;2011;Yes;30;Yes;2020;Yes;New;1.0000;1.0000;30;No
+52497;United States;Saudi Arabia;AAQ-13 LANTIRN;combat ac radar;Sensors;2011;Yes;30;Yes;2019;Yes;New;1.0000;1.0000;30;No
+52497;United States;Saudi Arabia;AAQ-13 LANTIRN;combat ac radar;Sensors;2011;Yes;30;Yes;2018;Yes;New;1.0000;1.0000;30;No
+52497;United States;Saudi Arabia;AAQ-13 LANTIRN;combat ac radar;Sensors;2011;Yes;30;Yes;2017;Yes;New;1.0000;1.0000;30;No
+52497;United States;Saudi Arabia;AAQ-13 LANTIRN;combat ac radar;Sensors;2011;Yes;4;Yes;2016;Yes;New;1.0000;1.0000;4;No
+52507;United States;Saudi Arabia;F110;turbofan;Engines;2012;Yes;5;Yes;2019;Yes;New;3.2500;3.2500;16.25;No
+52507;United States;Saudi Arabia;F110;turbofan;Engines;2012;Yes;10;Yes;2018;Yes;New;3.2500;3.2500;32.5;No
+52507;United States;Saudi Arabia;F110;turbofan;Engines;2012;Yes;10;Yes;2017;Yes;New;3.2500;3.2500;32.5;No
+52568;United States;South Korea;Mk-45 127mm;naval gun;Naval weapons;2009;Yes;2;No;2016;No;New;5.2500;5.2500;10.5;No
+61253;United States;Bahrain;Swiftships-35;patrol craft;Ships;2018;No;2;No;2021;No;New;5.5000;5.5000;11;No
+53219;United States;Canada;Mk-48 Mod-5 ADCAP;anti-ship/ASW torpedo;Missiles;2011;No;12;Yes;2016;Yes;New;1.6000;1.6000;19.2;No
+53377;United States;Saudi Arabia;6V-53;diesel engine;Engines;2011;No;50;Yes;2017;Yes;New;0.0400;0.0400;2;No
+53377;United States;Saudi Arabia;6V-53;diesel engine;Engines;2011;No;150;Yes;2016;Yes;New;0.0400;0.0400;6;No
+53478;United States;UAE;GMLRS;guided rocket;Missiles;2015;No;390;Yes;2017;No;New;0.0800;0.0800;31.2;No
+53900;United States;South Korea;Mk-15 Phalanx;naval gun;Naval weapons;2011;No;2;No;2016;No;New;7.0000;7.0000;14;No
+53901;United States;South Korea;Mk-15 Phalanx;naval gun;Naval weapons;2014;No;2;No;2018;No;New;7.0000;7.0000;14;No
+50348;United States;Morocco;AIM-120C AMRAAM;BVRAAM;Missiles;2009;Yes;15;Yes;2016;Yes;New;0.6000;0.6000;9;No
+54617;United States;Israel;F-124;turbofan;Engines;2012;No;16;Yes;2016;No;New;1.0000;1.0000;16;No
+61169;United States;Lebanon;BGM-71 TOW;anti-tank missile;Missiles;2016;Yes;350;Yes;2017;No;Second hand;0.0100;0.004;1.4;No
+61367;United States;Pakistan;Island;patrol craft;Ships;2016;No;2;No;2017;No;Second hand;9.2000;3.68;7.36;No
+61369;United States;Romania;MIM-104C PAC-2;SAM;Missiles;2017;No;10;Yes;2020;Yes;New;1.0000;1.0000;10;No
+55054;United States;Japan;AQS-24;MCM sonar;Sensors;2011;No;1;Yes;2019;Yes;New;5.0000;5.0000;5;No
+55054;United States;Japan;AQS-24;MCM sonar;Sensors;2011;No;1;Yes;2018;Yes;New;5.0000;5.0000;5;No
+55054;United States;Japan;AQS-24;MCM sonar;Sensors;2011;No;1;Yes;2017;Yes;New;5.0000;5.0000;5;No
+55054;United States;Japan;AQS-24;MCM sonar;Sensors;2011;No;1;Yes;2016;Yes;New;5.0000;5.0000;5;No
+55112;United States;Iraq;DB-110;aircraft recce system;Sensors;2012;No;2;Yes;2016;Yes;New;4.0000;4.0000;8;No
+55324;United States;Thailand;S-70/UH-60L;helicopter;Aircraft;2013;No;1;No;2016;Yes;New;7.2500;7.2500;7.25;No
+61371;United States;Japan;LM-2500;gas turbine;Engines;2010;No;4;No;2017;No;New;7.0000;7.0000;28;Yes
+55494;United States;India;T-700;turboshaft;Engines;2015;Yes;3;Yes;2020;Yes;New;0.9000;0.9000;2.7;No
+55494;United States;India;T-700;turboshaft;Engines;2015;Yes;3;Yes;2019;Yes;New;0.9000;0.9000;2.7;No
+55491;United States;India;AGM-114K HELLFIRE;anti-tank missile;Missiles;2015;No;271;Yes;2020;Yes;New;0.0500;0.0500;13.55;No
+55491;United States;India;AGM-114K HELLFIRE;anti-tank missile;Missiles;2015;No;271;Yes;2019;Yes;New;0.0500;0.0500;13.55;No
+55493;United States;India;APG-78 Longbow;combat heli radar;Sensors;2016;No;6;Yes;2020;Yes;New;3.0000;3.0000;18;No
+55493;United States;India;APG-78 Longbow;combat heli radar;Sensors;2016;No;6;Yes;2019;Yes;New;3.0000;3.0000;18;No
+55490;United States;India;AGM-114L HELLFIRE;anti-tank missile;Missiles;2015;No;406;Yes;2020;Yes;New;0.0700;0.0700;28.42;No
+55490;United States;India;AGM-114L HELLFIRE;anti-tank missile;Missiles;2015;No;406;Yes;2019;Yes;New;0.0700;0.0700;28.42;No
+55569;United States;France;LM-2500;gas turbine;Engines;2005;Yes;1;No;2021;No;New;7.0000;7.0000;7;No
+55569;United States;France;LM-2500;gas turbine;Engines;2005;Yes;1;No;2019;No;New;7.0000;7.0000;7;No
+55569;United States;France;LM-2500;gas turbine;Engines;2005;Yes;1;No;2018;No;New;7.0000;7.0000;7;No
+55569;United States;France;LM-2500;gas turbine;Engines;2005;Yes;1;No;2017;No;New;7.0000;7.0000;7;No
+55569;United States;France;LM-2500;gas turbine;Engines;2005;Yes;1;No;2016;No;New;7.0000;7.0000;7;No
+55516;United States;Sweden;GBU-39 SDB;guided bomb;Missiles;2011;Yes;53;Yes;2016;Yes;New;0.0200;0.0200;1.06;No
+55721;United States;South Korea;T-800;turboshaft;Engines;2012;Yes;16;Yes;2016;No;New;0.8000;0.8000;12.8;No
+55828;United States;Nigeria;Power Stroke;diesel engine;Engines;2016;No;10;Yes;2017;No;New;0.0400;0.0400;0.4;No
+55975;United States;Singapore;S-70B/SH-60B Seahawk;ASW helicopter;Aircraft;2013;No;2;No;2018;No;New;17.0000;17.0000;34;No
+55924;United States;Philippines;F404;turbofan;Engines;2014;Yes;8;No;2017;No;New;2.2000;2.2000;17.6;No
+55924;United States;Philippines;F404;turbofan;Engines;2014;Yes;2;No;2016;No;New;2.2000;2.2000;4.4;No
+56042;United States;South Korea;T-700;turboshaft;Engines;2013;No;2;Yes;2016;Yes;New;0.9000;0.9000;1.8;No
+56045;United States;South Korea;APG-78 Longbow;combat heli radar;Sensors;2013;No;6;Yes;2017;No;New;3.0000;3.0000;18;No
+55448;United States;Japan;AAV-7RAM/RS;APC;Armoured vehicles;2013;Yes;1;Yes;2016;Yes;New;1.2000;1.2000;1.2;No
+55448;United States;Japan;AAV-7RAM/RS;APC;Armoured vehicles;2013;Yes;12;Yes;2018;No;New;1.2000;1.2000;14.4;No
+55448;United States;Japan;AAV-7RAM/RS;APC;Armoured vehicles;2013;Yes;15;No;2017;No;New;1.2000;1.2000;18;No
+57677;United States;Turkey;AIM-120C AMRAAM;BVRAAM;Missiles;2014;Yes;37;Yes;2019;Yes;New;0.6000;0.6000;22.2;No
+57677;United States;Turkey;AIM-120C AMRAAM;BVRAAM;Missiles;2014;Yes;36;Yes;2018;Yes;New;0.6000;0.6000;21.6;No
+57677;United States;Turkey;AIM-120C AMRAAM;BVRAAM;Missiles;2014;Yes;36;Yes;2017;Yes;New;0.6000;0.6000;21.6;No
+57677;United States;Turkey;AIM-120C AMRAAM;BVRAAM;Missiles;2014;Yes;36;Yes;2016;Yes;New;0.6000;0.6000;21.6;No
+64502;United States;Kenya;L-118 105mm;towed gun;Artillery;2019;Yes;6;No;2019;No;Second hand;0.6000;0.24;1.44;No
+61382;United States;Japan;AIM-120C AMRAAM;BVRAAM;Missiles;2017;No;28;Yes;2021;Yes;New;0.6000;0.6000;16.8;No
+61382;United States;Japan;AIM-120C AMRAAM;BVRAAM;Missiles;2017;No;28;Yes;2020;Yes;New;0.6000;0.6000;16.8;No
+34823;United States;Taiwan;S-70/UH-60L;helicopter;Aircraft;2012;Yes;1;Yes;2019;Yes;New;7.2500;7.2500;7.25;No
+34823;United States;Taiwan;S-70/UH-60L;helicopter;Aircraft;2012;Yes;12;Yes;2018;No;New;7.2500;7.2500;87;No
+34823;United States;Taiwan;S-70/UH-60L;helicopter;Aircraft;2012;Yes;12;Yes;2017;No;New;7.2500;7.2500;87;No
+34823;United States;Taiwan;S-70/UH-60L;helicopter;Aircraft;2012;Yes;12;Yes;2016;No;New;7.2500;7.2500;87;No
+24919;United States;Spain;RIM-162 ESSM;SAM;Missiles;2008;Yes;25;Yes;2019;Yes;New;0.4000;0.4000;10;Yes
+24919;United States;Spain;RIM-162 ESSM;SAM;Missiles;2008;Yes;25;Yes;2018;No;New;0.4000;0.4000;10;Yes
+61186;United States;Romania;M-142 HIMARS;self-propelled MRL;Artillery;2018;No;18;No;2021;No;New;1.1000;1.1000;19.8;No
+62533;United States;Finland;GMLRS;guided rocket;Missiles;2017;Yes;48;Yes;2020;Yes;New;0.0800;0.0800;3.84;No
+63749;United States;Denmark;AIM-9X Sidewinder;BVRAAM;Missiles;2018;No;16;Yes;2020;Yes;New;0.1800;0.1800;2.88;No
+63748;United States;Morocco;AIM-9X Sidewinder;BVRAAM;Missiles;2018;No;18;Yes;2021;Yes;New;0.1800;0.1800;3.24;No
+63748;United States;Morocco;AIM-9X Sidewinder;BVRAAM;Missiles;2018;No;18;Yes;2020;Yes;New;0.1800;0.1800;3.24;No
+36325;United States;South Korea;RQ-4A Global Hawk;UAV;Aircraft;2014;No;3;No;2020;No;New;35.0000;35.0000;105;Yes
+36325;United States;South Korea;RQ-4A Global Hawk;UAV;Aircraft;2014;No;1;No;2019;No;New;35.0000;35.0000;35;Yes
+36393;United States;South Korea;LM-500;gas turbine;Engines;2005;Yes;2;No;2018;No;New;2.0000;2.0000;4;No
+61368;United States;Romania;MIM-104F PAC-3;ABM;Missiles;2017;No;20;Yes;2020;No;New;1.0000;1.0000;20;No
+38912;United States;Poland;LM-2500;gas turbine;Engines;2001;Yes;1;No;2019;No;New;7.0000;7.0000;7;No
+39382;United States;UAE;RIM-116A RAM;SAM;Missiles;2007;No;30;Yes;2016;Yes;New;0.1400;0.1400;4.2;No
+50311;United States;Saudi Arabia;F-15 Advanced Eagle;FGA aircraft;Aircraft;2011;No;10;Yes;2020;No;New;75.0000;75.0000;750;No
+50311;United States;Saudi Arabia;F-15 Advanced Eagle;FGA aircraft;Aircraft;2011;No;22;Yes;2019;No;New;75.0000;75.0000;1650;No
+50311;United States;Saudi Arabia;F-15 Advanced Eagle;FGA aircraft;Aircraft;2011;No;24;Yes;2018;No;New;75.0000;75.0000;1800;No
+50311;United States;Saudi Arabia;F-15 Advanced Eagle;FGA aircraft;Aircraft;2011;No;26;Yes;2017;No;New;75.0000;75.0000;1950;No
+50311;United States;Saudi Arabia;F-15 Advanced Eagle;FGA aircraft;Aircraft;2011;No;2;Yes;2016;No;New;75.0000;75.0000;150;No
+50550;United States;UAE;THAAD;ABM system;Air defence systems;2011;No;1;Yes;2016;No;New;250.0000;250.0000;250;No
+51002;United States;Italy;F-124;turbofan;Engines;2009;No;4;Yes;2021;No;New;1.0000;1.0000;4;No
+51002;United States;Italy;F-124;turbofan;Engines;2009;No;4;Yes;2019;No;New;1.0000;1.0000;4;No
+51002;United States;Italy;F-124;turbofan;Engines;2009;No;2;Yes;2018;No;New;1.0000;1.0000;2;No
+51002;United States;Italy;F-124;turbofan;Engines;2009;No;8;Yes;2017;No;New;1.0000;1.0000;8;No
+51002;United States;Italy;F-124;turbofan;Engines;2009;No;14;Yes;2016;No;New;1.0000;1.0000;14;No
+33748;United States;Lithuania;FGM-148 Javelin;anti-tank missile;Missiles;2016;No;50;Yes;2021;Yes;New;0.0300;0.0300;1.5;No
+33748;United States;Lithuania;FGM-148 Javelin;anti-tank missile;Missiles;2016;No;50;Yes;2020;No;New;0.0300;0.0300;1.5;No
+33748;United States;Lithuania;FGM-148 Javelin;anti-tank missile;Missiles;2016;No;50;Yes;2019;No;New;0.0300;0.0300;1.5;No
+33748;United States;Lithuania;FGM-148 Javelin;anti-tank missile;Missiles;2016;No;120;Yes;2017;No;New;0.0300;0.0300;3.6;No
+59839;United States;Pakistan;Cessna-208 Caravan;light transport ac;Aircraft;2016;No;2;No;2016;No;New;1.0000;1.0000;2;No
+61409;United States;Pakistan;Cessna-208 Caravan;light transport ac;Aircraft;2015;Yes;2;No;2016;No;New;1.0000;1.0000;2;No
+57980;United States;UAE;ATACMS Block-1A;SSM;Missiles;2015;No;50;Yes;2019;Yes;New;2.0000;2.0000;100;No
+57980;United States;UAE;ATACMS Block-1A;SSM;Missiles;2015;No;50;Yes;2018;Yes;New;2.0000;2.0000;100;No
+51707;United States;Italy;GBU-39 SDB;guided bomb;Missiles;2010;No;250;Yes;2016;Yes;New;0.0200;0.0200;5;No
+52501;United States;Saudi Arabia;AIM-120C AMRAAM;BVRAAM;Missiles;2013;No;129;Yes;2019;No;New;0.6000;0.6000;77.4;No
+52501;United States;Saudi Arabia;AIM-120C AMRAAM;BVRAAM;Missiles;2013;No;150;Yes;2018;Yes;New;0.6000;0.6000;90;No
+52501;United States;Saudi Arabia;AIM-120C AMRAAM;BVRAAM;Missiles;2013;No;66;Yes;2017;No;New;0.6000;0.6000;39.6;No
+52501;United States;Saudi Arabia;AIM-120C AMRAAM;BVRAAM;Missiles;2013;No;115;Yes;2016;No;New;0.6000;0.6000;69;No
+52519;United States;Japan;APG-78 Longbow;combat heli radar;Sensors;2001;No;1;Yes;2016;Yes;New;3.0000;3.0000;3;No
+61568;United States;Czechia;Enstrom-480;light helicopter;Aircraft;2017;No;4;Yes;2018;No;New;0.4000;0.4000;1.6;No
+55061;United States;Brazil;M-109A5 155mm;self-propelled gun;Artillery;2013;No;32;Yes;2019;No;Second hand but modernized;1.2500;0.825;26.4;No
+59767;United States;Saudi Arabia;King Air-350 ISR;AGS aircraft;Aircraft;2016;No;1;Yes;2020;Yes;New;11.0000;11.0000;11;No
+59767;United States;Saudi Arabia;King Air-350 ISR;AGS aircraft;Aircraft;2016;No;1;Yes;2019;Yes;New;11.0000;11.0000;11;No
+54344;United States;Saudi Arabia;AH-64E Apache;combat helicopter;Aircraft;2011;Yes;5;Yes;2016;No;New;15.0000;15.0000;75;No
+54818;United States;South Korea;Harpoon Block-2;anti-ship missile/SSM;Missiles;2012;Yes;2;Yes;2018;Yes;New;1.0000;1.0000;2;No
+54818;United States;South Korea;Harpoon Block-2;anti-ship missile/SSM;Missiles;2012;Yes;5;No;2017;No;New;1.0000;1.0000;5;No
+54818;United States;South Korea;Harpoon Block-2;anti-ship missile/SSM;Missiles;2012;Yes;11;No;2016;No;New;1.0000;1.0000;11;No
+54764;United States;Australia;AE-2100;turboprop;Engines;2012;No;2;Yes;2018;No;New;1.5000;1.5000;3;No
+54764;United States;Australia;AE-2100;turboprop;Engines;2012;No;10;Yes;2017;No;New;1.5000;1.5000;15;No
+54764;United States;Australia;AE-2100;turboprop;Engines;2012;No;4;Yes;2016;No;New;1.5000;1.5000;6;No
+55038;United States;India;TPE-331;turboprop;Engines;2012;Yes;4;Yes;2016;Yes;New;0.3500;0.3500;1.4;Yes
+28509;United States;Taiwan;C-9;diesel engine;Engines;2005;Yes;75;Yes;2021;Yes;New;0.0800;0.0800;6;No
+28509;United States;Taiwan;C-9;diesel engine;Engines;2005;Yes;75;Yes;2020;No;New;0.0800;0.0800;6;No
+28509;United States;Taiwan;C-9;diesel engine;Engines;2005;Yes;75;Yes;2019;No;New;0.0800;0.0800;6;No
+28509;United States;Taiwan;C-9;diesel engine;Engines;2005;Yes;100;Yes;2018;No;New;0.0800;0.0800;8;No
+28509;United States;Taiwan;C-9;diesel engine;Engines;2005;Yes;100;Yes;2017;No;New;0.0800;0.0800;8;No
+28509;United States;Taiwan;C-9;diesel engine;Engines;2005;Yes;100;Yes;2016;No;New;0.0800;0.0800;8;No
+56043;United States;South Korea;AGM-114K HELLFIRE;anti-tank missile;Missiles;2013;No;188;Yes;2017;Yes;New;0.0500;0.0500;9.4;No
+56043;United States;South Korea;AGM-114K HELLFIRE;anti-tank missile;Missiles;2013;No;100;Yes;2016;No;New;0.0500;0.0500;5;No
+55387;United States;Saudi Arabia;King Air-350 ISR;AGS aircraft;Aircraft;2012;Yes;2;Yes;2016;Yes;New;11.0000;11.0000;22;No
+59326;United States;Turkey;JDAM;guided bomb;Missiles;2015;No;650;Yes;2018;Yes;New;0.0200;0.0200;13;No
+59326;United States;Turkey;JDAM;guided bomb;Missiles;2015;No;650;Yes;2017;Yes;New;0.0200;0.0200;13;No
+55555;United States;Saudi Arabia;KC-130J Hercules;tanker/transport ac;Aircraft;2013;No;2;No;2016;No;New;45.0000;45.0000;90;No
+58744;United States;France;C-130J-30 Hercules;transport aircraft;Aircraft;2016;No;1;No;2018;No;New;37.5000;37.5000;37.5;No
+58744;United States;France;C-130J-30 Hercules;transport aircraft;Aircraft;2016;No;1;No;2017;No;New;37.5000;37.5000;37.5;No
+56102;United States;Oman;Avenger;mobile SAM system;Air defence systems;2013;Yes;18;Yes;2016;Yes;New;0.6300;0.6300;11.34;No
+56156;United States;South Korea;MIM-104F PAC-3;ABM;Missiles;2015;No;52;Yes;2019;No;New;1.0000;1.0000;52;No
+56156;United States;South Korea;MIM-104F PAC-3;ABM;Missiles;2015;No;64;Yes;2018;No;New;1.0000;1.0000;64;No
+56156;United States;South Korea;MIM-104F PAC-3;ABM;Missiles;2015;No;20;Yes;2017;Yes;New;1.0000;1.0000;20;No
+61450;United States;Colombia;Cessna-208 Caravan;light transport ac;Aircraft;2016;Yes;1;Yes;2017;No;New;1.0000;1.0000;1;No
+63742;United States;Japan;AAV-7RAM/RS;APC;Armoured vehicles;2018;Yes;2;Yes;2020;Yes;New;1.2000;1.2000;2.4;No
+63742;United States;Japan;AAV-7RAM/RS;APC;Armoured vehicles;2018;Yes;7;Yes;2018;No;New;1.2000;1.2000;8.4;No
+63742;United States;Japan;AAV-7RAM/RS;APC;Armoured vehicles;2018;Yes;11;Yes;2019;No;New;1.2000;1.2000;13.2;No
+56794;United States;Peru;AE-2100;turboprop;Engines;2013;Yes;2;Yes;2017;Yes;New;1.5000;1.5000;3;No
+56805;United States;Thailand;TPS-70;air search radar;Sensors;2013;No;1;Yes;2016;Yes;New;11.0000;11.0000;11;No
+56854;United States;Oman;Stinger;portable SAM;Missiles;2013;No;266;Yes;2016;Yes;New;0.0800;0.0800;21.28;No
+56905;United States;Iraq;F404;turbofan;Engines;2013;No;24;Yes;2016;No;New;2.2000;2.2000;52.8;No
+56934;United States;Brazil;F414;turbofan;Engines;2015;Yes;4;Yes;2021;No;New;2.5000;2.5000;10;No
+56934;United States;Brazil;F414;turbofan;Engines;2015;Yes;1;Yes;2020;No;New;2.5000;2.5000;2.5;No
+57028;United States;Romania;AIM-9X Sidewinder;BVRAAM;Missiles;2015;No;10;Yes;2018;Yes;New;0.1800;0.1800;1.8;No
+57028;United States;Romania;AIM-9X Sidewinder;BVRAAM;Missiles;2015;No;12;Yes;2017;Yes;New;0.1800;0.1800;2.16;No
+56985;United States;Switzerland;ISB5.9;diesel engine;Engines;2009;No;40;Yes;2017;Yes;New;0.0300;0.0300;1.2;No
+56985;United States;Switzerland;ISB5.9;diesel engine;Engines;2009;No;40;Yes;2016;Yes;New;0.0300;0.0300;1.2;No
+57000;United States;Poland;F-124;turbofan;Engines;2014;No;16;Yes;2017;No;New;1.0000;1.0000;16;No
+57060;United States;Oman;MPQ-64 Sentinel;air search radar;Sensors;2013;Yes;1;Yes;2016;Yes;New;5.0000;5.0000;5;No
+57114;United States;Netherlands;AGM-114K HELLFIRE;anti-tank missile;Missiles;2013;No;100;Yes;2016;Yes;New;0.0500;0.0500;5;No
+57140;United States;South Korea;AGM-65 Maverick;ASM;Missiles;2014;No;50;Yes;2016;Yes;New;0.1500;0.1500;7.5;No
+57979;United States;UAE;M-142 HIMARS;self-propelled MRL;Artillery;2015;No;12;No;2018;No;New;1.1000;1.1000;13.2;No
+64600;United States;France;MQ-9 Reaper;armed uav;Aircraft;2015;No;6;Yes;2020;No;New;7.5000;7.5000;45;No
+63783;United States;Thailand;S-70/UH-60A;helicopter;Aircraft;2019;Yes;3;No;2020;No;Second hand;6.5000;2.6;7.8;No
+62196;United States;Bahrain;GMLRS;guided rocket;Missiles;2018;Yes;720;Yes;2021;No;New;0.0800;0.0800;57.6;No
+63708;United States;Peru;F-28;light helicopter;Aircraft;2020;No;2;Yes;2020;Yes;New;0.2500;0.2500;0.5;No
+61423;United States;Greece;APG-83 SABR;combat ac radar;Sensors;2018;No;3;Yes;2021;No;New;2.5000;2.5000;7.5;No
+57029;United States;Romania;AIM-120C AMRAAM;BVRAAM;Missiles;2013;Yes;14;Yes;2020;Yes;New;0.6000;0.6000;8.4;No
+57029;United States;Romania;AIM-120C AMRAAM;BVRAAM;Missiles;2013;Yes;16;Yes;2019;No;New;0.6000;0.6000;9.6;No
+60925;United States;Lebanon;WGU-59 APKWS;anti-tank missile/ASM;Missiles;2016;No;500;Yes;2021;Yes;New;0.0400;0.0400;20;No
+60925;United States;Lebanon;WGU-59 APKWS;anti-tank missile/ASM;Missiles;2016;No;500;Yes;2020;Yes;New;0.0400;0.0400;20;No
+60925;United States;Lebanon;WGU-59 APKWS;anti-tank missile/ASM;Missiles;2016;No;500;Yes;2019;No;New;0.0400;0.0400;20;No
+33482;United States;Sweden;APS-143(V);MP aircraft radar;Sensors;2002;No;2;No;2017;No;New;2.5000;2.5000;5;No
+33482;United States;Sweden;APS-143(V);MP aircraft radar;Sensors;2002;No;3;No;2016;No;New;2.5000;2.5000;7.5;No
+53696;United States;El Salvador;Stan Patrol-2606;patrol craft;Ships;2017;Yes;1;No;2021;No;New;4.2500;4.2500;4.25;No
+64100;United States;Turkmenistan;AE-2100;turboprop;Engines;2019;Yes;4;Yes;2021;No;New;1.5000;1.5000;6;No
+36008;United States;Turkey;RIM-116A RAM;SAM;Missiles;2007;Yes;13;Yes;2019;Yes;New;0.1400;0.1400;1.82;No
+36008;United States;Turkey;RIM-116A RAM;SAM;Missiles;2007;Yes;12;Yes;2016;Yes;New;0.1400;0.1400;1.68;No
+36008;United States;Turkey;RIM-116A RAM;SAM;Missiles;2007;Yes;12;Yes;2018;Yes;New;0.1400;0.1400;1.68;No
+36008;United States;Turkey;RIM-116A RAM;SAM;Missiles;2007;Yes;13;Yes;2017;Yes;New;0.1400;0.1400;1.82;No
+61477;United States;Georgia;FGM-148 Javelin;anti-tank missile;Missiles;2017;No;205;Yes;2019;Yes;New;0.0300;0.0300;6.15;No
+61477;United States;Georgia;FGM-148 Javelin;anti-tank missile;Missiles;2017;No;205;Yes;2018;No;New;0.0300;0.0300;6.15;No
+61478;United States;Poland;AIM-120C AMRAAM;BVRAAM;Missiles;2017;Yes;50;Yes;2021;Yes;New;0.6000;0.6000;30;No
+61478;United States;Poland;AIM-120C AMRAAM;BVRAAM;Missiles;2017;Yes;50;Yes;2020;Yes;New;0.6000;0.6000;30;No
+61478;United States;Poland;AIM-120C AMRAAM;BVRAAM;Missiles;2017;Yes;50;Yes;2019;Yes;New;0.6000;0.6000;30;No
+37177;United States;Portugal;ISC;diesel engine;Engines;2005;No;14;Yes;2016;No;New;0.0400;0.0400;0.56;No
+61963;United States;Botswana;C-212;transport aircraft;Aircraft;2018;Yes;1;No;2018;No;Second hand;3.8000;1.52;1.52;No
+62602;United States;Botswana;C-212;transport aircraft;Aircraft;2018;Yes;1;No;2019;No;Second hand;3.8000;1.52;1.52;No
+62082;United States;Costa Rica;King Air Maritime;MP aircraft;Aircraft;2018;No;1;No;2019;No;New;7.5000;7.5000;7.5;No
+35389;United States;Romania;C-130H Hercules;transport aircraft;Aircraft;2019;Yes;1;No;2021;No;Second hand;28.0000;11.2;11.2;No
+64294;United States;Greece;ASV-150/M-1117;APC;Armoured vehicles;2021;No;44;Yes;2021;No;Second hand;0.3000;0.12;5.28;No
+57252;United States;Jamaica;Caterpillar-3126;diesel engine;Engines;2013;No;6;Yes;2016;No;New;0.0400;0.0400;0.24;No
+59577;United States;Qatar;F-15 Advanced Eagle;FGA aircraft;Aircraft;2017;No;10;Yes;2021;No;New;75.0000;75.0000;750;No
+61689;United States;Qatar;DB-110;aircraft recce system;Sensors;2018;No;1;Yes;2021;Yes;New;4.0000;4.0000;4;No
+63122;United States;Poland;FGM-148 Javelin;anti-tank missile;Missiles;2020;No;180;Yes;2021;No;New;0.0300;0.0300;5.4;No
+62520;United States;United Kingdom;Mk-54 MAKO 324mm;ASW torpedo;Missiles;2018;Yes;15;Yes;2021;Yes;New;0.5000;0.5000;7.5;No
+62520;United States;United Kingdom;Mk-54 MAKO 324mm;ASW torpedo;Missiles;2018;Yes;10;Yes;2020;Yes;New;0.5000;0.5000;5;No
+34142;United States;Taiwan;AAV-7A1;APC;Armoured vehicles;2016;No;24;Yes;2021;Yes;New;1.0000;1.0000;24;No
+34142;United States;Taiwan;AAV-7A1;APC;Armoured vehicles;2016;No;12;Yes;2020;No;New;1.0000;1.0000;12;No
+60486;United States;Saudi Arabia;CH-47F Chinook;transport helicopter;Aircraft;2017;No;4;Yes;2021;Yes;New;20.0000;20.0000;80;No
+34259;United States;Singapore;CH-47F Chinook;transport helicopter;Aircraft;2016;Yes;4;Yes;2021;No;New;20.0000;20.0000;80;No
+56579;United States;Saudi Arabia;Harpoon Block-2;anti-ship missile/SSM;Missiles;2016;Yes;60;Yes;2021;Yes;New;1.0000;1.0000;60;No
+56579;United States;Saudi Arabia;Harpoon Block-2;anti-ship missile/SSM;Missiles;2016;Yes;50;Yes;2020;Yes;New;1.0000;1.0000;50;No
+60723;United States;Canada;C-9;diesel engine;Engines;2017;No;21;Yes;2019;No;New;0.0800;0.0800;1.68;No
+60723;United States;Canada;C-9;diesel engine;Engines;2017;No;120;Yes;2018;No;New;0.0800;0.0800;9.6;No
+60587;United States;Japan;CH-47F Chinook;transport helicopter;Aircraft;2017;Yes;3;Yes;2021;Yes;New;20.0000;20.0000;60;Yes
+64102;United States;Indonesia;AIM-120C AMRAAM;BVRAAM;Missiles;2017;Yes;100;No;2021;Yes;New;0.6000;0.6000;60;No
+64102;United States;Indonesia;AIM-120C AMRAAM;BVRAAM;Missiles;2017;Yes;100;Yes;2020;No;New;0.6000;0.6000;60;No
+64103;United States;Indonesia;MPQ-64 Sentinel;air search radar;Sensors;2017;No;1;Yes;2021;Yes;New;5.0000;5.0000;5;No
+64103;United States;Indonesia;MPQ-64 Sentinel;air search radar;Sensors;2017;No;1;Yes;2020;No;New;5.0000;5.0000;5;No
+59860;United States;Italy;FJ44-4;turbofan;Engines;2016;No;3;Yes;2021;Yes;New;0.6000;0.6000;1.8;No
+59860;United States;Italy;FJ44-4;turbofan;Engines;2016;No;2;Yes;2020;No;New;0.6000;0.6000;1.2;No
+61005;United States;Saudi Arabia;Paveway;guided bomb;Missiles;2019;No;10000;Yes;2020;No;New;0.0200;0.0200;200;No
+61005;United States;Saudi Arabia;Paveway;guided bomb;Missiles;2019;No;10000;Yes;2019;No;New;0.0200;0.0200;200;No
+55548;United States;Netherlands;AIM-9X Sidewinder;BVRAAM;Missiles;2014;Yes;17;Yes;2018;Yes;New;0.1800;0.1800;3.06;No
+55548;United States;Netherlands;AIM-9X Sidewinder;BVRAAM;Missiles;2014;Yes;28;Yes;2016;No;New;0.1800;0.1800;5.04;No
+59506;United States;Italy;JDAM;guided bomb;Missiles;2016;Yes;25;Yes;2021;Yes;New;0.0200;0.0200;0.5;No
+59506;United States;Italy;JDAM;guided bomb;Missiles;2016;Yes;25;Yes;2020;Yes;New;0.0200;0.0200;0.5;No
+52498;United States;Saudi Arabia;AAQ-33 Sniper;aircraft EO system;Sensors;2012;No;10;Yes;2021;Yes;New;1.0000;1.0000;10;No
+52498;United States;Saudi Arabia;AAQ-33 Sniper;aircraft EO system;Sensors;2012;No;6;Yes;2020;Yes;New;1.0000;1.0000;6;No
+52498;United States;Saudi Arabia;AAQ-33 Sniper;aircraft EO system;Sensors;2012;No;20;Yes;2019;Yes;New;1.0000;1.0000;20;No
+52498;United States;Saudi Arabia;AAQ-33 Sniper;aircraft EO system;Sensors;2012;No;26;Yes;2018;Yes;New;1.0000;1.0000;26;No
+52498;United States;Saudi Arabia;AAQ-33 Sniper;aircraft EO system;Sensors;2012;No;26;Yes;2017;Yes;New;1.0000;1.0000;26;No
+52498;United States;Saudi Arabia;AAQ-33 Sniper;aircraft EO system;Sensors;2012;No;4;Yes;2016;Yes;New;1.0000;1.0000;4;No
+59519;United States;Sweden;APS-143(V);MP aircraft radar;Sensors;2015;Yes;1;Yes;2021;Yes;New;2.5000;2.5000;2.5;No
+62778;United States;Jordan;C-130H Hercules;transport aircraft;Aircraft;2019;No;2;No;2021;No;Second hand;28.0000;11.2;22.4;No
+31072;United States;Netherlands;F-35A Lightning-2;FGA aircraft;Aircraft;2008;No;9;No;2021;No;New;55.0000;55.0000;495;Yes
+31072;United States;Netherlands;F-35A Lightning-2;FGA aircraft;Aircraft;2008;No;5;No;2020;No;New;55.0000;55.0000;275;Yes
+31072;United States;Netherlands;F-35A Lightning-2;FGA aircraft;Aircraft;2008;No;8;Yes;2019;No;New;55.0000;55.0000;440;Yes
+57067;United States;United Kingdom;AH-64E Apache;combat helicopter;Aircraft;2016;No;12;No;2021;No;New;15.0000;15.0000;180;Yes
+57067;United States;United Kingdom;AH-64E Apache;combat helicopter;Aircraft;2016;No;2;No;2020;No;New;15.0000;15.0000;30;Yes
+30942;United States;United Kingdom;F-35B Lightning-2;FGA aircraft;Aircraft;2006;Yes;3;No;2021;No;New;60.0000;60.0000;180;Yes
+30942;United States;United Kingdom;F-35B Lightning-2;FGA aircraft;Aircraft;2006;Yes;3;No;2020;No;New;60.0000;60.0000;180;Yes
+30942;United States;United Kingdom;F-35B Lightning-2;FGA aircraft;Aircraft;2006;Yes;1;No;2019;No;New;60.0000;60.0000;60;Yes
+30942;United States;United Kingdom;F-35B Lightning-2;FGA aircraft;Aircraft;2006;Yes;3;Yes;2018;No;New;60.0000;60.0000;180;Yes
+30942;United States;United Kingdom;F-35B Lightning-2;FGA aircraft;Aircraft;2006;Yes;9;Yes;2017;No;New;60.0000;60.0000;540;Yes
+30942;United States;United Kingdom;F-35B Lightning-2;FGA aircraft;Aircraft;2006;Yes;2;Yes;2016;No;New;60.0000;60.0000;120;Yes
+52544;United States;South Korea;F-35A Lightning-2;FGA aircraft;Aircraft;2014;No;10;Yes;2021;No;New;55.0000;55.0000;550;No
+52544;United States;South Korea;F-35A Lightning-2;FGA aircraft;Aircraft;2014;No;10;Yes;2020;No;New;55.0000;55.0000;550;No
+52544;United States;South Korea;F-35A Lightning-2;FGA aircraft;Aircraft;2014;No;10;Yes;2019;No;New;55.0000;55.0000;550;No
+52544;United States;South Korea;F-35A Lightning-2;FGA aircraft;Aircraft;2014;No;6;Yes;2018;No;New;55.0000;55.0000;330;No
+63988;United States;Germany;JDAM;guided bomb;Missiles;2020;Yes;458;Yes;2021;Yes;New;0.0200;0.0200;9.16;Yes
+52586;United States;Israel;Namer;APC/IFV;Armoured vehicles;2011;No;60;Yes;2021;Yes;New;1.5000;1.5000;90;Yes
+52586;United States;Israel;Namer;APC/IFV;Armoured vehicles;2011;No;60;Yes;2020;Yes;New;1.5000;1.5000;90;Yes
+52586;United States;Israel;Namer;APC/IFV;Armoured vehicles;2011;No;60;Yes;2019;Yes;New;1.5000;1.5000;90;Yes
+52586;United States;Israel;Namer;APC/IFV;Armoured vehicles;2011;No;60;Yes;2018;Yes;New;1.5000;1.5000;90;Yes
+52586;United States;Israel;Namer;APC/IFV;Armoured vehicles;2011;No;30;Yes;2017;Yes;New;1.5000;1.5000;45;Yes
+52586;United States;Israel;Namer;APC/IFV;Armoured vehicles;2011;No;30;Yes;2016;Yes;New;1.5000;1.5000;45;Yes
+31755;United States;Italy;F-35A Lightning-2;FGA aircraft;Aircraft;2006;Yes;2;Yes;2021;No;New;55.0000;55.0000;110;Yes
+31755;United States;Italy;F-35A Lightning-2;FGA aircraft;Aircraft;2006;Yes;2;Yes;2020;No;New;55.0000;55.0000;110;Yes
+31755;United States;Italy;F-35A Lightning-2;FGA aircraft;Aircraft;2006;Yes;1;Yes;2019;No;New;55.0000;55.0000;55;Yes
+31755;United States;Italy;F-35A Lightning-2;FGA aircraft;Aircraft;2006;Yes;1;Yes;2018;No;New;55.0000;55.0000;55;Yes
+31755;United States;Italy;F-35A Lightning-2;FGA aircraft;Aircraft;2006;Yes;4;No;2017;No;New;55.0000;55.0000;220;Yes
+31755;United States;Italy;F-35A Lightning-2;FGA aircraft;Aircraft;2006;Yes;4;No;2016;No;New;55.0000;55.0000;220;Yes
+35259;United States;Japan;F-35A Lightning-2;FGA aircraft;Aircraft;2012;Yes;7;Yes;2021;No;New;55.0000;55.0000;385;Yes
+35259;United States;Japan;F-35A Lightning-2;FGA aircraft;Aircraft;2012;Yes;4;No;2020;No;New;55.0000;55.0000;220;Yes
+35259;United States;Japan;F-35A Lightning-2;FGA aircraft;Aircraft;2012;Yes;6;Yes;2019;No;New;55.0000;55.0000;330;Yes
+35259;United States;Japan;F-35A Lightning-2;FGA aircraft;Aircraft;2012;Yes;6;Yes;2018;No;New;55.0000;55.0000;330;Yes
+35259;United States;Japan;F-35A Lightning-2;FGA aircraft;Aircraft;2012;Yes;4;Yes;2017;No;New;55.0000;55.0000;220;Yes
+35259;United States;Japan;F-35A Lightning-2;FGA aircraft;Aircraft;2012;Yes;1;No;2016;No;New;55.0000;55.0000;55;Yes
+55862;United States;Bahrain;AH-1Z Viper;combat helicopter;Aircraft;2018;No;1;Yes;2021;Yes;New;14.5000;14.5000;14.5;No
+63024;United States;Kuwait;M-88A2 HERCULES;ARV;Armoured vehicles;2020;No;9;Yes;2021;Yes;New;2.0000;2.0000;18;No
+26111;United States;India;MH-60R Seahawk;ASW helicopter;Aircraft;2020;No;3;Yes;2021;No;New;16.1000;16.1000;48.3;No
+65106;United States;Colombia;King Air;light transport ac;Aircraft;2020;Yes;1;No;2021;No;New;2.8500;2.8500;2.85;No
+54913;United States;United Kingdom;P-8A Poseidon;ASW aircraft;Aircraft;2016;No;4;No;2021;No;New;125.0000;125.0000;500;No
+54913;United States;United Kingdom;P-8A Poseidon;ASW aircraft;Aircraft;2016;No;3;No;2020;No;New;125.0000;125.0000;375;No
+54913;United States;United Kingdom;P-8A Poseidon;ASW aircraft;Aircraft;2016;No;1;No;2019;No;New;125.0000;125.0000;125;No
+59302;United States;Ukraine;TPQ-36 Firefinder;arty locating radar;Sensors;2015;No;2;Yes;2021;Yes;Second hand;3.0000;1.2;2.4;No
+59302;United States;Ukraine;TPQ-36 Firefinder;arty locating radar;Sensors;2015;No;2;No;2018;No;Second hand;3.0000;1.2;2.4;No
+59302;United States;Ukraine;TPQ-36 Firefinder;arty locating radar;Sensors;2015;No;3;Yes;2017;Yes;Second hand;3.0000;1.2;3.6;No
+59302;United States;Ukraine;TPQ-36 Firefinder;arty locating radar;Sensors;2015;No;2;No;2019;No;Second hand;3.0000;1.2;2.4;No
+59302;United States;Ukraine;TPQ-36 Firefinder;arty locating radar;Sensors;2015;No;4;No;2016;No;Second hand;3.0000;1.2;4.8;No
+52398;United States;India;P-8A Poseidon;ASW aircraft;Aircraft;2016;No;3;Yes;2021;No;New;125.0000;125.0000;375;Yes
+52398;United States;India;P-8A Poseidon;ASW aircraft;Aircraft;2016;No;1;No;2020;No;New;125.0000;125.0000;125;Yes
+63652;United States;Colombia;ASV-150/M-1117;APC;Armoured vehicles;2020;No;20;Yes;2021;No;Second hand;0.3000;0.12;2.4;No
+63069;United States;Ukraine;Island;patrol craft;Ships;2019;Yes;3;Yes;2021;No;Second hand;9.2000;3.68;11.04;No
+62825;United States;India;M-982 Excalibur;guided shell;Missiles;2019;No;500;Yes;2020;Yes;New;0.0400;0.0400;20;No
+62825;United States;India;M-982 Excalibur;guided shell;Missiles;2019;No;700;Yes;2019;No;New;0.0400;0.0400;28;No
+65121;United States;Panama;Stan Patrol-2606;patrol craft;Ships;2019;Yes;1;No;2021;No;New;4.2500;4.2500;4.25;No
+61551;United States;Japan;GBU-39 SDB;guided bomb;Missiles;2017;No;250;Yes;2020;Yes;New;0.0200;0.0200;5;No
+60373;United States;Poland;S-70/UH-60L;helicopter;Aircraft;2019;No;4;No;2019;No;New;7.2500;7.2500;29;Yes
+63654;United States;Argentina;King Air;light transport ac;Aircraft;2020;No;1;Yes;2021;No;Second hand;2.8500;1.14;1.14;No
+63154;United States;Montenegro;L-ATV;APV;Armoured vehicles;2019;No;20;Yes;2021;Yes;New;0.1500;0.1500;3;No
+63154;United States;Montenegro;L-ATV;APV;Armoured vehicles;2019;No;20;No;2020;No;New;0.1500;0.1500;3;No
+58926;United States;Thailand;RIM-162 ESSM;SAM;Missiles;2015;Yes;7;Yes;2018;Yes;New;0.4000;0.4000;2.8;No
+58926;United States;Thailand;RIM-162 ESSM;SAM;Missiles;2015;Yes;7;Yes;2017;Yes;New;0.4000;0.4000;2.8;No
+59303;United States;Saudi Arabia;S-70/UH-60L;helicopter;Aircraft;2016;No;9;Yes;2017;Yes;New;7.2500;7.2500;65.25;No
+62493;United States;Lebanon;AGM-114K HELLFIRE;anti-tank missile;Missiles;2017;Yes;450;Yes;2021;Yes;New;0.0500;0.0500;22.5;No
+62493;United States;Lebanon;AGM-114K HELLFIRE;anti-tank missile;Missiles;2017;Yes;450;Yes;2020;Yes;New;0.0500;0.0500;22.5;No
+62493;United States;Lebanon;AGM-114K HELLFIRE;anti-tank missile;Missiles;2017;Yes;100;Yes;2019;Yes;New;0.0500;0.0500;5;No
+63700;United States;Malaysia;APS-143(V);MP aircraft radar;Sensors;2020;No;1;Yes;2021;Yes;New;2.5000;2.5000;2.5;No
+63700;United States;Malaysia;APS-143(V);MP aircraft radar;Sensors;2020;No;1;Yes;2020;Yes;New;2.5000;2.5000;2.5;No
+65158;United States;Indonesia;6BT;diesel engine;Engines;2018;Yes;5;Yes;2019;Yes;New;0.0300;0.0300;0.15;No
+59637;United States;Netherlands;RQ-21 Blackjack;UAV;Aircraft;2017;Yes;6;Yes;2018;No;New;0.0700;0.0700;0.42;No
+58835;United States;Portugal;T-800;turboshaft;Engines;2016;No;4;Yes;2021;No;New;0.8000;0.8000;3.2;No
+57526;United States;Brazil;T-800;turboshaft;Engines;2014;No;2;Yes;2021;No;New;0.8000;0.8000;1.6;No
+57526;United States;Brazil;T-800;turboshaft;Engines;2014;No;2;Yes;2020;Yes;New;0.8000;0.8000;1.6;No
+57526;United States;Brazil;T-800;turboshaft;Engines;2014;No;4;Yes;2019;No;New;0.8000;0.8000;3.2;No
+63867;United States;Qatar;ISC;diesel engine;Engines;2020;No;25;Yes;2021;Yes;New;0.0400;0.0400;1;No
+60589;United States;India;TPE-331;turboprop;Engines;2016;Yes;6;Yes;2021;Yes;New;0.3500;0.3500;2.1;No
+60589;United States;India;TPE-331;turboprop;Engines;2016;Yes;4;Yes;2020;Yes;New;0.3500;0.3500;1.4;No
+60589;United States;India;TPE-331;turboprop;Engines;2016;Yes;8;Yes;2019;No;New;0.3500;0.3500;2.8;No
+34143;United States;India;AH-64E Apache;combat helicopter;Aircraft;2015;No;5;No;2020;No;New;15.0000;15.0000;75;Yes
+34143;United States;India;AH-64E Apache;combat helicopter;Aircraft;2015;No;17;No;2019;No;New;15.0000;15.0000;255;Yes
+59899;United States;Australia;Standard Missile-2MR;SAM;Missiles;2016;Yes;20;Yes;2021;Yes;New;0.3000;0.3000;6;No
+59899;United States;Australia;Standard Missile-2MR;SAM;Missiles;2016;Yes;20;Yes;2020;Yes;New;0.3000;0.3000;6;No
+58482;United States;Australia;AIM-120D AMRAAM;BVRAAM;Missiles;2018;Yes;50;Yes;2021;Yes;New;0.8000;0.8000;40;No
+58482;United States;Australia;AIM-120D AMRAAM;BVRAAM;Missiles;2018;Yes;54;Yes;2020;No;New;0.8000;0.8000;43.2;No
+58482;United States;Australia;AIM-120D AMRAAM;BVRAAM;Missiles;2018;Yes;25;Yes;2019;No;New;0.8000;0.8000;20;No
+63704;United States;Chad;David;APV;Armoured vehicles;2020;Yes;28;No;2020;No;New;0.1100;0.1100;3.08;No
+62003;United States;Indonesia;ScanEagle;UAV;Aircraft;2018;No;3;Yes;2021;No;New;0.0400;0.0400;0.12;No
+65187;United States;Chad;ISC;diesel engine;Engines;2018;Yes;20;Yes;2018;No;New;0.0400;0.0400;0.8;No
+62878;United States;Chad;ISL;diesel engine;Engines;2019;No;8;Yes;2021;No;New;0.0400;0.0400;0.32;No
+60805;United States;Indonesia;AAQ-33 Sniper;aircraft EO system;Sensors;2017;No;4;Yes;2021;Yes;New;1.0000;1.0000;4;No
+60805;United States;Indonesia;AAQ-33 Sniper;aircraft EO system;Sensors;2017;No;4;Yes;2019;No;New;1.0000;1.0000;4;No
+60805;United States;Indonesia;AAQ-33 Sniper;aircraft EO system;Sensors;2017;No;4;Yes;2020;No;New;1.0000;1.0000;4;No
+63776;United States;Japan;AAQ-33 Sniper;aircraft EO system;Sensors;2015;Yes;5;Yes;2021;Yes;New;1.0000;1.0000;5;No
+63776;United States;Japan;AAQ-33 Sniper;aircraft EO system;Sensors;2015;Yes;5;Yes;2018;Yes;New;1.0000;1.0000;5;No
+63776;United States;Japan;AAQ-33 Sniper;aircraft EO system;Sensors;2015;Yes;5;Yes;2019;Yes;New;1.0000;1.0000;5;No
+63776;United States;Japan;AAQ-33 Sniper;aircraft EO system;Sensors;2015;Yes;5;Yes;2020;Yes;New;1.0000;1.0000;5;No
+63902;United States;Colombia;Cessna-172;trainer/light aircraft;Aircraft;2020;No;4;No;2021;No;New;0.1000;0.1000;0.4;No
+61569;United States;France;King Air;light transport ac;Aircraft;2016;No;2;No;2020;No;New;2.8500;2.8500;5.7;No
+65192;United States;Kenya;Mamba-7;APC;Armoured vehicles;2020;Yes;22;Yes;2020;Yes;New;0.2000;0.2000;4.4;No
+37756;United States;Indonesia;CT7;turboprop;Engines;1990;Yes;2;Yes;2019;No;New;0.6000;0.6000;1.2;No
+63157;United States;Niger;Mamba-7;APC;Armoured vehicles;2019;No;16;No;2021;No;New;0.2000;0.2000;3.2;No
+63157;United States;Niger;Mamba-7;APC;Armoured vehicles;2019;No;22;No;2020;No;New;0.2000;0.2000;4.4;No
+63157;United States;Niger;Mamba-7;APC;Armoured vehicles;2019;No;13;No;2019;No;New;0.2000;0.2000;2.6;No
+61303;United States;Nigeria;WGU-59 APKWS;anti-tank missile/ASM;Missiles;2019;No;400;Yes;2021;Yes;New;0.0400;0.0400;16;No
+62532;United States;Romania;GMLRS;guided rocket;Missiles;2018;No;89;Yes;2021;No;New;0.0800;0.0800;7.12;No
+62204;United States;Taiwan;AAQ-33 Sniper;aircraft EO system;Sensors;2018;No;3;Yes;2021;Yes;New;1.0000;1.0000;3;No
+62204;United States;Taiwan;AAQ-33 Sniper;aircraft EO system;Sensors;2018;No;3;Yes;2020;Yes;New;1.0000;1.0000;3;No
+36046;United States;Italy;T-700;turboshaft;Engines;2003;Yes;12;Yes;2021;No;New;0.9000;0.9000;10.8;Yes
+36046;United States;Italy;T-700;turboshaft;Engines;2003;Yes;10;Yes;2020;No;New;0.9000;0.9000;9;Yes
+36046;United States;Italy;T-700;turboshaft;Engines;2003;Yes;10;Yes;2019;No;New;0.9000;0.9000;9;Yes
+36046;United States;Italy;T-700;turboshaft;Engines;2003;Yes;10;Yes;2018;No;New;0.9000;0.9000;9;Yes
+36046;United States;Italy;T-700;turboshaft;Engines;2003;Yes;4;Yes;2017;No;New;0.9000;0.9000;3.6;Yes
+36046;United States;Italy;T-700;turboshaft;Engines;2003;Yes;10;Yes;2016;No;New;0.9000;0.9000;9;Yes
+32773;United States;Colombia;PC-9;trainer aircraft;Aircraft;2020;No;4;No;2021;No;New;1.6500;1.6500;6.6;No
+65195;United States;Uganda;Mamba-7;APC;Armoured vehicles;2020;Yes;23;Yes;2020;Yes;New;0.2000;0.2000;4.6;No
+53705;United States;Brazil;V2500;turbofan;Engines;2014;Yes;2;Yes;2021;No;New;3.0000;3.0000;6;No
+53705;United States;Brazil;V2500;turbofan;Engines;2014;Yes;4;Yes;2020;No;New;3.0000;3.0000;12;No
+53705;United States;Brazil;V2500;turbofan;Engines;2014;Yes;4;Yes;2019;No;New;3.0000;3.0000;12;No
+61735;United States;Poland;F-124;turbofan;Engines;2018;No;8;Yes;2020;No;New;1.0000;1.0000;8;No
+64295;United States;Kosovo;ASV-150/M-1117;APC;Armoured vehicles;2021;Yes;55;No;2021;No;Second hand;0.3000;0.12;6.6;No
+37077;United States;Italy;AGM-88E AARGM;ARM;Missiles;2009;No;30;Yes;2021;Yes;New;0.6000;0.6000;18;Yes
+37077;United States;Italy;AGM-88E AARGM;ARM;Missiles;2009;No;31;Yes;2020;Yes;New;0.6000;0.6000;18.6;Yes
+37077;United States;Italy;AGM-88E AARGM;ARM;Missiles;2009;No;29;Yes;2019;Yes;New;0.6000;0.6000;17.4;Yes
+37077;United States;Italy;AGM-88E AARGM;ARM;Missiles;2009;No;25;Yes;2018;Yes;New;0.6000;0.6000;15;Yes
+37077;United States;Italy;AGM-88E AARGM;ARM;Missiles;2009;No;19;Yes;2017;Yes;New;0.6000;0.6000;11.4;Yes
+55127;United States;Italy;Paveway;guided bomb;Missiles;2016;Yes;25;Yes;2021;Yes;New;0.0200;0.0200;0.5;No
+55127;United States;Italy;Paveway;guided bomb;Missiles;2016;Yes;25;Yes;2020;Yes;New;0.0200;0.0200;0.5;No
+59608;United States;Italy;LM-2500;gas turbine;Engines;2016;No;1;No;2021;No;New;7.0000;7.0000;7;Yes
+52740;United States;Japan;S-70/UH-60L;helicopter;Aircraft;2010;Yes;4;Yes;2019;Yes;New;7.2500;7.2500;29;Yes
+52740;United States;Japan;S-70/UH-60L;helicopter;Aircraft;2010;Yes;5;Yes;2018;No;New;7.2500;7.2500;36.25;Yes
+52740;United States;Japan;S-70/UH-60L;helicopter;Aircraft;2010;Yes;3;Yes;2016;Yes;New;7.2500;7.2500;21.75;Yes
+62762;United States;South Korea;AIM-120C AMRAAM;BVRAAM;Missiles;2019;No;30;Yes;2021;Yes;New;0.6000;0.6000;18;No
+62534;United States;South Korea;GMLRS;guided rocket;Missiles;2018;No;500;Yes;2020;No;New;0.0800;0.0800;40;No
+63036;United States;South Korea;AIM-120D AMRAAM;BVRAAM;Missiles;2019;Yes;30;Yes;2021;Yes;New;0.8000;0.8000;24;No
+61160;United States;Taiwan;AGM-154 JSOW;guided bomb;Missiles;2017;Yes;23;Yes;2021;Yes;New;0.2000;0.2000;4.6;No
+61161;United States;Taiwan;Standard Missile-2MR;SAM;Missiles;2017;No;8;Yes;2021;Yes;New;0.3000;0.3000;2.4;No
+61161;United States;Taiwan;Standard Missile-2MR;SAM;Missiles;2017;No;8;Yes;2020;Yes;New;0.3000;0.3000;2.4;No
+64812;United States;Ukraine;FGM-148 Javelin;anti-tank missile;Missiles;2021;No;180;No;2021;No;New;0.0300;0.0300;5.4;No
+53321;United States;Malaysia;ASQ-228 ATFLIR;aircraft EO system;Sensors;2012;No;3;Yes;2017;Yes;New;1.1000;1.1000;3.3;No
+53321;United States;Malaysia;ASQ-228 ATFLIR;aircraft EO system;Sensors;2012;No;3;Yes;2016;Yes;New;1.1000;1.1000;3.3;No
+61748;United States;Spain;CH-47F Chinook;transport helicopter;Aircraft;2018;No;1;No;2021;No;New;20.0000;20.0000;20;No
+59720;United States;Philippines;Cessna-208 Caravan;light transport ac;Aircraft;2016;No;2;No;2017;No;New;1.0000;1.0000;2;No
+62436;United States;Indonesia;Bell-412;helicopter;Aircraft;2018;Yes;4;Yes;2021;No;New;5.0000;5.0000;20;No
+62436;United States;Indonesia;Bell-412;helicopter;Aircraft;2018;Yes;1;No;2020;No;New;5.0000;5.0000;5;No
+60392;United States;Kenya;M28 Skytruck;light transport ac;Aircraft;2016;No;3;Yes;2020;Yes;Second hand;2.7500;1.1;3.3;No
+64519;United States;El Salvador;MD-500E;light helicopter;Aircraft;2017;No;4;Yes;2021;Yes;New;0.7000;0.7000;2.8;No
+52395;United States;Spain;S-70/UH-60L;helicopter;Aircraft;2015;Yes;1;No;2018;No;Second hand but modernized;7.2500;4.785;4.785;No
+52395;United States;Spain;S-70/UH-60L;helicopter;Aircraft;2015;Yes;1;No;2017;No;Second hand but modernized;7.2500;4.785;4.785;No
+56865;United States;UAE;Archangel-BPA;ground attack ac;Aircraft;2014;No;8;Yes;2017;No;New;4.9000;4.9000;39.2;No
+56865;United States;UAE;Archangel-BPA;ground attack ac;Aircraft;2014;No;12;Yes;2016;No;New;4.9000;4.9000;58.8;No
+56247;United States;South Korea;AIM-120C AMRAAM;BVRAAM;Missiles;2014;Yes;79;Yes;2017;Yes;New;0.6000;0.6000;47.4;No
+56247;United States;South Korea;AIM-120C AMRAAM;BVRAAM;Missiles;2014;Yes;184;Yes;2018;No;New;0.6000;0.6000;110.4;No
+56247;United States;South Korea;AIM-120C AMRAAM;BVRAAM;Missiles;2014;Yes;11;Yes;2016;No;New;0.6000;0.6000;6.6;No
+53474;United States;Australia;AGM-114K HELLFIRE;anti-tank missile;Missiles;2013;Yes;150;Yes;2016;Yes;New;0.0500;0.0500;7.5;No
+62432;United States;Qatar;AGM-154 JSOW;guided bomb;Missiles;2017;No;50;Yes;2021;Yes;New;0.2000;0.2000;10;No
+59502;United States;Spain;RIM-162 ESSM;SAM;Missiles;2015;No;9;Yes;2018;Yes;New;0.4000;0.4000;3.6;Yes
+59502;United States;Spain;RIM-162 ESSM;SAM;Missiles;2015;No;10;Yes;2017;Yes;New;0.4000;0.4000;4;Yes
+62421;United States;Slovenia;L-ATV;APV;Armoured vehicles;2018;No;38;No;2021;No;New;0.1500;0.1500;5.7;No
+62991;United States;Ukraine;FGM-148 Javelin;anti-tank missile;Missiles;2019;No;150;Yes;2020;No;New;0.0300;0.0300;4.5;No
+62145;United States;Bangladesh;MaxxPro;APC;Armoured vehicles;2018;No;50;No;2021;No;Second hand but modernized;0.3200;0.2112;10.56;No
+62394;United States;Algeria;MaxxPro;APC;Armoured vehicles;2017;Yes;30;Yes;2018;No;New;0.3200;0.3200;9.6;No
+64500;United States;Iraq;ASV-150/M-1117;APC;Armoured vehicles;2018;Yes;103;Yes;2019;Yes;Second hand;0.3000;0.12;12.36;No
+64296;United States;Kosovo;HMMWV Up-Armoured;APV;Armoured vehicles;2018;No;9;Yes;2018;No;New;0.1400;0.1400;1.26;No
+64296;United States;Kosovo;HMMWV Up-Armoured;APV;Armoured vehicles;2018;No;25;Yes;2020;No;New;0.1400;0.1400;3.5;No
+62653;United States;Thailand;Piranha-3;APC;Armoured vehicles;2019;No;50;Yes;2020;No;Second hand;0.3500;0.14;7;No
+62653;United States;Thailand;Piranha-3;APC;Armoured vehicles;2019;No;10;Yes;2019;No;Second hand;0.3500;0.14;1.4;No
+65159;United States;Togo;Mamba-7;APC;Armoured vehicles;2020;Yes;50;Yes;2021;No;New;0.2000;0.2000;10;No
+59028;United States;Saudi Arabia;MH-60R Seahawk;ASW helicopter;Aircraft;2015;No;5;Yes;2019;Yes;New;16.1000;16.1000;80.5;No
+59028;United States;Saudi Arabia;MH-60R Seahawk;ASW helicopter;Aircraft;2015;No;5;Yes;2018;No;New;16.1000;16.1000;80.5;No
+34956;United States;Finland;AGM-158A JASSM;ASM;Missiles;2013;Yes;21;Yes;2020;No;New;1.2500;1.2500;26.25;No
+34956;United States;Finland;AGM-158A JASSM;ASM;Missiles;2013;Yes;35;Yes;2019;No;New;1.2500;1.2500;43.75;No
+34956;United States;Finland;AGM-158A JASSM;ASM;Missiles;2013;Yes;12;Yes;2018;No;New;1.2500;1.2500;15;No
+34956;United States;Finland;AGM-158A JASSM;ASM;Missiles;2013;Yes;2;Yes;2016;No;New;1.2500;1.2500;2.5;No
+55007;United States;India;Harpoon Block-2;anti-ship missile/SSM;Missiles;2016;No;12;No;2018;No;New;1.0000;1.0000;12;No
+60593;United States;Poland;AIM-120C AMRAAM;BVRAAM;Missiles;2016;Yes;45;Yes;2019;Yes;New;0.6000;0.6000;27;No
+60593;United States;Poland;AIM-120C AMRAAM;BVRAAM;Missiles;2016;Yes;20;Yes;2018;Yes;New;0.6000;0.6000;12;No
+61505;United States;Saudi Arabia;AGM-154 JSOW;guided bomb;Missiles;2017;No;175;Yes;2021;Yes;New;0.2000;0.2000;35;No
+61505;United States;Saudi Arabia;AGM-154 JSOW;guided bomb;Missiles;2017;No;175;Yes;2020;Yes;New;0.2000;0.2000;35;No
+61505;United States;Saudi Arabia;AGM-154 JSOW;guided bomb;Missiles;2017;No;175;Yes;2019;Yes;New;0.2000;0.2000;35;No
+62519;United States;UAE;RIM-162 ESSM;SAM;Missiles;2016;No;48;Yes;2019;Yes;New;0.4000;0.4000;19.2;No
+62519;United States;UAE;RIM-162 ESSM;SAM;Missiles;2016;No;48;Yes;2018;Yes;New;0.4000;0.4000;19.2;No
+58951;United States;Spain;MQ-9 Reaper;armed uav;Aircraft;2016;No;3;No;2020;No;New;7.5000;7.5000;22.5;No
+58951;United States;Spain;MQ-9 Reaper;armed uav;Aircraft;2016;No;1;No;2019;No;New;7.5000;7.5000;7.5;No
+30881;United States;Australia;F-35A Lightning-2;FGA aircraft;Aircraft;2009;Yes;15;No;2021;No;New;55.0000;55.0000;825;Yes
+30881;United States;Australia;F-35A Lightning-2;FGA aircraft;Aircraft;2009;Yes;15;No;2020;No;New;55.0000;55.0000;825;Yes
+30881;United States;Australia;F-35A Lightning-2;FGA aircraft;Aircraft;2009;Yes;8;No;2019;No;New;55.0000;55.0000;440;Yes
+30881;United States;Australia;F-35A Lightning-2;FGA aircraft;Aircraft;2009;Yes;8;No;2018;No;New;55.0000;55.0000;440;Yes
+31007;United States;Australia;P-8A Poseidon;ASW aircraft;Aircraft;2014;No;1;No;2020;No;New;125.0000;125.0000;125;Yes
+31007;United States;Australia;P-8A Poseidon;ASW aircraft;Aircraft;2014;No;4;No;2019;No;New;125.0000;125.0000;500;Yes
+31007;United States;Australia;P-8A Poseidon;ASW aircraft;Aircraft;2014;No;2;No;2018;No;New;125.0000;125.0000;250;Yes
+31007;United States;Australia;P-8A Poseidon;ASW aircraft;Aircraft;2014;No;4;No;2017;No;New;125.0000;125.0000;500;Yes
+31007;United States;Australia;P-8A Poseidon;ASW aircraft;Aircraft;2014;No;1;No;2016;No;New;125.0000;125.0000;125;Yes
+58433;United States;Qatar;AGM-114K HELLFIRE;anti-tank missile;Missiles;2014;Yes;288;Yes;2020;Yes;New;0.0500;0.0500;14.4;No
+58433;United States;Qatar;AGM-114K HELLFIRE;anti-tank missile;Missiles;2014;Yes;288;Yes;2019;No;New;0.0500;0.0500;14.4;No
+60487;United States;Morocco;BGM-71 TOW;anti-tank missile;Missiles;2017;No;400;Yes;2020;Yes;New;0.0100;0.0100;4;No
+60487;United States;Morocco;BGM-71 TOW;anti-tank missile;Missiles;2017;No;400;Yes;2019;Yes;New;0.0100;0.0100;4;No
+60487;United States;Morocco;BGM-71 TOW;anti-tank missile;Missiles;2017;No;400;Yes;2018;Yes;New;0.0100;0.0100;4;No
+58920;United States;Pakistan;AAQ-33 Sniper;aircraft EO system;Sensors;2015;No;10;Yes;2016;Yes;New;1.0000;1.0000;10;No
+26831;United States;Pakistan;M-113A3;APC;Armoured vehicles;1998;No;7;Yes;2017;Yes;New;0.3000;0.3000;2.1;Yes
+57036;United States;Singapore;GMLRS;guided rocket;Missiles;2014;Yes;174;Yes;2016;Yes;New;0.0800;0.0800;13.92;No
+62744;United States;Singapore;APG-83 SABR;combat ac radar;Sensors;2015;No;10;Yes;2021;No;New;2.5000;2.5000;25;No
+62744;United States;Singapore;APG-83 SABR;combat ac radar;Sensors;2015;No;10;Yes;2020;No;New;2.5000;2.5000;25;No
+62744;United States;Singapore;APG-83 SABR;combat ac radar;Sensors;2015;No;10;Yes;2019;No;New;2.5000;2.5000;25;No
+62744;United States;Singapore;APG-83 SABR;combat ac radar;Sensors;2015;No;10;Yes;2018;No;New;2.5000;2.5000;25;No
+62744;United States;Singapore;APG-83 SABR;combat ac radar;Sensors;2015;No;10;Yes;2017;No;New;2.5000;2.5000;25;No
+55996;United States;Singapore;AIM-120C AMRAAM;BVRAAM;Missiles;2014;No;50;Yes;2017;Yes;New;0.6000;0.6000;30;No
+55996;United States;Singapore;AIM-120C AMRAAM;BVRAAM;Missiles;2014;No;50;Yes;2016;Yes;New;0.6000;0.6000;30;No
+50343;United States;Singapore;AIM-120C AMRAAM;BVRAAM;Missiles;2008;Yes;13;Yes;2016;Yes;New;0.6000;0.6000;7.8;No
+37778;United States;Singapore;C-9;diesel engine;Engines;2009;No;10;Yes;2018;Yes;New;0.0800;0.0800;0.8;No
+37778;United States;Singapore;C-9;diesel engine;Engines;2009;No;25;Yes;2017;No;New;0.0800;0.0800;2;No
+37778;United States;Singapore;C-9;diesel engine;Engines;2009;No;25;Yes;2016;No;New;0.0800;0.0800;2;No
+57716;United States;Australia;AIM-9X Sidewinder;BVRAAM;Missiles;2014;Yes;84;Yes;2020;No;New;0.1800;0.1800;15.12;No
+57716;United States;Australia;AIM-9X Sidewinder;BVRAAM;Missiles;2014;Yes;85;Yes;2019;No;New;0.1800;0.1800;15.3;No
+60152;United States;Australia;Bell-429 GlobalRanger;light helicopter;Aircraft;2015;Yes;1;No;2016;No;New;2.7000;2.7000;2.7;No
+60877;United States;Australia;RIM-162 ESSM;SAM;Missiles;2007;Yes;50;Yes;2018;Yes;New;0.4000;0.4000;20;Yes
+60877;United States;Australia;RIM-162 ESSM;SAM;Missiles;2007;Yes;50;Yes;2017;Yes;New;0.4000;0.4000;20;Yes
+60924;United States;Australia;WGU-59 APKWS;anti-tank missile/ASM;Missiles;2016;No;500;Yes;2018;No;New;0.0400;0.0400;20;No
+40080;United States;Australia;AGM-154 JSOW;guided bomb;Missiles;2007;Yes;10;Yes;2016;Yes;New;0.2000;0.2000;2;No
+50230;United States;Australia;SPY-1F;air search radar;Sensors;2008;No;1;No;2020;No;New;20.0000;20.0000;20;No
+50230;United States;Australia;SPY-1F;air search radar;Sensors;2008;No;1;No;2018;No;New;20.0000;20.0000;20;No
+50230;United States;Australia;SPY-1F;air search radar;Sensors;2008;No;1;No;2017;No;New;20.0000;20.0000;20;No
+50277;United States;Australia;Type-2150;ASW sonar;Sensors;2007;Yes;1;No;2020;No;New;30.0000;30.0000;30;No
+50277;United States;Australia;Type-2150;ASW sonar;Sensors;2007;Yes;1;No;2018;No;New;30.0000;30.0000;30;No
+50277;United States;Australia;Type-2150;ASW sonar;Sensors;2007;Yes;1;No;2017;No;New;30.0000;30.0000;30;No
+52448;United States;Australia;Mk-54 MAKO 324mm;ASW torpedo;Missiles;2012;No;77;Yes;2016;Yes;New;0.5000;0.5000;38.5;No
+51390;United States;Australia;SPQ-9;fire control radar;Sensors;2009;No;1;No;2020;No;New;3.5000;3.5000;3.5;No
+51390;United States;Australia;SPQ-9;fire control radar;Sensors;2009;No;1;No;2018;No;New;3.5000;3.5000;3.5;No
+51390;United States;Australia;SPQ-9;fire control radar;Sensors;2009;No;1;No;2017;No;New;3.5000;3.5000;3.5;No
+51739;United States;Australia;JDAM;guided bomb;Missiles;2011;No;125;Yes;2016;Yes;New;0.0200;0.0200;2.5;Yes
+56287;United States;Australia;Mk-54 MAKO 324mm;ASW torpedo;Missiles;2015;Yes;30;Yes;2019;Yes;New;0.5000;0.5000;15;No
+56287;United States;Australia;Mk-54 MAKO 324mm;ASW torpedo;Missiles;2015;Yes;30;Yes;2018;Yes;New;0.5000;0.5000;15;No
+56287;United States;Australia;Mk-54 MAKO 324mm;ASW torpedo;Missiles;2015;Yes;30;Yes;2017;Yes;New;0.5000;0.5000;15;No
+56287;United States;Australia;Mk-54 MAKO 324mm;ASW torpedo;Missiles;2015;Yes;10;Yes;2016;Yes;New;0.5000;0.5000;5;No
+53565;United States;Australia;AIM-120C AMRAAM;BVRAAM;Missiles;2013;Yes;106;Yes;2016;Yes;New;0.6000;0.6000;63.6;No
+57376;United States;Australia;Mk-41 VLS;naval SAM system;Naval weapons;2006;No;1;No;2020;No;New;20.0000;20.0000;20;No
+57376;United States;Australia;Mk-41 VLS;naval SAM system;Naval weapons;2006;No;1;No;2018;No;New;20.0000;20.0000;20;No
+57376;United States;Australia;Mk-41 VLS;naval SAM system;Naval weapons;2006;No;1;No;2017;No;New;20.0000;20.0000;20;No
+63666;United States;Rwanda;Cessna-208 Caravan;light transport ac;Aircraft;2020;No;2;No;2021;No;New;1.0000;1.0000;2;No
+60276;United States;Niger;C-130H Hercules;transport aircraft;Aircraft;2015;Yes;2;Yes;2021;No;Second hand;28.0000;11.2;22.4;No
+35113;United States;Denmark;Standard Missile-2MR;SAM;Missiles;2018;No;20;Yes;2021;Yes;New;0.3000;0.3000;6;No
+35113;United States;Denmark;Standard Missile-2MR;SAM;Missiles;2018;No;10;Yes;2020;Yes;New;0.3000;0.3000;3;No
+58923;United States;Ukraine;FGM-148 Javelin;anti-tank missile;Missiles;2018;No;210;Yes;2018;No;New;0.0300;0.0300;6.3;No
