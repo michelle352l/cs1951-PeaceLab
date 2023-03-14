@@ -1,1 +1,4 @@
 data/*
+scripts/reddit_tmp/*
+scripts/*.json
+scripts/*.txt

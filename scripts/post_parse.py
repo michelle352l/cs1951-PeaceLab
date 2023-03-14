@@ -6,7 +6,7 @@ import http
 # response = requests.get(url)
 # json_response = json.loads(response.text)
 
-your_filename = "./data/RC_2008-01.txt"
+your_filename = "./RC_2008-01.txt"
 with open(your_filename, "rb") as f:
     data = f.read()
 
@@ -57,6 +57,7 @@ for p in posts:
     second = False
     for s in sales:
         if s in p['body']:
+            print(s)
             first = True
             break
     if not first:
@@ -64,12 +65,17 @@ for p in posts:
     for w in weapon:
         if w in p['body']:
             second = True
+            print(w)
             break
     if first and second:
-        result.append(p)
+        print(p)
+        print("----------------------------")
+        # result.append(p)
 
-for r in result:
-    print(r['body'])
-    print("----------------------------")
+# for r in result:
+#     print(r['body'])
+#     print("----------------------------")
 
-print(len(result))
+# print(len(result))
+
+
