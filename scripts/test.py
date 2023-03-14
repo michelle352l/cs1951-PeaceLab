@@ -215,7 +215,8 @@ def main():
                                                               len(qa_dict[name]))
             for name, out_file_name in output_files.items():
                 fo = open(out_file_name, "w")
-                json.dump([(eli_k, eli_dct) for eli_k, eli_dct in qa_dict[name].items()], fo)
+                jobj = json.dumps([(eli_k, eli_dct) for eli_k, eli_dct in qa_dict[name].items()], indent = 4)
+                fo.write(jobj)
                 fo.close()
     if not args.questions_only:
         for name, out_file_name in output_files.items():
@@ -223,7 +224,9 @@ def main():
             qa_dct_list = [(k, post_process(rdct, name)) for k, rdct in qa_dict[name].items() if 'comments' in rdct]
             qa_dct_list = [x for x in qa_dct_list if len(x[1]['comments']) > 0 and name in x[1]['url']]
             fo = open(out_file_name, "w")
-            json.dump(qa_dct_list, fo)
+            # json.dump(qa_dct_list, fo)
+            jobj = json.dumps(qa_dct_list, indent=4)
+            fo.write(jobj)
             fo.close()
 
 
