@@ -88,7 +88,7 @@ def download_and_process(file_url, mode, st_time):
     if mode == 'submissions':
         key_list    = ['id', 'score', 'url', 'title', 'selftext']
     else:
-        key_list    = ['id', 'link_id', 'parent_id', 'score', 'body']
+        key_list    = ['id', 'link_id', 'parent_id', 'score', 'body', 'subreddit_id']
     # for name in subreddit_names:
     for line in lines[name]:
         reddit_dct  = json.loads(line)
@@ -104,20 +104,18 @@ def download_and_process(file_url, mode, st_time):
                     reddit_res[k]       = reddit_dct[k]
             processed_items[name] += [reddit_res]
     print("Total found %d" % (len(processed_items)), time() - st_time)
+    # print(processed_items)
     return processed_items
 
 
 def post_process(reddit_dct, name=''):
     # remove the ELI5 at the start of explainlikeimfive questions
     start_re    = re.compile('[\[]?[ ]?eli[5f][ ]?[\]]?[]?[:,]?', re.IGNORECASE)
-    if name == 'explainlikeimfive':
-        title, uls  = reddit_dct['title']
-        title       = start_re.sub('', title).strip()
-        reddit_dct['title'] = [title, uls]
     # dedupe and filter comments
     comments    = [c for i, c in enumerate(reddit_dct['comments']) if len(c['body'][0].split()) >= 8 and c['id'] not in [x['id'] for x in reddit_dct['comments'][:i]]]
     comments    = sorted(comments, key=lambda c: (c['score'], len(c['body'][0].split()), c['id']), reverse=True)
     reddit_dct['comments']  = comments
+    # print(reddit_dct['comments'])
     return reddit_dct
 
 
@@ -149,26 +147,15 @@ def main():
     ### download, filter, process, remove
     subprocess.run(['mkdir', 'reddit_tmp'], stdout=subprocess.PIPE)
     st_time    = time()
-    # subreddit_names = json.loads(args.subreddit_list)
-    output_files    = dict([("name", "%s_qalist.json" % ("name",))])
-    qa_dict         = dict([("name", {})])
-    for name, fname in output_files.items():
-        if isfile(fname):
-            print("loading already processed documents from", fname)
-            f = open(fname)
-            qa_dict[name] = dict(json.load(f))
-            f.close()
-            print("loaded already processed documents")
-    # slice file save
-    n_months    = 0
+    # qa_dict = dict([("name", {})])
+    # n_months    = 0
     for year in range(args.start_year, args.end_year + 1):
         st_month    = args.start_month if year == args.start_year else 1
         end_month   = args.end_month if year == args.end_year else 12
         months      = range(st_month, end_month + 1)
         for month in months:
-            merged_comments = 0
             submissions_url, comments_url   = date_to_urls[(year, month)]
-            if not args.answers_only:
+            if args.questions_only:
                 try:
                     processed_submissions   = download_and_process(submissions_url,
                                                                    'submissions',
@@ -181,15 +168,18 @@ def main():
                                                                    'submissions',
                                                                 #    subreddit_names,
                                                                    st_time)
-                # for name in subreddit_names:
-                for dct in processed_submissions[name]:
-                    qa_dict[name][dct['id']]  = dct
-            if not args.questions_only:
+                out_file_name = "RS{year}-{month}.json".format(year=year, month=month)
+                fo = open(out_file_name, "w")
+                jobj = json.dumps(processed_submissions[name], indent=4)
+                fo.write(jobj)
+                fo.close()
+            if args.answers_only:
                 try:
                     processed_comments      = download_and_process(comments_url,
                                                                    'comments',
                                                                 #    subreddit_names,
                                                                    st_time)
+                    # print('pc', processed_comments)
                 except FileNotFoundError as e:
                     sleep(60)
                     print("retrying %s once" % (comments_url))
@@ -197,37 +187,11 @@ def main():
                                                                    'comments',
                                                                 #    subreddit_names,
                                                                    st_time)
-                # merge submissions and comments
-                # for name in subreddit_names:
-                    merged_comments = 0
-                    for dct in processed_comments[name]:
-                        did = dct['parent_id'].split('_')[-1]
-                        # did = dct['parent_id'][3:]
-                        if did in qa_dict[name]:
-                            merged_comments += 1
-                            comments_list               = qa_dict[name][did].get('comments', []) + [dct]
-                            qa_dict[name][did]['comments']    = sorted(comments_list,
-                                                                 key=lambda x:x['score'],
-                                                                 reverse=True)
-                    print("----- added to global dictionary", name, year, month,
-                                                              time() - st_time,
-                                                              merged_comments,
-                                                              len(qa_dict[name]))
-            for name, out_file_name in output_files.items():
+                out_file_name = "RC{year}-{month}.json".format(year=year, month=month)
                 fo = open(out_file_name, "w")
-                jobj = json.dumps([(eli_k, eli_dct) for eli_k, eli_dct in qa_dict[name].items()], indent = 4)
+                jobj = json.dumps(processed_comments[name], indent=4)
                 fo.write(jobj)
                 fo.close()
-    if not args.questions_only:
-        for name, out_file_name in output_files.items():
-            print('post-processing', name)
-            qa_dct_list = [(k, post_process(rdct, name)) for k, rdct in qa_dict[name].items() if 'comments' in rdct]
-            qa_dct_list = [x for x in qa_dct_list if len(x[1]['comments']) > 0 and name in x[1]['url']]
-            fo = open(out_file_name, "w")
-            # json.dump(qa_dct_list, fo)
-            jobj = json.dumps(qa_dct_list, indent=4)
-            fo.write(jobj)
-            fo.close()
 
 
 if __name__ == '__main__':
